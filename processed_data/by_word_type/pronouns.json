@@ -1,0 +1,474 @@
+{
+  "word_type": "Pronoun",
+  "words": [
+    {
+      "word": "all, alle, alles",
+      "translation": "all, every, everyone, everybody, everything",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "anderer, andere, anderes",
+      "translation": "other, another",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "beide",
+      "translation": "both, two",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "der, die, das",
+      "translation": "who, which, this, that",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "dich",
+      "translation": "you (informal), yourself",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "dies, dieser, diese, dieses",
+      "translation": "this, that, these",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "dir",
+      "translation": "you (informal), yourself",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "du",
+      "translation": "you (informal)",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "einiger, einige, einiges",
+      "translation": "a few, some, several, quite a lot",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "er",
+      "translation": "he, it",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "es",
+      "translation": "it",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "etwas",
+      "translation": "something, some, a little, a bit",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "ich",
+      "translation": "I",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "ihm",
+      "translation": "him",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "ihn",
+      "translation": "him, it",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "ihnen",
+      "translation": "them",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "Ihnen",
+      "translation": "you (formal)",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "ihr",
+      "translation": "you (pl./informal), her, their, hers, theirs",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "Ihr",
+      "translation": "your (formal)",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "jeder, jede, jedes",
+      "translation": "every, each, any, everyone, everybody",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "kein",
+      "translation": "no, not a",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "man",
+      "translation": "one, you, they",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "mein",
+      "translation": "my, mine",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "mich",
+      "translation": "me, myself",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "mir",
+      "translation": "me",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "nichts, nix",
+      "translation": "nothing, not anything",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "sein",
+      "translation": "his, its, their, one's, his or her",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "selbst",
+      "translation": "–self",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "sich",
+      "translation": "herself, himself, itself, yourself, themselves, oneself",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "Sie",
+      "translation": "you (formal)",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "sie",
+      "translation": "she, her, they, them, it",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "uns",
+      "translation": "us, ourselves, each other",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "unser",
+      "translation": "our",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "viel",
+      "translation": "much, a lot of, lots of, many",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "was",
+      "translation": "what",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "welcher, welche, welches",
+      "translation": "which, what",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "wem",
+      "translation": "who ... to, to whom, who",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "wenig",
+      "translation": "few, little",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "wer",
+      "translation": "who",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "wir",
+      "translation": "we",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "bisschen",
+      "translation": "a little, a bit, a bit of",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "dein",
+      "translation": "your (informal)",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "ein paar",
+      "translation": "a few",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "euer",
+      "translation": "your (pl./informal)",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "jemand",
+      "translation": "someone, somebody, anybody, anyone",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "mancher, manche, manches",
+      "translation": "some, many a",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "niemand",
+      "translation": "no one, nobody, anyone",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "wen",
+      "translation": "who, whom",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "solch",
+      "translation": "such",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "derselbe, dieselbe, dasselbe",
+      "translation": "the same",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "mehrere",
+      "translation": "several, various",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "selbe, selber, selbes",
+      "translation": "same",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "selber",
+      "translation": "myself, yourself, himself, oneself",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "irgendein",
+      "translation": "some, any",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "sämtlich",
+      "translation": "all",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "deren",
+      "translation": "their, whose",
+      "level": "C1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "dessen",
+      "translation": "whose, its, his",
+      "level": "C1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "denen",
+      "translation": "whom, those, that",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "derjenige, diejenige, dasjenige",
+      "translation": "the one who, the one that",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "jegliche",
+      "translation": "any",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "jener, jene, jenes",
+      "translation": "that, those",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "etliche",
+      "translation": "quite a few, quite a lot, several",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "euch",
+      "translation": "you (pl./informal), yourselves",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "irgendetwas, irgendwas",
+      "translation": "something, anything",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "irgendwelcher, irgendwelche, irgendwelches",
+      "translation": "some, any",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "keinerlei",
+      "translation": "no...at all",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Pronoun"
+    }
+  ],
+  "total_count": 66,
+  "level_distribution": {
+    "A1": 47,
+    "A2": 1,
+    "B1": 7,
+    "C1": 11
+  }
+}

@@ -1,0 +1,516 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+/* Login Screen */
+.login-screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    width: 100%;
+}
+
+.login-container {
+    background: white;
+    padding: 50px;
+    border-radius: 20px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    max-width: 400px;
+    width: 100%;
+}
+
+.login-container h1 {
+    font-size: 3em;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    color: #666;
+    font-size: 1.1em;
+    margin-bottom: 30px;
+}
+
+.login-form {
+    margin-bottom: 30px;
+}
+
+.login-form input {
+    width: 100%;
+    padding: 15px;
+    border: 2px solid #e0e0e0;
+    border-radius: 10px;
+    font-size: 1.1em;
+    margin-bottom: 15px;
+    transition: border-color 0.2s ease;
+}
+
+.login-form input:focus {
+    outline: none;
+    border-color: #667eea;
+}
+
+.btn-login {
+    width: 100%;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border: none;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 1.1em;
+    font-weight: 600;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+.btn-login:hover {
+    transform: scale(1.02);
+}
+
+.login-info {
+    color: #666;
+    font-size: 0.9em;
+}
+
+.login-info .small {
+    font-size: 0.8em;
+    color: #999;
+    margin-top: 10px;
+}
+
+/* App Container */
+.app-container {
+    width: 100%;
+}
+
+.container {
+    width: 100%;
+    max-width: 900px;
+}
+
+header {
+    background: white;
+    padding: 20px;
+    border-radius: 15px 15px 0 0;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.header-top h1 {
+    margin: 0;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.user-info span {
+    color: #666;
+    font-weight: 500;
+}
+
+.btn-menu {
+    background: #f0f0f0;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 8px;
+    font-size: 1.2em;
+    cursor: pointer;
+    transition: background 0.2s ease;
+}
+
+.btn-menu:hover {
+    background: #e0e0e0;
+}
+
+h1 {
+    color: #667eea;
+    font-size: 2em;
+    text-align: center;
+}
+
+/* Stats Panel */
+.stats-panel {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.stat-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    background: #f7f7f7;
+    border-radius: 10px;
+}
+
+.stat-label {
+    font-size: 0.85em;
+    color: #666;
+    margin-bottom: 5px;
+}
+
+.stat-value {
+    font-size: 1.3em;
+    font-weight: 600;
+    color: #333;
+}
+
+.progress-bar {
+    width: 100%;
+    height: 12px;
+    background: #e0e0e0;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+.progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, #58cc02, #58cc02);
+    border-radius: 10px;
+    width: 0%;
+    transition: width 0.3s ease;
+}
+
+.score-container {
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: 600;
+    color: #333;
+}
+
+main {
+    background: white;
+    padding: 30px;
+    border-radius: 0 0 15px 15px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.game-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    min-height: 500px;
+}
+
+.words-column {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.word-card {
+    background: #f7f7f7;
+    border: 3px solid transparent;
+    border-radius: 12px;
+    padding: 20px;
+    cursor: pointer;
+    transition: all 0.2s ease, opacity 0.3s ease;
+    font-size: 1.1em;
+    font-weight: 500;
+    text-align: center;
+    user-select: none;
+    position: relative;
+    min-height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.word-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    background: #fff;
+}
+
+.word-card.selected {
+    border-color: #667eea;
+    background: #e8eaff;
+    transform: scale(1.05);
+}
+
+.word-card.correct {
+    border-color: #58cc02;
+    background: #d7ffb8;
+    animation: correctPulse 0.5s ease;
+}
+
+.word-card.incorrect {
+    border-color: #ff4b4b;
+    background: #ffd7d7;
+    animation: shake 0.5s ease;
+}
+
+.word-card.removing {
+    animation: fadeOut 0.3s ease forwards;
+    pointer-events: none;
+}
+
+.word-card.correct {
+    pointer-events: none;
+}
+
+@keyframes correctPulse {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+}
+
+@keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    25% { transform: translateX(-10px); }
+    75% { transform: translateX(10px); }
+}
+
+@keyframes fadeOut {
+    to {
+        opacity: 0;
+        transform: scale(0.8);
+    }
+}
+
+.left-column .word-card {
+    background: #fff5e6;
+}
+
+.right-column .word-card {
+    background: #e6f3ff;
+}
+
+/* Gender-based text colors for German nouns */
+.word-card.gender-der {
+    color: #1976D2;
+    font-weight: 600;
+}
+
+.word-card.gender-die {
+    color: #C2185B;
+    font-weight: 600;
+}
+
+.word-card.gender-das {
+    color: #388E3C;
+    font-weight: 600;
+}
+
+.completion-screen {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.completion-screen.show {
+    display: flex;
+}
+
+.completion-content {
+    background: white;
+    padding: 50px;
+    border-radius: 20px;
+    text-align: center;
+    animation: slideUp 0.5s ease;
+}
+
+.completion-content h2 {
+    color: #58cc02;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.completion-content p {
+    font-size: 1.3em;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+.btn-restart {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border: none;
+    padding: 15px 40px;
+    border-radius: 25px;
+    font-size: 1.1em;
+    font-weight: 600;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+.btn-restart:hover {
+    transform: scale(1.05);
+}
+
+@keyframes slideUp {
+    from {
+        opacity: 0;
+        transform: translateY(50px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.completion-stats {
+    background: #f7f7f7;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.completion-stats p {
+    font-size: 1em;
+    margin: 10px 0;
+}
+
+/* Menu Modal */
+.modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    justify-content: center;
+    align-items: center;
+    z-index: 2000;
+}
+
+.modal.show {
+    display: flex;
+}
+
+.modal-content {
+    background: white;
+    padding: 40px;
+    border-radius: 20px;
+    max-width: 400px;
+    width: 90%;
+    text-align: center;
+}
+
+.modal-content h2 {
+    color: #667eea;
+    margin-bottom: 30px;
+}
+
+.menu-option {
+    width: 100%;
+    background: #f7f7f7;
+    border: 2px solid transparent;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 1.1em;
+    cursor: pointer;
+    margin-bottom: 10px;
+    transition: all 0.2s ease;
+}
+
+.menu-option:hover {
+    background: #e8eaff;
+    border-color: #667eea;
+}
+
+.btn-close {
+    width: 100%;
+    background: #666;
+    color: white;
+    border: none;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 1em;
+    font-weight: 600;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: background 0.2s ease;
+}
+
+.btn-close:hover {
+    background: #555;
+}
+
+@media (max-width: 768px) {
+    .login-container {
+        padding: 30px;
+    }
+
+    .login-container h1 {
+        font-size: 2em;
+    }
+
+    .stats-panel {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+    }
+
+    .header-top {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    h1 {
+        font-size: 1.5em;
+    }
+
+    .game-container {
+        grid-template-columns: 1fr 1fr;
+        gap: 15px;
+        min-height: auto;
+    }
+
+    main {
+        padding: 15px;
+    }
+
+    .word-card {
+        font-size: 0.95em;
+        padding: 12px 8px;
+        min-height: 60px;
+    }
+
+    .words-column {
+        gap: 10px;
+    }
+
+    .modal-content {
+        padding: 30px 20px;
+    }
+
+    .completion-content {
+        padding: 30px;
+    }
+
+    .completion-content h2 {
+        font-size: 2em;
+    }
+}

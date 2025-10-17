@@ -1,0 +1,65 @@
+{
+  "word_type": "Unknown",
+  "words": [
+    {
+      "word": "das",
+      "translation": "the",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Unknown",
+      "original_id": "der, die, das|the"
+    },
+    {
+      "word": "der",
+      "translation": "the",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Unknown",
+      "original_id": "der, die, das|the"
+    },
+    {
+      "word": "die",
+      "translation": "the",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Unknown",
+      "original_id": "der, die, das|the"
+    },
+    {
+      "word": "ein",
+      "translation": "a",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Unknown",
+      "original_id": "ein, eine|a, an"
+    },
+    {
+      "word": "ein",
+      "translation": "an",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Unknown",
+      "original_id": "ein, eine|a, an"
+    },
+    {
+      "word": "eine",
+      "translation": "a",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Unknown",
+      "original_id": "ein, eine|a, an"
+    },
+    {
+      "word": "eine",
+      "translation": "an",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Unknown",
+      "original_id": "ein, eine|a, an"
+    }
+  ],
+  "total_count": 7,
+  "level_distribution": {
+    "A1": 7
+  }
+}

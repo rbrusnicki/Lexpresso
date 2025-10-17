@@ -1,0 +1,264 @@
+{
+  "word_type": "Conjunction",
+  "words": [
+    {
+      "word": "aber",
+      "translation": "but",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "als",
+      "translation": "as, when, than, as if",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "da",
+      "translation": "because, as, since",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "dass",
+      "translation": "that",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "denn",
+      "translation": "because, since",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "oder",
+      "translation": "or",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "um... zu",
+      "translation": "in order to",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "und",
+      "translation": "and",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "weil",
+      "translation": "because, as",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "wenn",
+      "translation": "if, when",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "zu",
+      "translation": "to",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "damit",
+      "translation": "so that",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "ob",
+      "translation": "whether, if",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "sondern",
+      "translation": "but",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "während",
+      "translation": "while, whereas",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "bevor",
+      "translation": "before, until",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "entweder... oder",
+      "translation": "either... or",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "falls",
+      "translation": "in case, if",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "indem",
+      "translation": "while, by",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "je... (desto/umso...)",
+      "translation": "the more...",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "nachdem",
+      "translation": "after",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "obwohl",
+      "translation": "although, even though",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "seitdem",
+      "translation": "since",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "sobald",
+      "translation": "as soon as",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "sodass",
+      "translation": "so that",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "solang(e)",
+      "translation": "as long as, so long as, whilst, while",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "sowohl... als auch",
+      "translation": "both... and, ... as well as...",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "weder... noch",
+      "translation": "neither... nor",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "soviel",
+      "translation": "as much as, as far as, so far as, however much",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "umso",
+      "translation": "the more",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "sowie",
+      "translation": "as well as, as soon as",
+      "level": "C1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "beziehungsweise",
+      "translation": "or rather, and ... respectively",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "zumal",
+      "translation": "particularly (as/since), especially (as/since)",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "desto",
+      "translation": "the more",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "ehe",
+      "translation": "before",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "sofern",
+      "translation": "provided that, if",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Conjunction"
+    }
+  ],
+  "total_count": 36,
+  "level_distribution": {
+    "A1": 11,
+    "B1": 17,
+    "B2": 2,
+    "C1": 6
+  }
+}

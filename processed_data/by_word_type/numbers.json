@@ -1,0 +1,446 @@
+{
+  "word_type": "Number",
+  "words": [
+    {
+      "word": "drei-3",
+      "translation": "three",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Number"
+    },
+    {
+      "word": "erste-1.",
+      "translation": "first",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Number"
+    },
+    {
+      "word": "vier-4",
+      "translation": "four",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Number"
+    },
+    {
+      "word": "zwei-2",
+      "translation": "two",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Number"
+    },
+    {
+      "word": "zweite-2.",
+      "translation": "second, 2nd",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Number"
+    },
+    {
+      "word": "(ein)hundert-100",
+      "translation": "hundred",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "(ein)tausend-1000",
+      "translation": "thousand",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "acht-8",
+      "translation": "eight",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "dritte-3.",
+      "translation": "third, 3rd",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "drittel-1/3",
+      "translation": "third",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "eins-1",
+      "translation": "one",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "elf-11",
+      "translation": "eleven",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "fünf-5",
+      "translation": "five",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "neun-9",
+      "translation": "nine",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "sechs-6",
+      "translation": "six",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "sieben-7",
+      "translation": "seven",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "vierte-4.",
+      "translation": "fourth, 4th",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "zehn-10",
+      "translation": "ten",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "zwölf-12",
+      "translation": "twelve",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "dreißig-30",
+      "translation": "thirty",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Number"
+    },
+    {
+      "word": "eineinhalb, anderthalb-1 1/2",
+      "translation": "one and a half",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Number"
+    },
+    {
+      "word": "fünfzehn-15",
+      "translation": "fifteen",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Number"
+    },
+    {
+      "word": "fünfzig-50",
+      "translation": "fifty",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Number"
+    },
+    {
+      "word": "null-0",
+      "translation": "zero, null",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Number"
+    },
+    {
+      "word": "siebzig-70",
+      "translation": "seventy",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Number"
+    },
+    {
+      "word": "vierzehn-14",
+      "translation": "fourteen",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Number"
+    },
+    {
+      "word": "vierzig-40",
+      "translation": "forty",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Number"
+    },
+    {
+      "word": "zwanzig-20",
+      "translation": "twenty",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Number"
+    },
+    {
+      "word": "achtzehn-18",
+      "translation": "eighteen",
+      "level": "A2",
+      "frequency": 2,
+      "word_type": "Number"
+    },
+    {
+      "word": "achtzig-80",
+      "translation": "eighty",
+      "level": "A2",
+      "frequency": 2,
+      "word_type": "Number"
+    },
+    {
+      "word": "dreihundert-300",
+      "translation": "three hundred",
+      "level": "A2",
+      "frequency": 2,
+      "word_type": "Number"
+    },
+    {
+      "word": "dreizehn-13",
+      "translation": "thirteen",
+      "level": "A2",
+      "frequency": 2,
+      "word_type": "Number"
+    },
+    {
+      "word": "fünfhundert-500",
+      "translation": "five hundred",
+      "level": "A2",
+      "frequency": 2,
+      "word_type": "Number"
+    },
+    {
+      "word": "fünfundzwanzig-25",
+      "translation": "twenty-five",
+      "level": "A2",
+      "frequency": 2,
+      "word_type": "Number"
+    },
+    {
+      "word": "neunzehn-19",
+      "translation": "nineteen",
+      "level": "A2",
+      "frequency": 2,
+      "word_type": "Number"
+    },
+    {
+      "word": "neunzig-90",
+      "translation": "ninety",
+      "level": "A2",
+      "frequency": 2,
+      "word_type": "Number"
+    },
+    {
+      "word": "sechzehn-16",
+      "translation": "sixteen",
+      "level": "A2",
+      "frequency": 2,
+      "word_type": "Number"
+    },
+    {
+      "word": "sechzig-60",
+      "translation": "sixty",
+      "level": "A2",
+      "frequency": 2,
+      "word_type": "Number"
+    },
+    {
+      "word": "siebzehn-17",
+      "translation": "seventeen",
+      "level": "A2",
+      "frequency": 2,
+      "word_type": "Number"
+    },
+    {
+      "word": "viertel-1/4",
+      "translation": "quarter",
+      "level": "A2",
+      "frequency": 2,
+      "word_type": "Number"
+    },
+    {
+      "word": "zweihundert-200",
+      "translation": "two hundred",
+      "level": "A2",
+      "frequency": 2,
+      "word_type": "Number"
+    },
+    {
+      "word": "einundzwanzig-21",
+      "translation": "twenty-one",
+      "level": "A2",
+      "frequency": 1,
+      "word_type": "Number"
+    },
+    {
+      "word": "sechshundert-600",
+      "translation": "six hundred",
+      "level": "A2",
+      "frequency": 1,
+      "word_type": "Number"
+    },
+    {
+      "word": "sechsundzwanzig-26",
+      "translation": "twenty-six",
+      "level": "A2",
+      "frequency": 1,
+      "word_type": "Number"
+    },
+    {
+      "word": "ein-1",
+      "translation": "one",
+      "level": "C1",
+      "frequency": 5,
+      "word_type": "Number"
+    },
+    {
+      "word": "achte-8.",
+      "translation": "eighth, 8th",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "fünftausend-5000",
+      "translation": "five thousand",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Number"
+    },
+    {
+      "word": "vierundzwanzig-24",
+      "translation": "twenty-four",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Number"
+    },
+    {
+      "word": "dreiundsechzig-63",
+      "translation": "sixty-three",
+      "level": "C2",
+      "frequency": 1,
+      "word_type": "Number"
+    },
+    {
+      "word": "dreiundzwanzig-23",
+      "translation": "twenty-three",
+      "level": "C2",
+      "frequency": 1,
+      "word_type": "Number"
+    },
+    {
+      "word": "einhundertfünfzig-150",
+      "translation": "one hundred fifty",
+      "level": "C2",
+      "frequency": 1,
+      "word_type": "Number"
+    },
+    {
+      "word": "einhundertsiebenundzwanzig-127",
+      "translation": "one hundred twenty seven",
+      "level": "C2",
+      "frequency": 1,
+      "word_type": "Number"
+    },
+    {
+      "word": "einhundertzwanzig-120",
+      "translation": "one hundred twenty",
+      "level": "C2",
+      "frequency": 1,
+      "word_type": "Number"
+    },
+    {
+      "word": "neunundfünfzig-59",
+      "translation": "fifty-nine",
+      "level": "C2",
+      "frequency": 1,
+      "word_type": "Number"
+    },
+    {
+      "word": "neunundneunzig-99",
+      "translation": "ninety-nine",
+      "level": "C2",
+      "frequency": 1,
+      "word_type": "Number"
+    },
+    {
+      "word": "sechsundsiebzig-76",
+      "translation": "seventy-six",
+      "level": "C2",
+      "frequency": 1,
+      "word_type": "Number"
+    },
+    {
+      "word": "siebentausend-7000",
+      "translation": "seven thousand",
+      "level": "C2",
+      "frequency": 1,
+      "word_type": "Number"
+    },
+    {
+      "word": "vierundsechzig-64",
+      "translation": "sixty-four",
+      "level": "C2",
+      "frequency": 1,
+      "word_type": "Number"
+    },
+    {
+      "word": "zweitausendfünfzig-2050",
+      "translation": "two thousand and fifty",
+      "level": "C2",
+      "frequency": 1,
+      "word_type": "Number"
+    },
+    {
+      "word": "zweitausendzehn-2010",
+      "translation": "two thousand and ten",
+      "level": "C2",
+      "frequency": 1,
+      "word_type": "Number"
+    },
+    {
+      "word": "zweitausendzwanzig-2020",
+      "translation": "two thousand and twenty",
+      "level": "C2",
+      "frequency": 1,
+      "word_type": "Number"
+    },
+    {
+      "word": "zweiundvierzig-42",
+      "translation": "forty-two",
+      "level": "C2",
+      "frequency": 1,
+      "word_type": "Number"
+    }
+  ],
+  "total_count": 62,
+  "level_distribution": {
+    "A1": 19,
+    "A2": 25,
+    "C1": 2,
+    "C2": 16
+  }
+}

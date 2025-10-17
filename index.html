@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lexpresso - Learn German</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Login Screen -->
+    <div class="login-screen" id="loginScreen">
+        <div class="login-container">
+            <h1>🇩🇪 Lexpresso</h1>
+            <p class="subtitle">Learn German with Spaced Repetition</p>
+
+            <div class="login-form">
+                <input
+                    type="text"
+                    id="usernameInput"
+                    placeholder="Enter your username"
+                    autocomplete="off"
+                >
+                <button class="btn-login" id="loginBtn">Start Learning</button>
+            </div>
+
+            <div class="login-info">
+                <p>New here? Just enter a username to create your account!</p>
+                <p class="small">Your progress is saved in your browser.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main App -->
+    <div class="app-container" id="appContainer" style="display: none;">
+        <div class="container">
+            <header>
+                <div class="header-top">
+                    <h1>Lexpresso</h1>
+                    <div class="user-info">
+                        <span id="usernameDisplay"></span>
+                        <button class="btn-menu" id="menuBtn">☰</button>
+                    </div>
+                </div>
+
+                <div class="stats-panel">
+                    <div class="stat-item">
+                        <span class="stat-label">Today's Goal</span>
+                        <span class="stat-value" id="todayGoal">0 / 50</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-label">Learning</span>
+                        <span class="stat-value" id="learningCount">0</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-label">Learned</span>
+                        <span class="stat-value" id="learnedCount">0</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-label">Accuracy</span>
+                        <span class="stat-value" id="accuracyPercent">0%</span>
+                    </div>
+                </div>
+
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progressBar"></div>
+                </div>
+            </header>
+
+            <main>
+                <div class="game-container" id="gameContainer">
+                    <div class="words-column left-column" id="leftColumn">
+                        <!-- English words will be added here -->
+                    </div>
+                    <div class="words-column right-column" id="rightColumn">
+                        <!-- German words will be added here -->
+                    </div>
+                </div>
+
+                <div class="completion-screen" id="completionScreen">
+                    <div class="completion-content">
+                        <h2>Great Session!</h2>
+                        <p id="completionMessage">You've learned 50 words today!</p>
+                        <div class="completion-stats" id="completionStats"></div>
+                        <button class="btn-restart" onclick="location.reload()">Continue Tomorrow</button>
+                    </div>
+                </div>
+            </main>
+        </div>
+
+        <!-- Menu Modal -->
+        <div class="modal" id="menuModal">
+            <div class="modal-content">
+                <h2>Menu</h2>
+                <button class="menu-option" id="exportDataBtn">📥 Export Progress</button>
+                <button class="menu-option" id="importDataBtn">📤 Import Progress</button>
+                <button class="menu-option" id="viewStatsBtn">📊 View Statistics</button>
+                <button class="menu-option" id="logoutBtn">🚪 Logout</button>
+                <button class="btn-close" id="closeMenuBtn">Close</button>
+                <input type="file" id="importFileInput" accept=".json" style="display: none;">
+            </div>
+        </div>
+    </div>
+
+    <script src="user-manager.js"></script>
+    <script src="learning-system.js"></script>
+    <script src="game.js"></script>
+</body>
+</html>

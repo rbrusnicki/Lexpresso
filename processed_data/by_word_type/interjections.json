@@ -1,0 +1,194 @@
+{
+  "word_type": "Interjection",
+  "words": [
+    {
+      "word": "ja",
+      "translation": "yes",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "bitte",
+      "translation": "please",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "danke",
+      "translation": "thank you, thanks",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "hallo",
+      "translation": "hello",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "nein, nee, nö",
+      "translation": "no",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "Entschuldigung",
+      "translation": "excuse me, sorry",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "tschüss",
+      "translation": "goodbye, bye",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "Gesundheit",
+      "translation": "bless you",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "halt",
+      "translation": "stop",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "ach",
+      "translation": "oh, alas",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "herein",
+      "translation": "come in",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "tja",
+      "translation": "well",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "Mahlzeit",
+      "translation": "Enjoy your meal",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "aha",
+      "translation": "aha, I see",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "aua",
+      "translation": "ouch, ow",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "bravo",
+      "translation": "well done, bravo",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "bäh",
+      "translation": "yuck, ugh",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "hoppla",
+      "translation": "oops, whoops",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "hui",
+      "translation": "whoosh, wow, oh",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "igitt",
+      "translation": "yuck, ugh",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "juhu",
+      "translation": "yippee, hooray, yay, yahoo",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "oje, ojemine",
+      "translation": "oh dear",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "pfui",
+      "translation": "fie, ugh, yuck",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "kuckuck",
+      "translation": "peekaboo, peep-bo",
+      "level": "C2",
+      "frequency": 1,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "papperlapapp",
+      "translation": "poppycock, hogwash, nonsense",
+      "level": "C2",
+      "frequency": 1,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "pst, psst, pssst",
+      "translation": "shh",
+      "level": "C2",
+      "frequency": 1,
+      "word_type": "Interjection"
+    }
+  ],
+  "total_count": 26,
+  "level_distribution": {
+    "A1": 5,
+    "A2": 2,
+    "C1": 5,
+    "C2": 14
+  }
+}

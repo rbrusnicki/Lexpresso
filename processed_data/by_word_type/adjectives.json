@@ -1,0 +1,6790 @@
+{
+  "word_type": "Adjective",
+  "words": [
+    {
+      "word": "alt",
+      "translation": "old",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "besser",
+      "translation": "better",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "bester, beste, bestes",
+      "translation": "best",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "deutsch",
+      "translation": "German",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "eigen",
+      "translation": "own",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "eigentlich",
+      "translation": "actual, real",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "einfach",
+      "translation": "simple, easy",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ganz",
+      "translation": "whole, entire, all the, total",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "genau",
+      "translation": "exact, precise, accurate",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gerade",
+      "translation": "straight, even",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gleich",
+      "translation": "same, equal, identical",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "groß",
+      "translation": "big, large, great, tall",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gut",
+      "translation": "good, fine",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "hoch",
+      "translation": "high, tall",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "jung",
+      "translation": "young",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "klein",
+      "translation": "small, little, short, tiny, minor",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "kurz",
+      "translation": "short, brief, quick",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "lang",
+      "translation": "long",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "möglich",
+      "translation": "possible",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "natürlich",
+      "translation": "natural",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "neu",
+      "translation": "new",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "nächste",
+      "translation": "next",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "richtig",
+      "translation": "correct, right",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "rund",
+      "translation": "round, circular",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schnell",
+      "translation": "fast, quick",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schön",
+      "translation": "beautiful, nice",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sicher",
+      "translation": "safe, secure, certain, sure",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "spät",
+      "translation": "late",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "später",
+      "translation": "later",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "stark",
+      "translation": "strong, thick, powerful, heavy, severe",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "weit",
+      "translation": "wide, far, broad",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "wichtig",
+      "translation": "important",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "aktiv",
+      "translation": "active",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "aktuell",
+      "translation": "current, topical",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ausländisch",
+      "translation": "foreign",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "automatisch",
+      "translation": "automatic",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "bekannt",
+      "translation": "known, well-known, familiar, famous",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "billig",
+      "translation": "cheap",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "blau",
+      "translation": "blue",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "breit",
+      "translation": "wide, broad",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "deutlich",
+      "translation": "clear(ly), significant(ly)",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "direkt",
+      "translation": "direct, straight",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "dunkel",
+      "translation": "dark",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "echt",
+      "translation": "genuine, real",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "einzeln",
+      "translation": "individual, single, separate, lone",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "eng",
+      "translation": "narrow, tight, close",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "europäisch",
+      "translation": "European",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "falsch",
+      "translation": "false, wrong, incorrect",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "fertig",
+      "translation": "finished, ready",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "frei",
+      "translation": "free, available, vacant, clear",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "fremd",
+      "translation": "foreign, strange, unfamiliar",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "früh",
+      "translation": "early",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "geboren",
+      "translation": "born",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gelb",
+      "translation": "yellow",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "geschlossen",
+      "translation": "closed",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "glücklich",
+      "translation": "happy, fortunate, lucky",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "grün",
+      "translation": "green",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "günstig",
+      "translation": "cheap, reasonable, favourable, favorable, good",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "halb",
+      "translation": "half",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "hart",
+      "translation": "hard",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "heiß",
+      "translation": "hot",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "herzlich",
+      "translation": "warm, friendly, cordial, kind",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "interessant",
+      "translation": "interesting",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "international",
+      "translation": "international(ly)",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "kalt",
+      "translation": "cold",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "klar",
+      "translation": "clear",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "kulturell",
+      "translation": "cultural",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "langsam",
+      "translation": "slow",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "laut",
+      "translation": "loud, noisy",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "leer",
+      "translation": "empty, blank, vacant",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "leicht",
+      "translation": "light, easy",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "letzter, letzte, letztes",
+      "translation": "last",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "lieb",
+      "translation": "sweet, dear, kind, nice",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "lustig",
+      "translation": "funny, amusing, merry",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "meist",
+      "translation": "most",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "modern",
+      "translation": "modern, fashionable",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "normal",
+      "translation": "normal",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "notwendig",
+      "translation": "necessary",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "offen",
+      "translation": "open",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "plötzlich",
+      "translation": "sudden(ly)",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "praktisch",
+      "translation": "practical",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "rot",
+      "translation": "red",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ruhig",
+      "translation": "quiet(ly), calm(ly)",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schlecht",
+      "translation": "bad, poor",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schlimm",
+      "translation": "bad, terrible, serious",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schwach",
+      "translation": "weak",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schwarz",
+      "translation": "black",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schwer",
+      "translation": "difficult, heavy, hard, severe",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schwierig",
+      "translation": "difficult, hard",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "teuer",
+      "translation": "expensive",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "tief",
+      "translation": "deep, low",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "toll",
+      "translation": "great, terrific, awesome, fantastic",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "tot",
+      "translation": "dead",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "typisch",
+      "translation": "typical, characteristic (of)",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "täglich",
+      "translation": "daily",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verboten",
+      "translation": "prohibited, forbidden, not allowed",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verschieden",
+      "translation": "different, diverse, various, diverse, several",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "voll",
+      "translation": "full",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "wahr",
+      "translation": "true, real",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "wahrscheinlich",
+      "translation": "probable, likely",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "warm",
+      "translation": "warm",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "weiblich",
+      "translation": "feminine, female",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "weiß",
+      "translation": "white",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "willkommen",
+      "translation": "welcome",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "wirklich",
+      "translation": "real, actual, true",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "wunderbar",
+      "translation": "wonderful",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "zufrieden",
+      "translation": "satisfied",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "beliebt",
+      "translation": "popular",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "berühmt",
+      "translation": "famous",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "bunt",
+      "translation": "colourful, colorful",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "dick",
+      "translation": "thick, fat, big",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "dringend",
+      "translation": "urgent",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "freiwillig",
+      "translation": "voluntary",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "freundlich",
+      "translation": "kind(ly), friendly",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "frisch",
+      "translation": "fresh",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "froh",
+      "translation": "happy, glad",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gefährlich",
+      "translation": "dangerous",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gesund",
+      "translation": "healthy",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "kostenlos",
+      "translation": "free, free (of charge), gratis, freebie",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "nett",
+      "translation": "nice, kind",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "reich",
+      "translation": "rich, wealthy, abundant",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schade",
+      "translation": "a pity, a shame, a bummer, too bad",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "scharf",
+      "translation": "sharp, hot, spicy",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "spannend",
+      "translation": "exciting, thrilling",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sportlich",
+      "translation": "athletic, sporty",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "streng",
+      "translation": "strict, stern, severe",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "super",
+      "translation": "super, great",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "total",
+      "translation": "total, complete",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "trocken",
+      "translation": "dry",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "arbeitslos",
+      "translation": "unemployed, jobless",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "arm",
+      "translation": "poor",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "aufregend",
+      "translation": "exciting, thrilling",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "bar",
+      "translation": "cash",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "bequem",
+      "translation": "comfortable",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "besetzt",
+      "translation": "occupied, filled, busy, taken",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "bitter",
+      "translation": "bitter",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "blond",
+      "translation": "blond",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "blöd",
+      "translation": "stupid, dumb, silly",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "braun",
+      "translation": "brown",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "böse",
+      "translation": "bad, mad, angry, evil",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "dumm",
+      "translation": "stupid, silly, dumb",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "dünn",
+      "translation": "thin, slim, lean, fine",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "eilig",
+      "translation": "urgent, rushed, hasty",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "einverstanden",
+      "translation": "in agreement, agreed, agreeable, okay",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "fantastisch",
+      "translation": "fantastic, terrific, awesome, fanciful",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "faul",
+      "translation": "lazy, rotten, foul",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "fett",
+      "translation": "fat, fatty, rich, bold",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "fit",
+      "translation": "fit",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "fleißig",
+      "translation": "hard-working, diligent, industrious",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "furchtbar",
+      "translation": "terrible, horrible, awful, dreadful",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "geehrt",
+      "translation": "honoured, honored, dear",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "geschieden",
+      "translation": "divorced",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "getrennt",
+      "translation": "separate",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "geöffnet",
+      "translation": "open",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "grau",
+      "translation": "grey, gray",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gültig",
+      "translation": "valid",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "hell",
+      "translation": "light, bright",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "hässlich",
+      "translation": "ugly",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "intelligent",
+      "translation": "intelligent",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "kaputt",
+      "translation": "broken, damaged",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "klug",
+      "translation": "clever, smart, wise",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "komisch",
+      "translation": "funny, comical, strange, weird",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "krank",
+      "translation": "sick, ill",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "kühl",
+      "translation": "cool, chilly",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "langweilig",
+      "translation": "boring, dull",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "leise",
+      "translation": "quiet, soft",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "männlich",
+      "translation": "male",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "müde",
+      "translation": "tired, weary",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "nass",
+      "translation": "wet",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "nervös",
+      "translation": "nervous",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "nützlich",
+      "translation": "useful",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "orange",
+      "translation": "orange",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "preiswert",
+      "translation": "inexpensive, good value, affordable, cheap",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "pünktlich",
+      "translation": "punctual, on time",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "romantisch",
+      "translation": "romantic, picturesque",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "rosa",
+      "translation": "pink",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sauber",
+      "translation": "clean",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sauer",
+      "translation": "sour, acid(ic), pickled, angry, pissed (off)",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schmutzig",
+      "translation": "dirty, filthy, sordid",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schrecklich",
+      "translation": "terrible, horrible, awful, dreadful",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schriftlich",
+      "translation": "written",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schwanger",
+      "translation": "pregnant",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schädlich",
+      "translation": "damaging, harmful, detrimental, noxious",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "selb(st)ständig",
+      "translation": "independent, self-employed",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sonnig",
+      "translation": "sunny",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "stressig",
+      "translation": "stressful",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sympathisch",
+      "translation": "likable, likeable, nice, personable, congenial",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "süß",
+      "translation": "sweet, cute",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "traurig",
+      "translation": "sad",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verheiratet",
+      "translation": "married",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vorsichtig",
+      "translation": "cautious, careful",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "wach",
+      "translation": "awake",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "weich",
+      "translation": "soft",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "witzig",
+      "translation": "funny, witty",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "bewölkt",
+      "translation": "cloudy",
+      "level": "A2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "erkältet",
+      "translation": "with a cold, to have a cold",
+      "level": "A2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ledig",
+      "translation": "single, unmarried",
+      "level": "A2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "lila",
+      "translation": "purple",
+      "level": "A2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "neblig",
+      "translation": "foggy, misty",
+      "level": "A2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "windig",
+      "translation": "windy, breezy",
+      "level": "A2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unterer, untere, unteres",
+      "translation": "lower, bottom",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "weiterer, weitere, weiteres",
+      "translation": "additional, further, other",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "absolut",
+      "translation": "absolute, complete",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "allgemein",
+      "translation": "general",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "angenehm",
+      "translation": "pleasant, comfortable",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "aufmerksam",
+      "translation": "attentive",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ausreichend",
+      "translation": "sufficient, enough, adequate",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ausschließlich",
+      "translation": "exclusive(ly), sole(ly), only",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "begeistert",
+      "translation": "enthusiastic, thrilled, excited",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "bereit",
+      "translation": "ready, prepared, willing",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "beruflich",
+      "translation": "professional(ly), occupational(ly), vocational(ly)",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "besonderer, besondere, besonderes",
+      "translation": "special",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "bestimmt",
+      "translation": "special, certain, particular, specific",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "bloß",
+      "translation": "bare, mere",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "dicht",
+      "translation": "thick, dense",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "digital",
+      "translation": "digital",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "doppelt",
+      "translation": "twice, double, dual",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "durchschnittlich",
+      "translation": "average, on average",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ehrlich",
+      "translation": "honest",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "eindeutig",
+      "translation": "clear, unambiguous",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "einzig",
+      "translation": "only, single, sole",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "elektronisch",
+      "translation": "electronic",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "endgültig",
+      "translation": "final, ultimate, definite",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "erfolgreich",
+      "translation": "successful(ly)",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "erforderlich",
+      "translation": "required, necessary",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ernst",
+      "translation": "serious",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "eventuell",
+      "translation": "possible",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "extrem",
+      "translation": "extreme(ly)",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "fest",
+      "translation": "firm, solid, fixed",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "finanziell",
+      "translation": "financial",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "folgend",
+      "translation": "following",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gar",
+      "translation": "cooked, done",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "geeignet",
+      "translation": "suitable, suited, appropriate, convenient",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gemeinsam",
+      "translation": "common, mutual, shared, joint",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gemütlich",
+      "translation": "comfortable, cosy, cozy, comfy",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gerecht",
+      "translation": "just, fair",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gering",
+      "translation": "low, small, slight, minor",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gesamt",
+      "translation": "whole, entire, total, overall, full",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gespannt",
+      "translation": "eager, curious, tense, excited, streched",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gleichzeitig",
+      "translation": "simultaneous(ly), concurrent(ly), at the same time, at once",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "heutig",
+      "translation": "present, present-day, today’s",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "historisch",
+      "translation": "historical, historic",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "häufig",
+      "translation": "common, frequent(ly), often",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ideal",
+      "translation": "ideal",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "individuell",
+      "translation": "individual",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "intensiv",
+      "translation": "intensive",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "interessiert",
+      "translation": "interested",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "jährlich",
+      "translation": "annual(ly), yearly, every year, each year",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "knapp",
+      "translation": "scarce, slim, tight, almost",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "komplett",
+      "translation": "complete, entire",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "kreativ",
+      "translation": "creative",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "kritisch",
+      "translation": "critical",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "kräftig",
+      "translation": "strong, powerful, vigorous",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "maximal",
+      "translation": "maximum, maximal",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "menschlich",
+      "translation": "human",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "mobil",
+      "translation": "mobile",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "monatlich",
+      "translation": "monthly",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "musikalisch",
+      "translation": "musical",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "nahe, nah",
+      "translation": "near, nearby, close",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "national",
+      "translation": "national",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "negativ",
+      "translation": "negative",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "niedrig",
+      "translation": "low, base",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "nötig",
+      "translation": "necessary",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "offenbar",
+      "translation": "obvious(ly), apparent(ly)",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "offiziell",
+      "translation": "official",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ordentlich",
+      "translation": "neat, proper, orderly, tidy, decent",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "perfekt",
+      "translation": "perfect",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "persönlich",
+      "translation": "personal",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "politisch",
+      "translation": "political(ly)",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "positiv",
+      "translation": "positive",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "privat",
+      "translation": "private",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "rechter, rechte, rechtes",
+      "translation": "right",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "rechtlich",
+      "translation": "legal",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "regelmäßig",
+      "translation": "regular",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "regional",
+      "translation": "regional",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "rein",
+      "translation": "pure, clear, clean, mere, sheer",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "relativ",
+      "translation": "relative",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "riesig",
+      "translation": "enormous, huge, giant",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "selbstverständlich",
+      "translation": "obvious, natural, self-evident",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "selten",
+      "translation": "rare(ly), seldom",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sichtbar",
+      "translation": "visible",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sinnvoll",
+      "translation": "sensible, meaningful",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sogenannt",
+      "translation": "so-called",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sozial",
+      "translation": "social",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "speziell",
+      "translation": "special, particular, specific",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "still",
+      "translation": "still, silent, quiet, calm",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "stolz",
+      "translation": "proud",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "städtisch",
+      "translation": "municipal, urban, civic",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ständig",
+      "translation": "constant, continuous, permanent, steady, perpetual",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "tatsächlich",
+      "translation": "real, actual",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "technisch",
+      "translation": "technical(ly), technological(ly)",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "traditionell",
+      "translation": "traditional(ly)",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ungewöhnlich",
+      "translation": "unusual",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unglaublich",
+      "translation": "incredible, unbelievable",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unterschiedlich",
+      "translation": "different, variable",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ursprünglich",
+      "translation": "original, initial, natural, unspoiled",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verantwortlich",
+      "translation": "responsible",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "voraussichtlich",
+      "translation": "expected, estimated",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "völlig",
+      "translation": "complete",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "weltweit",
+      "translation": "worldwide, global",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "wertvoll",
+      "translation": "valuable, precious",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "westlich",
+      "translation": "west, western, westerly",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "wild",
+      "translation": "wild",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "wunderschön",
+      "translation": "beautiful, wonderful, lovely, gorgeous",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "zahlreich",
+      "translation": "numerous",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "zentral",
+      "translation": "central",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "zukünftig",
+      "translation": "future",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "zuständig",
+      "translation": "appropriate, responsible",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "zusätzlich",
+      "translation": "additional, extra, further",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ähnlich",
+      "translation": "similar",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "öffentlich",
+      "translation": "public",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "üblich",
+      "translation": "usual, common, customary",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "übrig",
+      "translation": "remaining, left",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "abhängig",
+      "translation": "dependent, addicted",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "außen",
+      "translation": "outside",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "biologisch",
+      "translation": "biological",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "einheitlich",
+      "translation": "uniform, standardized",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "elektrisch",
+      "translation": "electric",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ewig",
+      "translation": "eternal",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "flach",
+      "translation": "flat, low, shallow",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gewohnt",
+      "translation": "usual, familiar, accustomed to, used to",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gewöhnlich",
+      "translation": "usual, common, ordinary, general, normal",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "innerer, innere, inneres",
+      "translation": "inner, internal, interior",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "kompliziert",
+      "translation": "complicated",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "körperlich",
+      "translation": "physical(ly)",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "künstlich",
+      "translation": "artificial",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "mittlerer, mittlere, mittleres",
+      "translation": "middle, average",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "obere, oberer, oberes",
+      "translation": "upper",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "parallel",
+      "translation": "parallel",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schmal",
+      "translation": "narrow, slender, slim",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schuld",
+      "translation": "to be to blame",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "statistisch",
+      "translation": "statistical",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "theoretisch",
+      "translation": "theoretical",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "umgekehrt",
+      "translation": "reversed, contrary, the other way around",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ungefähr",
+      "translation": "approximately",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unheimlich",
+      "translation": "eerie, scary, uncanny",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "wert",
+      "translation": "worth",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "zufällig",
+      "translation": "accidental, by chance",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "alltäglich",
+      "translation": "daily, usual, ordinary",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "alternativ",
+      "translation": "alternative",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "anstrengend",
+      "translation": "exhausting, strenuous, tiring, arduous, demanding",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "anwesend",
+      "translation": "present",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ausgebildet",
+      "translation": "trained, educated",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ausgezeichnet",
+      "translation": "excellent, perfect, fine, superb",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "befriedigend",
+      "translation": "satisfying, satisfactory",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "begrenzt",
+      "translation": "limited, finite, confined",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "berufstätig",
+      "translation": "employed, working",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "betrunken",
+      "translation": "drunk, drunken",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "blass",
+      "translation": "pale",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "blind",
+      "translation": "blind",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "dankbar",
+      "translation": "grateful, thankful",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "dauernd",
+      "translation": "constant, lasting",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "einsam",
+      "translation": "lonely, lone, lonesome, isolated, solitary",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "elegant",
+      "translation": "elegant",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "entschlossen",
+      "translation": "determined, resolute",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ernsthaft",
+      "translation": "serious, genuine",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "erwachsen",
+      "translation": "adult, grown-up, mature",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "fair",
+      "translation": "fair",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "farbig",
+      "translation": "colored, colorful, coloured, colourful",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "feucht",
+      "translation": "damp, moist, humid, clammy",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "flexibel",
+      "translation": "flexible",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "fließend",
+      "translation": "fluent, flowing, fluid, running",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "frech",
+      "translation": "cheeky, fresh, impudent, insolent",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "fröhlich",
+      "translation": "cheerful, happy, merry",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "fällig",
+      "translation": "due, payable",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "geheim",
+      "translation": "secret",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "glatt",
+      "translation": "smooth, even, slippery, straight",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gleichberechtigt",
+      "translation": "equal, with equal rights",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gratis",
+      "translation": "free (of charge), gratis",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gründlich",
+      "translation": "thorough(ly)",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "haltbar",
+      "translation": "durable, non-perishable, tenable, preserved",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "heimlich",
+      "translation": "secret, clandestine, furtive, stealthy",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "hungrig",
+      "translation": "hungry",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "höflich",
+      "translation": "polite, courteous",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "hübsch",
+      "translation": "pretty",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "illegal",
+      "translation": "illegal",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "interkulturell",
+      "translation": "intercultural",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "klasse",
+      "translation": "great, neat, brilliant, awesome",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "korrekt",
+      "translation": "correct(ly)",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "lecker",
+      "translation": "delicious, tasty",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "locker",
+      "translation": "loose, relaxed, casual, easy-going, slack",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "mager",
+      "translation": "lean, thin, skinny",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "merkwürdig",
+      "translation": "strange, curious, odd",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "mild",
+      "translation": "mild, gentle, lenient",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "minimal",
+      "translation": "minimal",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "mutig",
+      "translation": "brave, courageous",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "mündlich",
+      "translation": "oral",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "neugierig",
+      "translation": "curious",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "nördlich",
+      "translation": "north, northern",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "optimistisch",
+      "translation": "optimistic",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "original",
+      "translation": "original",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "passiv",
+      "translation": "passive",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "pauschal",
+      "translation": "flat-rate, all-inclusive, sweeping, general",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "peinlich",
+      "translation": "embarrassing, awkward",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "populär",
+      "translation": "popular",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "prima",
+      "translation": "great, neat, super, fantastic, awesome",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "realistisch",
+      "translation": "realistic",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "rechtzeitig",
+      "translation": "punctual, in time, in good time, on time, timely",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "reif",
+      "translation": "ripe, mature",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "roh",
+      "translation": "raw, rough, crude",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "satt",
+      "translation": "full, rich, lush, replete, saturated",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schick",
+      "translation": "chic, fashionable, stylish",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schief",
+      "translation": "crooked, not straight",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schlank",
+      "translation": "slim, lean, slender",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schuldig",
+      "translation": "guilty, culpable",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "seltsam",
+      "translation": "strange, peculiar, odd",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sinnlos",
+      "translation": "senseless, pointless, meaningless",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sparsam",
+      "translation": "economical, thrifty, spare, sparing",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "spitz",
+      "translation": "pointed, sharp, acute",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "steil",
+      "translation": "steep",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "stilistisch",
+      "translation": "stylistic",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "strafbar",
+      "translation": "punishable, liable to prosecution, criminal",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "stumm",
+      "translation": "dumb, silent, mute",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "südlich",
+      "translation": "south, southern",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "treu",
+      "translation": "faithful, loyal, true",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "tödlich",
+      "translation": "fatal, deadly, lethal, mortal, killing",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "untersagt",
+      "translation": "prohibited, forbidden, not allowed",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vegetarisch",
+      "translation": "vegetarian",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verdächtig",
+      "translation": "suspicious",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vergeblich",
+      "translation": "futile, vain",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vernünftig",
+      "translation": "reasonable, sensible",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verrückt",
+      "translation": "crazy, insane, mad, nuts",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verständlich",
+      "translation": "comprehensible, understandable",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verwandt",
+      "translation": "related to, akin, kin",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "virtuell",
+      "translation": "virtual",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vordere, vorderer, vorderes",
+      "translation": "front, forward",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vorläufig",
+      "translation": "temporary, provisional, preliminary",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "wahnsinnig",
+      "translation": "insane, crazy, mad, incredible, massive",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "wöchentlich",
+      "translation": "weekly, once a week, on a weekly basis",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "wütend",
+      "translation": "furious, angry, mad, enraged, irate",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "zugänglich",
+      "translation": "accessible, available, open, approachable",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "zuverlässig",
+      "translation": "reliable, dependable",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "zweifach",
+      "translation": "double, twofold, dual",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ängstlich",
+      "translation": "anxious, scared, fearful, afraid, frightened",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ärgerlich",
+      "translation": "angry, annoying",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "äußerlich",
+      "translation": "external, outward",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ökologisch",
+      "translation": "ecological, organic",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "östlich",
+      "translation": "east, eastern",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "abwesend",
+      "translation": "absent/ly",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "befreit",
+      "translation": "exempt, free, liberated",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "durstig",
+      "translation": "thirsty",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "eckig",
+      "translation": "angular, rectangular, square, cornered",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "entspannend",
+      "translation": "relaxing",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "erschöpft",
+      "translation": "exhausted, tired, depleted, worn out",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "salzig",
+      "translation": "salty, salted, savoury, savory",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "senkrecht",
+      "translation": "vertical, perpendicular, upright",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "süchtig",
+      "translation": "addicted",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "taub",
+      "translation": "deaf, numb",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "tolerant",
+      "translation": "tolerant",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unentschieden",
+      "translation": "undecided, tied, drawn",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vergnügt",
+      "translation": "cheerful, happy, jolly",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verliebt",
+      "translation": "in love, amorous, enamoured, enamored",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verpflichtet",
+      "translation": "obliged, committed, bound",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "waagerecht",
+      "translation": "horizontal, level",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "wertlos",
+      "translation": "worthless",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "amerikanisch",
+      "translation": "American",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "angeblich",
+      "translation": "alleged, supposed, reputed, so-called, putative, ostensible",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "attraktiv",
+      "translation": "attractive",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ausdrücklich",
+      "translation": "explicit, express, expressed",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ausführlich",
+      "translation": "detailed",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "beschäftigt",
+      "translation": "busy, engaged, occupied, employed",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "beteiligt",
+      "translation": "involved, participating",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "bewusst",
+      "translation": "conscious, aware, deliberate",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "bisherig",
+      "translation": "so far, previous",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "britisch",
+      "translation": "British",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "bundesweit",
+      "translation": "throughout Germany, nationwide, national",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "chinesisch",
+      "translation": "Chinese",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "damalig",
+      "translation": "at that time",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "demokratisch",
+      "translation": "democratic",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "divers",
+      "translation": "diverse, various",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "eben",
+      "translation": "even, flat, level, plane, planar",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ehemalig",
+      "translation": "former",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ehrenamtlich",
+      "translation": "honorary, voluntary, voluntarily, on a voluntary basis",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "englisch",
+      "translation": "English",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "enorm",
+      "translation": "enormous",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "entscheidend",
+      "translation": "decisive, significant, crucial",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "erfahren",
+      "translation": "experienced, seasoned, adept, proficient",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "erheblich",
+      "translation": "considerable, significant",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "erhältlich",
+      "translation": "available, obtainable",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "erneut",
+      "translation": "again, once more, another, renewed, repeated",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "evangelisch",
+      "translation": "Protestant",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "extern",
+      "translation": "external",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "fein",
+      "translation": "fine",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "französisch",
+      "translation": "French",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "generell",
+      "translation": "general",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gesellschaftlich",
+      "translation": "social(ly)",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gesetzlich",
+      "translation": "legal, statutory, by law",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gewiss",
+      "translation": "certain, sure",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gezielt",
+      "translation": "targeted, pointed, purposeful, well-aimed",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "global",
+      "translation": "global",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "golden",
+      "translation": "gold, golden",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "grundsätzlich",
+      "translation": "fundamental",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "heftig",
+      "translation": "heavy, violent, fierce, intense, severe",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "heilig",
+      "translation": "holy, sacred",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "heimisch",
+      "translation": "indigenous, native, domestic, home",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "hervorragend",
+      "translation": "outstanding, excellent, superb, brilliant",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "hintere, hinterer, hinteres",
+      "translation": "rear, back, posterior",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "hochwertig",
+      "translation": "high-quality",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "intern",
+      "translation": "internal",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "italienisch",
+      "translation": "Italian",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "jeweilig",
+      "translation": "particular, respective",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "katholisch",
+      "translation": "Catholic",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "klassisch",
+      "translation": "classical(ly)",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "konkret",
+      "translation": "concrete, definite, specific",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "konzentriert",
+      "translation": "concentrated, focused, focussed",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "kurzfristig",
+      "translation": "at short notice, short-term",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "künftig",
+      "translation": "future, prospective",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "langfristig",
+      "translation": "long-term",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "langjährig",
+      "translation": "for many years, long-standing, long-time, longtime, long-term",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "linker, linke, linkes",
+      "translation": "left, left-hand",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "lokal",
+      "translation": "local",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "massiv",
+      "translation": "solid, massive, severe",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "medizinisch",
+      "translation": "medical",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "mehrfach",
+      "translation": "multiple, repeated",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "nachhaltig",
+      "translation": "lasting, sustainable",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "offensichtlich",
+      "translation": "obvious(ly), apparent(ly), evident(ly)",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "olympisch",
+      "translation": "Olympic",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "optimal",
+      "translation": "best possible, optimum, optimal",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "professionell",
+      "translation": "professional",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "rasch",
+      "translation": "quick, rapid, fast, swift",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "russisch",
+      "translation": "Russian",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schlimmer",
+      "translation": "worse",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "Schweizer",
+      "translation": "Swiss",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "spanisch",
+      "translation": "Spanish",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "staatlich",
+      "translation": "state, government, national",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "stabil",
+      "translation": "stable, sturdy",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "stellvertretend",
+      "translation": "representative, deputy, acting, vicarious, substitutional",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "tätig",
+      "translation": "active, employed",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "türkisch",
+      "translation": "Turkish",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "umfangreich",
+      "translation": "extensive",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unabhängig",
+      "translation": "independent",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unbekannt",
+      "translation": "unknown",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unmittelbar",
+      "translation": "immediate, direct",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verfügbar",
+      "translation": "available",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vergangen",
+      "translation": "past, previous, last",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vielfältig",
+      "translation": "diverse, varied",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vollständig",
+      "translation": "complete, full, whole, entire, total",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vorhanden",
+      "translation": "available, existing, present",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "weitgehend",
+      "translation": "extensive",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "wesentlich",
+      "translation": "essential, fundamental",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "wirtschaftlich",
+      "translation": "economic",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "wissenschaftlich",
+      "translation": "scientific, scholarly",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "äußerer, äußere, äußeres",
+      "translation": "outer, external, exterior",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "österreichisch",
+      "translation": "Austrian",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "überlegen",
+      "translation": "superior",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "-jährig",
+      "translation": "-year, -year-old",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "abstrakt",
+      "translation": "abstract/ly",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "akademisch",
+      "translation": "academic",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "akut",
+      "translation": "acute, urgent, pressing",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "allmählich",
+      "translation": "gradual",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "analog",
+      "translation": "analog, analogue, analogous",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "angemessen",
+      "translation": "appropriate, reasonable, fair, adequate, suitable",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "angewiesen",
+      "translation": "dependent",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "arabisch",
+      "translation": "Arabian, Arabic",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "auffällig",
+      "translation": "conspicuous, noticeable, striking",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "aufrecht",
+      "translation": "upright, erect",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "aufwändig, aufwendig",
+      "translation": "complex, lavish(ly), costly, expensive, elaborate(ly), time-consuming",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ausgeprägt",
+      "translation": "distinctive",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "außerordentlich",
+      "translation": "extraordinary, exceptional, outstanding",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "bay(e)risch",
+      "translation": "Bavarian",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "bedeutend",
+      "translation": "important, significant, considerable",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "behindert",
+      "translation": "handicapped, disabled",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "beliebig",
+      "translation": "any, as you like, arbitrary, random",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "bemerkenswert",
+      "translation": "remarkable",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "bescheiden",
+      "translation": "modest, humble, unassuming, frugal",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "besorgt",
+      "translation": "concerned, worried, anxious",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "betrieblich",
+      "translation": "operational, company",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "beträchtlich",
+      "translation": "considerable",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "bürgerlich",
+      "translation": "civil, civic",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "charakteristisch",
+      "translation": "characteristic",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "chemisch",
+      "translation": "chemical",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "christlich",
+      "translation": "Christian",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "chronisch",
+      "translation": "chronic",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "dauerhaft",
+      "translation": "lasting, durable, permanent, long-term",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "denkbar",
+      "translation": "conceivable, imaginable, possible",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "derartig",
+      "translation": "such, like that",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "derzeitig",
+      "translation": "current, present",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "detailliert",
+      "translation": "detailed, in detail",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "deutschsprachig",
+      "translation": "German-speaking",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "diskret",
+      "translation": "discreet, confidential",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "dramatisch",
+      "translation": "dramatic",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "dynamisch",
+      "translation": "dynamic",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "düster",
+      "translation": "gloomy, dark",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "effektiv",
+      "translation": "effective",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "effizient",
+      "translation": "efficient(ly)",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "eigenständig",
+      "translation": "independent",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "einheimisch",
+      "translation": "native, indigenous, local, domestic",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "einig",
+      "translation": "agreed, united",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "einmalig",
+      "translation": "unique, one-time, fantastic",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "einseitig",
+      "translation": "one-sided, unilateral",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "emotional",
+      "translation": "emotional",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "empfindlich",
+      "translation": "sensitive, delicate",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "entfernt",
+      "translation": "distant, remote, away",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "erkennbar",
+      "translation": "recognizable, recognisable, identifiable, discernible, discernable",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "erreichbar",
+      "translation": "within reach, reachable, achievable, accessible, attainable",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "erstaunlich",
+      "translation": "astonishing(ly), amazing(ly), surprising(ly)",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "exakt",
+      "translation": "exact",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "experimentell",
+      "translation": "experimental",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "fern",
+      "translation": "far away, remote, distant",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "formal",
+      "translation": "formal",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "friedlich",
+      "translation": "peaceful, peaceable",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gefangen",
+      "translation": "captive, caught, trapped, imprisoned",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gegenseitig",
+      "translation": "mutual, each other, reciprocal",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gegenwärtig",
+      "translation": "present, current",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "geistig",
+      "translation": "intellectual(ly), mental(ly), spiritual(ly)",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gelegentlich",
+      "translation": "occasional(ly)",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "genetisch",
+      "translation": "genetic",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gewaltig",
+      "translation": "enormous, tremendous, huge, massive, powerful",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "griechisch",
+      "translation": "Greek",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "grob",
+      "translation": "coarse, rude, gross, rough",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "großzügig",
+      "translation": "generous",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "grundlegend",
+      "translation": "basic, fundamental",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "hauptsächlich",
+      "translation": "main, principal, chief",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "herrlich",
+      "translation": "marvellous, wonderful, splendid, magnificent, superb",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "indirekt",
+      "translation": "indirect",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "indisch",
+      "translation": "Indian",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "inhaltlich",
+      "translation": "in terms of content",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "intellektuell",
+      "translation": "intellectual",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "israelisch",
+      "translation": "Israeli",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "jahrelang",
+      "translation": "lasting for years",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "japanisch",
+      "translation": "Japanese",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "jetzig",
+      "translation": "current, present",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "kirchlich",
+      "translation": "(in) church, ecclesiastical",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "klinisch",
+      "translation": "clinical",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "komplex",
+      "translation": "complex",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "konsequent",
+      "translation": "consistent",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "konservativ",
+      "translation": "conservative",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "konstant",
+      "translation": "constant",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "kontinuierlich",
+      "translation": "constant, continuous",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "konventionell",
+      "translation": "conventional",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "künstlerisch",
+      "translation": "artistic",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "landwirtschaftlich",
+      "translation": "agricultural",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "lauter",
+      "translation": "nothing but, just, a lot of, plenty of",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "lebendig",
+      "translation": "living, lively, vivid, vital, alive",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "liberal",
+      "translation": "liberal",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "logisch",
+      "translation": "logical",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "materiell",
+      "translation": "financial, material",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "mathematisch",
+      "translation": "mathematical",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "maßgeblich",
+      "translation": "significant, decisive",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "mechanisch",
+      "translation": "mechanical",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "militärisch",
+      "translation": "military",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "moralisch",
+      "translation": "moral",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "mächtig",
+      "translation": "powerful, mighty",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "mühsam",
+      "translation": "strenuous, laborious, arduous, tedious, cumbersome",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "Münchner, Münchener",
+      "translation": "Munich",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "nachfolgend",
+      "translation": "following",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "nackt",
+      "translation": "naked, nude, bare",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "objektiv",
+      "translation": "objective",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "operativ",
+      "translation": "operative, operational, surgical",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "optisch",
+      "translation": "optical, visual",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "organisatorisch",
+      "translation": "organisational, organizational",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "organisch",
+      "translation": "organic",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "philosophisch",
+      "translation": "philosophical",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "physikalisch",
+      "translation": "physical",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "physisch",
+      "translation": "physical",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "polnisch",
+      "translation": "Polish",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "potenziell",
+      "translation": "potential",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "primär",
+      "translation": "primary",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "prinzipiell",
+      "translation": "in principle",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "problematisch",
+      "translation": "problematic",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "präzise",
+      "translation": "precise, accurate, concise",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "psychisch",
+      "translation": "psychological, mental",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "psychologisch",
+      "translation": "psychological",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "pädagogisch",
+      "translation": "pedagogical",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "qualitativ",
+      "translation": "qualitative",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "radikal",
+      "translation": "radical",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "real",
+      "translation": "real",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "reichlich",
+      "translation": "plenty, abundant, plentiful, ample, generous",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "relevant",
+      "translation": "relevant",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "religiös",
+      "translation": "religious",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "restlich",
+      "translation": "remaining",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "räumlich",
+      "translation": "spatial, physical",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sachlich",
+      "translation": "objective, factual, matter-of-fact",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sanft",
+      "translation": "soft, gentle",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "scheinbar",
+      "translation": "apparent, seeming, ostensible",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schlicht",
+      "translation": "simple, plain",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sexuell",
+      "translation": "sexual",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sonstig",
+      "translation": "other, miscellaneous",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sorgfältig",
+      "translation": "careful",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "spezifisch",
+      "translation": "specific",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "spontan",
+      "translation": "spontaneous",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sprachlich",
+      "translation": "linguistic, in terms of language",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "stetig",
+      "translation": "constant, steady, continuous",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "strategisch",
+      "translation": "strategic",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "strukturell",
+      "translation": "structural",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "subjektiv",
+      "translation": "subjective",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "symbolisch",
+      "translation": "symbolic",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "systematisch",
+      "translation": "systematic",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "touristisch",
+      "translation": "touristic",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "umstritten",
+      "translation": "disputed, controversial",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unangenehm",
+      "translation": "unpleasant",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unendlich",
+      "translation": "endless, infinite, never-ending",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unklar",
+      "translation": "unclear",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unmöglich",
+      "translation": "impossible",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unsicher",
+      "translation": "uncertain, unsafe, insecure, unsure",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unsichtbar",
+      "translation": "invisible",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unzählig",
+      "translation": "countless, innumerable",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verbindlich",
+      "translation": "binding, friendly",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vergleichbar",
+      "translation": "comparable",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verlegen",
+      "translation": "embarrassed",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vermehrt",
+      "translation": "increased",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vermeintlich",
+      "translation": "supposed, alleged, assumed",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vertraut",
+      "translation": "familiar, close, intimate",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vielfach",
+      "translation": "multiple",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vollkommen",
+      "translation": "complete, perfect",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vorig",
+      "translation": "previous, last",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vorübergehend",
+      "translation": "temporary",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "winzig",
+      "translation": "tiny, teeny, minute, minuscule",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "wirksam",
+      "translation": "effective",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "zeitlich",
+      "translation": "temporal, chronological, in terms of time",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "zulässig",
+      "translation": "permissible, permitted, admissible, allowed, acceptable",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "zwangsläufig",
+      "translation": "inevitable, unavoidable, inescapable",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ärztlich",
+      "translation": "medical",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ökonomisch",
+      "translation": "economic",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "örtlich",
+      "translation": "local(ly)",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "übel",
+      "translation": "foul, bad, nasty, awful, sick",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "überflüssig",
+      "translation": "superfluous, unnecessary, redundant",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "überwiegend",
+      "translation": "predominant, mostly, mainly",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "-stündig",
+      "translation": "-hour",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "absurd",
+      "translation": "absurd/ly",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "aggressiv",
+      "translation": "aggressive(ly)",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "albern",
+      "translation": "silly, stupid, ridiculous, foolish, goofy",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "amtlich",
+      "translation": "official",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "angespannt",
+      "translation": "tense, strained, tight",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "aufgeregt",
+      "translation": "excited, nervous",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "aufrichtig",
+      "translation": "sincere, honest",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "autoritär",
+      "translation": "authoritarian",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "außergewöhnlich",
+      "translation": "extraordinary, exceptional, unusual, rare",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "bedeutsam",
+      "translation": "important, significant, meaningful",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "bedingungslos",
+      "translation": "unconditional/ly",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "begabt",
+      "translation": "gifted, talented",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "belgisch",
+      "translation": "Belgian",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "berechtigt",
+      "translation": "entitled, justifiable, justified, legitimate",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "darauffolgend",
+      "translation": "following, ensuing, subsequent",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "defekt",
+      "translation": "faulty, defective, broken",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "deutschlandweit",
+      "translation": "throughout Germany",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "dezent",
+      "translation": "discreet, subtle, gentle, unobtrusive",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "doof",
+      "translation": "stupid, dumb, goofy",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "drastisch",
+      "translation": "drastic",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "dreckig",
+      "translation": "dirty, filthy",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "dubios",
+      "translation": "dubious, shady",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "durchsichtig",
+      "translation": "transparent, clear, see-through",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ehrgeizig",
+      "translation": "ambitious",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "einstig",
+      "translation": "former",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "einzigartig",
+      "translation": "unique, singular",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "eiskalt",
+      "translation": "freezing (cold), ice-cold",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "elementar",
+      "translation": "elementary, elemental, basic",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "endlos",
+      "translation": "endless, infinite, interminable",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "erfolglos",
+      "translation": "unsuccessful, without success",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "erleichtert",
+      "translation": "relieved",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "erneuerbar",
+      "translation": "renewable",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ersichtlich",
+      "translation": "apparent, visible, evident",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "europaweit",
+      "translation": "Europe-wide, pan-European, throughout Europe, all over Europe",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "explizit",
+      "translation": "explicit",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "farbenfroh",
+      "translation": "colourful",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "faszinierend",
+      "translation": "fascinating, intriguing",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "feierlich",
+      "translation": "ceremonial(ly), solemn(ly), festive(ly)",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "feige",
+      "translation": "cowardly",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "flüchtig",
+      "translation": "fugitive, cursory, fleeting, elusive, transient",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "flüssig",
+      "translation": "liquid, fluid, fluent",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "formell",
+      "translation": "formal(ly)",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "fotografisch",
+      "translation": "photographic",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "fraglich",
+      "translation": "questionable, doubtful",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "fragwürdig",
+      "translation": "questionable, dubious, suspect, shady",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "förmlich",
+      "translation": "formal, official",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gebraucht",
+      "translation": "used, second-hand",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gegnerisch",
+      "translation": "opposing, enemy",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gelassen",
+      "translation": "calm, serene, cool, composed",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gelaunt",
+      "translation": "in a ... mood",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "genial",
+      "translation": "brilliant, ingenious",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "geschickt",
+      "translation": "skilful, skillful, skilled",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "geschmeidig",
+      "translation": "supple, smooth, lithe, sleek, soft",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gleichmäßig",
+      "translation": "regular, even, steady, consistent",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gleichsam",
+      "translation": "as it were, so to speak",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "glänzend",
+      "translation": "shining, brilliant, glossy, shiny",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "großartig",
+      "translation": "splendid, superb, magnificent, great, amazing",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gängig",
+      "translation": "common, popular",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "harmlos",
+      "translation": "harmless",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "hartnäckig",
+      "translation": "persistent, insistent, stubborn, obstinate, dogged",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "heil",
+      "translation": "unhurt, uninjured, intact, undamaged",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "heiter",
+      "translation": "cheerful, serene, bright",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "hilflos",
+      "translation": "helpless",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "hoffnungslos",
+      "translation": "hopeless, desperate",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "identisch",
+      "translation": "identical",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "imposant",
+      "translation": "impressive, imposing",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "industriell",
+      "translation": "industrial",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "interaktiv",
+      "translation": "interactive",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "kahl",
+      "translation": "bald, bare, bleak",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "kompetent",
+      "translation": "competent",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "kostbar",
+      "translation": "precious, valuable",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "kostenfrei",
+      "translation": "free (of charge)",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "köstlich",
+      "translation": "delicious, luscious, exquisite, priceless",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "lautstark",
+      "translation": "(very) loud, vocal, vociferous",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "leiblich",
+      "translation": "real, biological, physical",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "liebevoll",
+      "translation": "loving(ly), affectionate(ly)",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "lose",
+      "translation": "loose",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "lächerlich",
+      "translation": "ridiculous, ludicrous",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ländlich",
+      "translation": "rural, country",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "magnetisch",
+      "translation": "magnetic",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "markant",
+      "translation": "striking, prominent, distinctive",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "matt",
+      "translation": "matt(e), dull, soft, frosted, faint",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "misstrauisch",
+      "translation": "mistrustful, distrustful, suspicious",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "motiviert",
+      "translation": "motivated",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "mutmaßlich",
+      "translation": "presumed, suspected, alleged",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "nachdenklich",
+      "translation": "thoughtful, pensive, contemplative, reflective",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "nachträglich",
+      "translation": "later, belated, subsequent",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "nervig",
+      "translation": "annoying, irritating",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "niederländisch",
+      "translation": "Dutch",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "niedlich",
+      "translation": "cute",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "nüchtern",
+      "translation": "sober, with an empty stomach, plain, down-to-earth",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "oberflächlich",
+      "translation": "superficial, shallow",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "parat",
+      "translation": "ready",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "passend",
+      "translation": "fitting, matching, suitable, appropriate",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "permanent",
+      "translation": "permanent",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "pur",
+      "translation": "pure, straight, sheer",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "radioaktiv",
+      "translation": "radioactive",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ratlos",
+      "translation": "helpless, perplexed, at a loss, clueless",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "rau",
+      "translation": "rough, harsh, raw, coarse, rugged",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "regelrecht",
+      "translation": "proper, real",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "regenerativ",
+      "translation": "regenerative, renewable",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "regulär",
+      "translation": "regular, normal",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "respektvoll",
+      "translation": "respectful(ly), deferential(ly)",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "riskant",
+      "translation": "risky",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schlau",
+      "translation": "clever, smart",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schmerzhaft",
+      "translation": "painful",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schräg",
+      "translation": "diagonal, at an angle, oblique, sloping, slanting",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schwul",
+      "translation": "gay, queer",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schüchtern",
+      "translation": "shy, coy",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "selbstbewusst",
+      "translation": "self-confident, confident",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "separat",
+      "translation": "separate",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "skeptisch",
+      "translation": "sceptical, skeptical",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "solide",
+      "translation": "solid, sound, robust, sturdy, firm",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "spitze",
+      "translation": "cool, great, super",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "spürbar",
+      "translation": "perceptible, noticeable",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "starr",
+      "translation": "stiff, rigid, paralysed",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "steif",
+      "translation": "stiff, rigid",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "steuerlich",
+      "translation": "tax",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "strikt",
+      "translation": "strict",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "stundenlang",
+      "translation": "lasting several hours, for hours",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "tatkräftig",
+      "translation": "active, energetic",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "technologisch",
+      "translation": "technological",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "telefonisch",
+      "translation": "by (tele)phone, over the phone",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "temporär",
+      "translation": "temporary",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "tragbar",
+      "translation": "portable, wearable, sustainable, acceptable",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "tragisch",
+      "translation": "tragic(ally)",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "transparent",
+      "translation": "transparent",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "trist",
+      "translation": "dreary, dull, sad, dismal",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "trüb, trübe",
+      "translation": "dull, cloudy, turbid, murky",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "umgehend",
+      "translation": "immediate(ly)",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "umweltfreundlich",
+      "translation": "environmentally friendly, eco-friendly",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unauffällig",
+      "translation": "inconspicuous(ly), unobtrusive(ly)",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unbemerkt",
+      "translation": "unnoticed",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unerträglich",
+      "translation": "unbearable, intolerable",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unerwartet",
+      "translation": "unexpected",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unerwünscht",
+      "translation": "undesirable, unwanted, unwelcome",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unglücklich",
+      "translation": "unhappy, unfortunate, unlucky",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unkompliziert",
+      "translation": "straightforward, uncomplicated, simple",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unterhaltsam",
+      "translation": "entertaining",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unverständlich",
+      "translation": "unintelligible, incomprehensible",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unverzüglich",
+      "translation": "immediate(ly), prompt(ly)",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unverändert",
+      "translation": "unchanged",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unwahrscheinlich",
+      "translation": "improbable, unlikely",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unweigerlich",
+      "translation": "inevitable",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unzufrieden",
+      "translation": "dissatisfied, unhappy",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unzureichend",
+      "translation": "insufficient, inadequate",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verkehrt",
+      "translation": "wrong",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verletzt",
+      "translation": "hurt, injured, wounded",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verpflichtend",
+      "translation": "compulsory, obligatory, binding, mandatory",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vertikal",
+      "translation": "vertical",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vertraglich",
+      "translation": "contractual",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vertraulich",
+      "translation": "confidential, private, familiar",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verwirrt",
+      "translation": "confused, bewildered",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verzweifelt",
+      "translation": "desperate, in despair",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vorherig",
+      "translation": "prior, previous",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vorzeitig",
+      "translation": "early, premature",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "weise",
+      "translation": "wise, sage",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "zeitlos",
+      "translation": "timeless",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "zuversichtlich",
+      "translation": "confident",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "zügig",
+      "translation": "quick, fast, swift, rapid, speedy",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ästhetisch",
+      "translation": "aesthetic, esthetic",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "überdurchschnittlich",
+      "translation": "above-average",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "überhöht",
+      "translation": "excessive, inflated",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "überzeugend",
+      "translation": "convincing, persuasive, cogent",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "abergläubisch",
+      "translation": "superstitious",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ahnungslos",
+      "translation": "clueless, ignorant, unsuspecting, naive",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "alleinerziehend",
+      "translation": "single parent, single mother, single father",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "allergisch",
+      "translation": "allergic",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "altmodisch",
+      "translation": "old-fashioned",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ansteckend",
+      "translation": "contagious, infectious",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "beengt",
+      "translation": "cramped",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "behaart",
+      "translation": "hairy",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "beige",
+      "translation": "beige",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "beleidigt",
+      "translation": "offended",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "blitzschnell",
+      "translation": "(like) lightning",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "brünett",
+      "translation": "brunette",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "demotiviert",
+      "translation": "demotivated",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "dumpf",
+      "translation": "dull, vague, muffled",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "dunkelhaarig",
+      "translation": "dark-haired",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "eifersüchtig",
+      "translation": "jealous",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "einfallslos",
+      "translation": "unimaginative",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ekelhaft",
+      "translation": "disgusting",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "erblich",
+      "translation": "hereditary, heritable",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "erlaubt",
+      "translation": "allowed, permitted, permissible",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "fabelhaft",
+      "translation": "fabulous, marvellous",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "füllig",
+      "translation": "plump, full",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gebräuchlich",
+      "translation": "common, commonly used, in use, customary",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "geizig",
+      "translation": "mean, miserly, stingy, cheap",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gelenkig",
+      "translation": "flexible, supple, agile",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "geläufig",
+      "translation": "common, familiar",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gentechnisch",
+      "translation": "genetic, genetical",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "geographisch, geografisch",
+      "translation": "geographic",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "geräumig",
+      "translation": "spacious, roomy",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gierig",
+      "translation": "greedy",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "haarig",
+      "translation": "hairy",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "hilfsbereit",
+      "translation": "helpful, ready to help",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "horizontal",
+      "translation": "horizontal",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "kommunikativ",
+      "translation": "communicative",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "krumm",
+      "translation": "crooked, bent",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "linear",
+      "translation": "linear",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "missmutig",
+      "translation": "sullen, morose, discontented, grumpy, scowling",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "mollig",
+      "translation": "plump, chubby, cosy, cozy",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "motorisch",
+      "translation": "motor",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "möbliert",
+      "translation": "furnished",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "nutzlos",
+      "translation": "useless, futile",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "obdachlos",
+      "translation": "homeless",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "pessimistisch",
+      "translation": "pessimistic",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "pflegeleicht",
+      "translation": "easy-care, easy to maintain, low-maintenance, easy to get along with",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "pleite",
+      "translation": "broke, bankrupt",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "quadratisch",
+      "translation": "square",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "regnerisch",
+      "translation": "rainy",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "rothaarig",
+      "translation": "red-haired",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "rutschig",
+      "translation": "slippery",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schlagfertig",
+      "translation": "quick-witted",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schlapp",
+      "translation": "weak, listless, limp, flabby, floppy",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schwerhörig",
+      "translation": "hard of hearing, deaf, hearing-impaired",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sprudelnd",
+      "translation": "sparkling, fizzy, bubbly",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "stumpf",
+      "translation": "blunt, dull",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "stur",
+      "translation": "stubborn, obstinate",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "synonym",
+      "translation": "synonymous",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "teilbar",
+      "translation": "divisible",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "todkrank",
+      "translation": "terminally ill",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "umgangssprachlich",
+      "translation": "colloquial(ly)",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unentschlossen",
+      "translation": "undecided, indecisive, irresolute",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ungeduldig",
+      "translation": "impatient",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ungefragt",
+      "translation": "unsolicited(ly), unasked, without being asked",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ungemütlich",
+      "translation": "uncomfortable, unpleasant",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unheilbar",
+      "translation": "incurable",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unhöflich",
+      "translation": "impolite, rude",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unordentlich",
+      "translation": "messy, untidy, disorderly",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unpersönlich",
+      "translation": "impersonal",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unschlüssig",
+      "translation": "indecisive, undecided, irresolute",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unzertrennlich",
+      "translation": "inseparable",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unzuverlässig",
+      "translation": "unreliable",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verabredet",
+      "translation": "appointed, fixed, arranged",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verschwenderisch",
+      "translation": "wasteful, extravagant, lavish, profligate",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verwitwet",
+      "translation": "widowed",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "violett",
+      "translation": "violet, purple",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "volljährig",
+      "translation": "of age, of legal age",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vulgär",
+      "translation": "vulgar",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "wehmütig",
+      "translation": "wistful, melancholy, nostalgic",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "widerlich",
+      "translation": "disgusting, repugnant",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "wohnlich",
+      "translation": "cosy, cozy, comfortable",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "wohnungslos",
+      "translation": "homeless",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "zahm",
+      "translation": "tame",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "zweifelsfrei",
+      "translation": "without doubt, unequivocal, unambiguous",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "überstürzt",
+      "translation": "overhasty, rash",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "eineiig",
+      "translation": "identical, monozygotic",
+      "level": "C2",
+      "frequency": 1,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "spiegelverkehrt",
+      "translation": "mirror-image, back-to-front",
+      "level": "C2",
+      "frequency": 1,
+      "word_type": "Adjective"
+    }
+  ],
+  "total_count": 968,
+  "level_distribution": {
+    "A1": 107,
+    "A2": 93,
+    "B1": 138,
+    "B2": 117,
+    "C1": 263,
+    "C2": 250
+  }
+}

@@ -1,0 +1,5963 @@
+{
+  "words": [
+    {
+      "word": "unterer, untere, unteres",
+      "translation": "lower, bottom",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "dabei",
+      "translation": "thereby, there, with it, in doing so, at the same time, while doing",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "nun",
+      "translation": "now, then",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "damit",
+      "translation": "so that",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "damit",
+      "translation": "with it, with that",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "bereits",
+      "translation": "already",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "etwa",
+      "translation": "about, approximately, roughly, for instance, for example",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "weiterer, weitere, weiteres",
+      "translation": "additional, further, other",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "dafür",
+      "translation": "for it, for this, for that",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "ob",
+      "translation": "whether, if",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "sondern",
+      "translation": "but",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "führen",
+      "translation": "to lead, to guide, to conduct, to manage, to wage",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "während",
+      "translation": "while, whereas",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "während",
+      "translation": "during",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "allerdings",
+      "translation": "though, however, but, certainly, indeed",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der Fall",
+      "translation": "fall, case",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "erhalten",
+      "translation": "to receive, to get, to obtain, to preserve, to maintain",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "zwar",
+      "translation": "although, indeed, admittedly, to be precise, certainly",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "das Teil",
+      "translation": "part, piece, particle, component",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "gelten",
+      "translation": "to be valid, to apply, to be effective, to be regarded as, to be considered as",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "jedoch",
+      "translation": "however, but, though",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "solch",
+      "translation": "such",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "bieten",
+      "translation": "to offer, to provide, to bid",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Grund",
+      "translation": "reason, cause, occasion, bottom, ground",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "wohl",
+      "translation": "well, probably, arguably",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "gar",
+      "translation": "at all, even",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "eben",
+      "translation": "just, just now",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Art",
+      "translation": "kind, type, sort, way, nature, species",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Bereich",
+      "translation": "area, region, field, sector, scope",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "kaum",
+      "translation": "hardly",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "ziehen",
+      "translation": "to pull, to drag, to draw, to move",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "entstehen",
+      "translation": "to arise, to originate, to develop, to form, to emerge",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Gesellschaft",
+      "translation": "society, company",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "möglichst",
+      "translation": "as ... as possible, if possible, preferably, ideally",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Möglichkeit",
+      "translation": "possibility, opportunity, way, option, chance",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Form",
+      "translation": "form, shape",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Entwicklung",
+      "translation": "development",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "handeln",
+      "translation": "to deal, to trade, to act, to take action",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "je",
+      "translation": "ever, each",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "je... (desto/umso...)",
+      "translation": "the more...",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "eher",
+      "translation": "rather, earlier, sooner, more likely",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "darin, drin",
+      "translation": "in it, therein, in there",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "schließlich",
+      "translation": "in the end, finally, eventually, after all",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der Sinn",
+      "translation": "sense, meaning, purpose, mind",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "unterschiedlich",
+      "translation": "different, variable",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "daher",
+      "translation": "from there, therefore, thus, as a result, that's why",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "obwohl",
+      "translation": "although, even though",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "darstellen",
+      "translation": "to depict, to present, to represent, to portray, to pose",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "allgemein",
+      "translation": "general",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "einzig",
+      "translation": "only, single, sole",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "entwickeln",
+      "translation": "to develop",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "recht",
+      "translation": "quite, rather",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "rechter, rechte, rechtes",
+      "translation": "right",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das System",
+      "translation": "system",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "gemeinsam",
+      "translation": "common, mutual, shared, joint",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gemeinsam",
+      "translation": "together, jointly, in common, hand in hand",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "erkennen",
+      "translation": "to recognize, to recognise, to see, to identify, to detect",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "nahe, nah",
+      "translation": "near, nearby, close",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "nahe",
+      "translation": "near, close to",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "mehrere",
+      "translation": "several, various",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "der Wert",
+      "translation": "value, worth",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "zunächst",
+      "translation": "first, at first, initially, for now",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "folgen",
+      "translation": "to follow",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "bisher",
+      "translation": "so far, until now, up to now",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "sozial",
+      "translation": "social",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "erwarten",
+      "translation": "to expect, to await, to anticipate",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Recht",
+      "translation": "right, law",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "besonderer, besondere, besonderes",
+      "translation": "special",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Folge",
+      "translation": "result, consequence, episode, sequence",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "öffentlich",
+      "translation": "public",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Bedeutung",
+      "translation": "meaning, significance, importance",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Rolle",
+      "translation": "roll, role",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Krieg",
+      "translation": "war",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "halt",
+      "translation": "simply, just",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "häufig",
+      "translation": "common, frequent(ly), often",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Situation",
+      "translation": "situation",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "ebenso",
+      "translation": "just as, as much as, as well, equally, likewise",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "danach",
+      "translation": "after it, afterwards, then, accordingly",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "dagegen",
+      "translation": "against it, on the other hand, in contrast",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "ähnlich",
+      "translation": "similar",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ziemlich",
+      "translation": "quite, pretty, rather, fairly",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "verbinden",
+      "translation": "to connect, to link, to combine, to join",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Werk",
+      "translation": "work, piece, oeuvre, factory, plant",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Jahrhundert",
+      "translation": "century",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Boden",
+      "translation": "ground, floor, bottom, soil",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Richtung",
+      "translation": "direction",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "steigen",
+      "translation": "to rise, to increase, to climb",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Stimme",
+      "translation": "voice, vote",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "nutzen",
+      "translation": "to use, to utilize, to utilise, to take advantage",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "inzwischen",
+      "translation": "in the meantime, meanwhile, since, by now",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "völlig",
+      "translation": "complete",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verlassen",
+      "translation": "to leave, to abandon, to forsake, to desert",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "gering",
+      "translation": "low, small, slight, minor",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schauen",
+      "translation": "to look, to watch",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "persönlich",
+      "translation": "personal",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "persönlich",
+      "translation": "in person, personally",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der Schritt",
+      "translation": "step",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "geschehen",
+      "translation": "to happen, to occur",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Politik",
+      "translation": "politics",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "wachsen",
+      "translation": "to grow, to increase, to wax",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "einsetzen",
+      "translation": "to put in, to insert, to use",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Gott",
+      "translation": "god",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Regel",
+      "translation": "rule",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Zukunft",
+      "translation": "future",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Beziehung",
+      "translation": "relation, relationship",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "annehmen",
+      "translation": "to accept, to assume, to believe",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "wirken",
+      "translation": "to have an effect, to work, to be effective, to seem, to appear",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "sich befinden",
+      "translation": "to be, to be located, to be situated, to feel",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Gefühl",
+      "translation": "feeling",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "nachdem",
+      "translation": "after",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "innerhalb",
+      "translation": "within, inside",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "das Verhältnis",
+      "translation": "relationship, ratio, proportion, relation",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "tatsächlich",
+      "translation": "real, actual",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "zusätzlich",
+      "translation": "additional, extra, further",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ebenfalls",
+      "translation": "also, as well, likewise, too",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "schlagen",
+      "translation": "to hit, to beat, to strike, to defeat",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "trotz",
+      "translation": "in spite of, despite",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "aufnehmen",
+      "translation": "to record, to include, to absorb, to accommodate",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Gedanke",
+      "translation": "thought",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "bevor",
+      "translation": "before, until",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "relativ",
+      "translation": "relative",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "fordern",
+      "translation": "to demand, to claim, to ask, to request, to challenge",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Betrieb",
+      "translation": "business, operation, company, enterprise",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "treten",
+      "translation": "to step, to kick",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Prozess",
+      "translation": "process, procedure, trial",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Entscheidung",
+      "translation": "decision",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "gleichzeitig",
+      "translation": "simultaneous(ly), concurrent(ly), at the same time, at once",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Zusammenhang",
+      "translation": "connection, context, relation, link",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "übernehmen",
+      "translation": "to take, to take over, to take on, to assume",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Gesetz",
+      "translation": "law",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "verwenden",
+      "translation": "to use, to utilize, to utilise, to apply",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "verändern",
+      "translation": "to change, to alter, to modify",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Kraft",
+      "translation": "strength, power, force",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "speziell",
+      "translation": "special, particular, specific",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Chance",
+      "translation": "chance, opportunity",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "gesamt",
+      "translation": "whole, entire, total, overall, full",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "enthalten",
+      "translation": "to contain, to include",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "bloß",
+      "translation": "bare, mere",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "bloß",
+      "translation": "only, simply, just",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Grenze",
+      "translation": "border, boundary, frontier",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "gelingen",
+      "translation": "to succeed, to work out, to manage",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Erfolg",
+      "translation": "success",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "(sich) entscheiden",
+      "translation": "to decide, to determine, to rule",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "erfahren",
+      "translation": "to experience, to find out, to learn, to hear",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "jeweils",
+      "translation": "each, each time, at a time, respectively",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "das Mitglied",
+      "translation": "member",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Lage",
+      "translation": "situation, location, position, layer, condition",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "insgesamt",
+      "translation": "in all, overall, altogether, in total",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Leistung",
+      "translation": "performance, achievement, power, service, output",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "technisch",
+      "translation": "technical(ly), technological(ly)",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "feststellen",
+      "translation": "to detect, to determine, to find out, to notice, to realize",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "bewegen",
+      "translation": "to move",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "ständig",
+      "translation": "constant, continuous, permanent, steady, perpetual",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verschwinden",
+      "translation": "to disappear, to vanish",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "dienen",
+      "translation": "to serve",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "rein",
+      "translation": "pure, clear, clean, mere, sheer",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Verhalten",
+      "translation": "behaviour, conduct",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "trotzdem",
+      "translation": "nevertheless, anyway, still",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "auftreten",
+      "translation": "to appear, to occur, to arise, to perform",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "sowohl... als auch",
+      "translation": "both... and, ... as well as...",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "die Höhe",
+      "translation": "height, altitude",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "beobachten",
+      "translation": "to observe, to watch",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "stimmen",
+      "translation": "to be correct, to be right, to be true, to vote, to tune",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Vergleich",
+      "translation": "comparison",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Luft",
+      "translation": "air",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "erleben",
+      "translation": "to experience",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "selten",
+      "translation": "rare(ly), seldom",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "unterscheiden",
+      "translation": "to distinguish, to differentiate",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "zumindest",
+      "translation": "at least",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "das Modell",
+      "translation": "model",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "reichen",
+      "translation": "to reach, to be enough, to last, to suffice, to pass",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "werfen",
+      "translation": "to throw",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "privat",
+      "translation": "private",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "leisten",
+      "translation": "to achieve, to perform, to afford",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Tod",
+      "translation": "death",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Bewegung",
+      "translation": "movement, motion, exercise",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "fest",
+      "translation": "firm, solid, fixed",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Wirtschaft",
+      "translation": "economy, commerce, restaurant, pub, business",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Sicherheit",
+      "translation": "security, safety, certainty",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "verlangen",
+      "translation": "to request, to demand, to require, to ask for",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Gebiet",
+      "translation": "region, area, territory, field",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "positiv",
+      "translation": "positive",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Angabe",
+      "translation": "information, indication, statement, specification",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "zählen",
+      "translation": "to count",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Herz",
+      "translation": "heart",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "statt",
+      "translation": "instead of",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "die Verbindung",
+      "translation": "connection, link",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Anspruch",
+      "translation": "claim, entitlement",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "zentral",
+      "translation": "central",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "stecken",
+      "translation": "to put, to plug, to insert, to be (located), to stick",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Kosten",
+      "translation": "costs, expenses",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "sorgen",
+      "translation": "to take care of, to make sure, to look after, to care",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "weder... noch",
+      "translation": "neither... nor",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "die Vorstellung",
+      "translation": "idea, introduction, performance, show",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "erhöhen",
+      "translation": "to raise, to increase, to heighten",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "spüren",
+      "translation": "to sense, to feel",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Patient",
+      "translation": "patient",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Gefahr",
+      "translation": "danger, threat, risk",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "melden",
+      "translation": "to report, to signal, to notify, to announce, to inform",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "knapp",
+      "translation": "scarce, slim, tight, almost",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "bestimmt",
+      "translation": "special, certain, particular, specific",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "besitzen",
+      "translation": "to own, to have, to possess",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Stoff",
+      "translation": "fabric, cloth, material, substance",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "sodass",
+      "translation": "so that",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "der Beginn",
+      "translation": "beginning, start, commencement, inception",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "historisch",
+      "translation": "historical, historic",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "erfüllen",
+      "translation": "to fulfil, to meet, to satisfy",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "indem",
+      "translation": "while, by",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "der Professor",
+      "translation": "professor",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "sich beteiligen",
+      "translation": "to participate, to take part, to contribute",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Institut",
+      "translation": "institute",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Bevölkerung",
+      "translation": "population, people",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "nochmals, nochmal",
+      "translation": "again, once again, once more",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "übrig",
+      "translation": "remaining, left",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sich eignen",
+      "translation": "to be suitable",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Erde",
+      "translation": "earth, world, ground, soil",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "unterstützen",
+      "translation": "to support, to help, to assist",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "beschäftigen",
+      "translation": "to employ, to engage",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "lösen",
+      "translation": "to solve, to resolve, to release, to loosen",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Vorteil",
+      "translation": "advantage",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Bedingung",
+      "translation": "condition, term, stipulation",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "teilweise",
+      "translation": "partially, partly",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Struktur",
+      "translation": "structure",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "trennen",
+      "translation": "to separate, to disconnect, to isolate",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Risiko",
+      "translation": "risk, chance",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "einstellen",
+      "translation": "to adjust, to set, to employ, to hire, to stop",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Wahl",
+      "translation": "choice, election",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Medien",
+      "translation": "media",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "miteinander",
+      "translation": "together, with each other, to each other",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "genügen",
+      "translation": "to be sufficient, to be enough, to satisfy, to meet",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Wirkung",
+      "translation": "effect",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Methode",
+      "translation": "method",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Untersuchung",
+      "translation": "examination, investigation, enquiry",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Organisation",
+      "translation": "organization",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "deswegen",
+      "translation": "therefore, that’s why, because of this",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "offenbar",
+      "translation": "obvious(ly), apparent(ly)",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Einfluss",
+      "translation": "influence",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Daten",
+      "translation": "data",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "erfolgreich",
+      "translation": "successful(ly)",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "zahlreich",
+      "translation": "numerous",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "weltweit",
+      "translation": "worldwide, global",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Rede",
+      "translation": "speech, talk",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Liebe",
+      "translation": "love",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "andererseits",
+      "translation": "on the other hand",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der Kreis",
+      "translation": "circle",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Diskussion",
+      "translation": "discussion, debate",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "regelmäßig",
+      "translation": "regular",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Forderung",
+      "translation": "demand, claim, call",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "menschlich",
+      "translation": "human",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Versuch",
+      "translation": "attempt, try, experiment",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "überhaupt",
+      "translation": "at all, in general, generally, anyway",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "treiben",
+      "translation": "to drive, to drift, to float",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Technik",
+      "translation": "technology, technique",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "behandeln",
+      "translation": "to treat, to deal with",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Kampf",
+      "translation": "fight, struggle, battle",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "längst",
+      "translation": "long since, a long time ago",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Tätigkeit",
+      "translation": "activity, work, job, occupation",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "überzeugen",
+      "translation": "to convince, to persuade, to impress",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Voraussetzung",
+      "translation": "prerequisite, condition, precondition, requirement",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Eindruck",
+      "translation": "impression",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Reaktion",
+      "translation": "reaction",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "versprechen",
+      "translation": "to promise",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "erforderlich",
+      "translation": "required, necessary",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "entdecken",
+      "translation": "to discover",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "klingen",
+      "translation": "to sound",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "reagieren",
+      "translation": "to react, to respond",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Region",
+      "translation": "region, area",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "heutig",
+      "translation": "present, present-day, today’s",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Beitrag",
+      "translation": "contribution, input, article, post, fee",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Linie",
+      "translation": "line",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "finanziell",
+      "translation": "financial",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "drehen",
+      "translation": "to turn, to rotate",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Bürger",
+      "translation": "citizen",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "überraschen",
+      "translation": "to surprise, to astonish",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Gegensatz",
+      "translation": "opposite, contrast",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Inhalt",
+      "translation": "content, contents",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "heben",
+      "translation": "to lift, to raise",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Wand",
+      "translation": "wall",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "vertreten",
+      "translation": "to represent, to substitute",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "stoßen",
+      "translation": "to bump, to push, to encounter",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "genauso",
+      "translation": "just as, just the same, equally",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Erinnerung",
+      "translation": "memory, reminder",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "leiden",
+      "translation": "to suffer",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "benötigen",
+      "translation": "to require, to need",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "nötig",
+      "translation": "necessary",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Druck",
+      "translation": "pressure, compression, push, printing",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Wissenschaft",
+      "translation": "science",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "stammen",
+      "translation": "to come from, to originate, to descend",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "verhindern",
+      "translation": "to prevent, to avert, to inhibit, to prohibit",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Hälfte",
+      "translation": "half",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Dienst",
+      "translation": "service, duty",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "überlegen",
+      "translation": "to consider, to think about, to deliberate",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Zustand",
+      "translation": "condition, state",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Gegenstand",
+      "translation": "object, article",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "aufgeben",
+      "translation": "to give up, to abandon, to post, to place",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Auftrag",
+      "translation": "order, mission, job, assignment",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "entweder... oder",
+      "translation": "either... or",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "die Freude",
+      "translation": "joy, pleasure, delight",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "verzichten",
+      "translation": "to do without, to renounce, to waive, to for(e)go, to abstain from",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "greifen",
+      "translation": "to grab, to grasp, to reach, to grip, to take hold of",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "mittlerweile",
+      "translation": "in the meantime, meanwhile, since then, by now",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der Hinweis",
+      "translation": "hint, tip, note, notice, indication",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "üblich",
+      "translation": "usual, common, customary",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Zeitpunkt",
+      "translation": "time, timing, moment",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "national",
+      "translation": "national",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "absolut",
+      "translation": "absolute, complete",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Netz",
+      "translation": "net, network, web, mesh",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "individuell",
+      "translation": "individual",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Forschung",
+      "translation": "research",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "einrichten",
+      "translation": "to set up, to furnish",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Haut",
+      "translation": "skin",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Ausdruck",
+      "translation": "term, phrase, expression, print, printout",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Umwelt",
+      "translation": "environment",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Politiker",
+      "translation": "politician",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Roman",
+      "translation": "novel",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "schützen",
+      "translation": "to protect",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "verantwortlich",
+      "translation": "responsible",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "irgendwann",
+      "translation": "sometime, one day, someday, at some time",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zuständig",
+      "translation": "appropriate, responsible",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ernst",
+      "translation": "serious",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Fernsehen",
+      "translation": "television",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Unterstützung",
+      "translation": "support",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Schaden",
+      "translation": "damage, harm",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Umgebung",
+      "translation": "surroundings, environment, surrounding area, vicinity, setting",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Produktion",
+      "translation": "production",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Zeichen",
+      "translation": "sign, character, symbol",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Tatsache",
+      "translation": "fact",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Material",
+      "translation": "material, substance",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Zweck",
+      "translation": "purpose",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Sorge",
+      "translation": "worry, concern",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Öffentlichkeit",
+      "translation": "public",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "funktionieren",
+      "translation": "to function, to work",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Schutz",
+      "translation": "protection, shelter, cover",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "behaupten",
+      "translation": "to claim",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "ausschließen",
+      "translation": "to exclude, to rule out, to preclude",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Antrag",
+      "translation": "application, request, petition",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Gang",
+      "translation": "corridor, aisle, course, gear",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "gründen",
+      "translation": "to establish, to found, to base, to start",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Erklärung",
+      "translation": "explanation, statement, declaration",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Energie",
+      "translation": "energy, power",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "übrigens",
+      "translation": "by the way, besides, incidentally",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "das Amt",
+      "translation": "office, department, function, post, position",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "ablehnen",
+      "translation": "to refuse, to reject, to turn down, to decline",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "fördern",
+      "translation": "to promote, to support, to encourage, to foster",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "zwingen",
+      "translation": "to force, to oblige",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Studie",
+      "translation": "study",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Feld",
+      "translation": "field, area, box, pitch",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Einrichtung",
+      "translation": "institution, facility, furnishings",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "ansprechen",
+      "translation": "to address, to bring sth up",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "entfernen",
+      "translation": "to remove",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Publikum",
+      "translation": "public, audience",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "beachten",
+      "translation": "to pay attention, to note, to observe",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "niedrig",
+      "translation": "low, base",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sichern",
+      "translation": "to secure, to safeguard",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "bereit",
+      "translation": "ready, prepared, willing",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Spur",
+      "translation": "track, trace, lane",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "traditionell",
+      "translation": "traditional(ly)",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "fassen",
+      "translation": "to grasp, to seize, to catch, to hold",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "negativ",
+      "translation": "negative",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "wenden",
+      "translation": "to turn",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "per",
+      "translation": "by, per, via",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "die Freiheit",
+      "translation": "freedom, liberty",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "vermeiden",
+      "translation": "to avoid",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Kritik",
+      "translation": "criticism, review",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Ereignis",
+      "translation": "event, incident, occurrence",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Kontrolle",
+      "translation": "control, check, inspection",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "sinken",
+      "translation": "to sink, to decrease, to fall, to drop, to decline",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "ankündigen",
+      "translation": "to announce",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Fähigkeit",
+      "translation": "ability, capability, skill",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Opfer",
+      "translation": "sacrifice, victim",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Wahrheit",
+      "translation": "truth",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Verantwortung",
+      "translation": "responsibility",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Aufnahme",
+      "translation": "reception, recording, snapshot",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "beruflich",
+      "translation": "professional(ly), occupational(ly), vocational(ly)",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "selbstverständlich",
+      "translation": "obvious, natural, self-evident",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Jahrzehnt",
+      "translation": "decade",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "eröffnen",
+      "translation": "to open, to open up, to start",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "sich bemühen",
+      "translation": "to make an effort, to try hard, to endeavor, to endeavour, to strive",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Gebäude",
+      "translation": "building",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "beschließen",
+      "translation": "to decide, to resolve, to determine, to pass",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "offiziell",
+      "translation": "official",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schätzen",
+      "translation": "to estimate, to guess, to reckon, to value, to appreciate",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "leiten",
+      "translation": "to lead, to direct, to guide, to manage, to conduct",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "sich konzentrieren",
+      "translation": "to concentrate, to focus on",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Hoffnung",
+      "translation": "hope",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Bericht",
+      "translation": "report, account, review, narrative",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "dahin",
+      "translation": "there",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der Gewinn",
+      "translation": "profit, gain, earnings, prize, earnings",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "festlegen",
+      "translation": "to set, to define, to specify, to determine, to fix",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der König",
+      "translation": "king",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "brechen",
+      "translation": "to break",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Tat",
+      "translation": "act, deed, action, crime",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Sieg",
+      "translation": "victory, win",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "ausschließlich",
+      "translation": "exclusive(ly), sole(ly), only",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Rand",
+      "translation": "edge, border, margin, side, rim",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "übertragen",
+      "translation": "to transfer, to transmit, to broadcast",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "präsentieren",
+      "translation": "to present",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "sinnvoll",
+      "translation": "sensible, meaningful",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ursprünglich",
+      "translation": "original, initial, natural, unspoiled",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ursprünglich",
+      "translation": "originally, initially",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der Bauer",
+      "translation": "farmer",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Verlust",
+      "translation": "loss",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Vergangenheit",
+      "translation": "past",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Ursache",
+      "translation": "cause, reason",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "verteilen",
+      "translation": "to distribute, to spread",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "jährlich",
+      "translation": "annual(ly), yearly, every year, each year",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "derselbe, dieselbe, dasselbe",
+      "translation": "the same",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "diesmal",
+      "translation": "this time",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der Zuschauer",
+      "translation": "spectator",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Anzahl",
+      "translation": "number, amount, quantity, count",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "verbessern",
+      "translation": "to improve, to correct, to enhance, to upgrade",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Vertreter",
+      "translation": "representative",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "messen",
+      "translation": "to measure",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Generation",
+      "translation": "generation",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Leiter",
+      "translation": "leader, head, conductor, manager, director",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Leiter",
+      "translation": "ladder",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "solang(e)",
+      "translation": "as long as, so long as, whilst, while",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "los",
+      "translation": "rid of, off, going on",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "intensiv",
+      "translation": "intensive",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Abschluss",
+      "translation": "conclusion, completion, end, degree, graduation",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "ersetzen",
+      "translation": "to replace, to reimburse",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "kämpfen",
+      "translation": "to fight, to struggle, to compete",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "warnen",
+      "translation": "to warn, to alert",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Hof",
+      "translation": "courtyard, court, yard, farm",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Kommunikation",
+      "translation": "communication",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "falls",
+      "translation": "in case, if",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "eindeutig",
+      "translation": "clear, unambiguous",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Tradition",
+      "translation": "tradition",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Bühne",
+      "translation": "stage",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Gelegenheit",
+      "translation": "opportunity, occasion",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Anlage",
+      "translation": "plant, facility, system, complex, investment",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Behörde",
+      "translation": "department, authority, authorities",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "verbringen",
+      "translation": "to spend (time)",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "hinweisen",
+      "translation": "to point to, to point out, to indicate, to refer to",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Zusammenarbeit",
+      "translation": "cooperation",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Verständnis",
+      "translation": "understanding, comprehension",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "politisch",
+      "translation": "political(ly)",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Stein",
+      "translation": "rock, stone",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "reduzieren",
+      "translation": "to reduce",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Änderung",
+      "translation": "change, modification, alteration, amendment",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "still",
+      "translation": "still, silent, quiet, calm",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "einführen",
+      "translation": "to introduce, to import, to launch",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Konflikt",
+      "translation": "conflict",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Bau",
+      "translation": "construction, building",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Ausnahme",
+      "translation": "exception",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "pflegen",
+      "translation": "to care, to maintain, to foster, to nurse, to cultivate",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Mehrheit",
+      "translation": "majority",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Leitung",
+      "translation": "management, leadership, pipe, cable, line",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "kritisch",
+      "translation": "critical",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Aktivität",
+      "translation": "activity",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "versichern",
+      "translation": "to insure, to assure, to reassure, to assert",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "begleiten",
+      "translation": "to accompany, to escort",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "besetzen",
+      "translation": "to occupy, to fill, to man, to trim, to staff",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Dach",
+      "translation": "roof",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Kandidat",
+      "translation": "candidate, nominee, contestant",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Runde",
+      "translation": "round",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "akzeptieren",
+      "translation": "to accept",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Stern",
+      "translation": "star",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Experte",
+      "translation": "expert",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "riesig",
+      "translation": "enormous, huge, giant",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "produzieren",
+      "translation": "to produce, to manufacture",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "springen",
+      "translation": "to jump, to leap",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "dicht",
+      "translation": "thick, dense",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "starten",
+      "translation": "to start, to launch, to begin, to take off",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "möglicherweise",
+      "translation": "possibly, perhaps",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der Meister",
+      "translation": "master, champion, foreman",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Frieden",
+      "translation": "peace",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Figur",
+      "translation": "figure, figurine, character, shape",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Industrie",
+      "translation": "industry",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "überprüfen",
+      "translation": "to check, to examine, to review, to verify, to test",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Zugang",
+      "translation": "access, entrance",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "kritisieren",
+      "translation": "to criticize, to criticise, to critique",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Lager",
+      "translation": "warehouse, storehouse, storage, stock, camp",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "ergänzen",
+      "translation": "to add, to complement, to complete, to supplement",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "zerstören",
+      "translation": "to destroy, to ruin",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Rat",
+      "translation": "advice, council, counsel",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Szene",
+      "translation": "scene",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Gewalt",
+      "translation": "violence, force, power, control, authority",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Dauer",
+      "translation": "length of time, duration",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Strecke",
+      "translation": "distance, route",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "entlang",
+      "translation": "along",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "schießen",
+      "translation": "to shoot, to fire",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Tor",
+      "translation": "gate, goal",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "behalten",
+      "translation": "to keep, to retain",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Aktion",
+      "translation": "action, campaign, promotion",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "westlich",
+      "translation": "west, western, westerly",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Ausgabe",
+      "translation": "distribution, edition, expenses",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "extrem",
+      "translation": "extreme(ly)",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "stürzen",
+      "translation": "to fall, to topple, to overthrow",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "umgehen",
+      "translation": "to avoid, to bypass, to circumvent, to handle, to deal with",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Zweifel",
+      "translation": "doubt",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "vermuten",
+      "translation": "to assume, to suspect",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "beweisen",
+      "translation": "to prove, to demonstrate",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Trainer",
+      "translation": "coach, trainer",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "sich verlaufen",
+      "translation": "to get lost, to lose one's way",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "stolz",
+      "translation": "proud",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "endgültig",
+      "translation": "final, ultimate, definite",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "landen",
+      "translation": "to land",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "retten",
+      "translation": "to save, to rescue",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "sobald",
+      "translation": "as soon as",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "elektronisch",
+      "translation": "electronic",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Richter",
+      "translation": "judge",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "sichtbar",
+      "translation": "visible",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Anbieter",
+      "translation": "supplier, provider, vendor",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Urteil",
+      "translation": "sentence, judgement, verdict",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Jugend",
+      "translation": "youth, young people",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Schuld",
+      "translation": "guilt, debt, fault",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "doppelt",
+      "translation": "twice, double, dual",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Stimmung",
+      "translation": "mood, atmosphere",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Alternative",
+      "translation": "alternative",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "genießen",
+      "translation": "to enjoy, to relish, to savor, to savour",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Leser",
+      "translation": "reader",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Temperatur",
+      "translation": "temperature",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "rechtlich",
+      "translation": "legal",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Förderung",
+      "translation": "support, sponsorship, promotion",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "vermutlich",
+      "translation": "probably, presumably, supposedly",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Ware",
+      "translation": "goods",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Einführung",
+      "translation": "introduction",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Spieler",
+      "translation": "player, gambler, gamer",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "fließen",
+      "translation": "to flow, to run",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Summe",
+      "translation": "sum",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "kräftig",
+      "translation": "strong, powerful, vigorous",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Strom",
+      "translation": "stream, current, electricity, power, flow",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "wild",
+      "translation": "wild",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Vertrauen",
+      "translation": "trust, confidence, faith",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "bedienen",
+      "translation": "to serve, to operate",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Vorwurf",
+      "translation": "reproach, accusation, allegation",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Wissenschaftler",
+      "translation": "scientist, researcher, scholar",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "ideal",
+      "translation": "ideal",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Krise",
+      "translation": "crisis",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "mitten",
+      "translation": "in the middle, in the center, amidst, in the midst",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "regional",
+      "translation": "regional",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verabschieden",
+      "translation": "to say goodbye, to see off, to send off, to pass",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "angenehm",
+      "translation": "pleasant, comfortable",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "angenehm",
+      "translation": "pleasantly",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Botschaft",
+      "translation": "message, embassy",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "fortsetzen",
+      "translation": "to continue, to resume, to persue, to proceed",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Nachfrage",
+      "translation": "demand",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "eventuell",
+      "translation": "possible",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Pflicht",
+      "translation": "duty, obligation",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Teilnehmer",
+      "translation": "participant, attendee",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "aufmerksam",
+      "translation": "attentive",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Gegner",
+      "translation": "opponent, adversary, competitor, enemy",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "verraten",
+      "translation": "to tell a secret, to reveal, to give away, to betray",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Verwaltung",
+      "translation": "administration, management",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "ehrlich",
+      "translation": "honest",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Betrag",
+      "translation": "amount, sum, value",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Konkurrenz",
+      "translation": "competition",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "mitteilen",
+      "translation": "to inform",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Streit",
+      "translation": "argument, dispute, quarrel, fight, conflict",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Kauf",
+      "translation": "purchase, buy, acquisition",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "betreuen",
+      "translation": "to look after, to take care, to support, to supervise, to oversee",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Gemeinschaft",
+      "translation": "community",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Sitz",
+      "translation": "seat, fit, headquarters, head office",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Start",
+      "translation": "start, take-off, launch",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Gewerkschaft",
+      "translation": "trade union",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Handel",
+      "translation": "trade, trading, deal, commerce",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "seitdem",
+      "translation": "since then, ever since, since that time",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "seitdem",
+      "translation": "since",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "anzeigen",
+      "translation": "to report, to display, to indicate",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Steuer",
+      "translation": "tax",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "begrüßen",
+      "translation": "to greet, to welcome",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Planung",
+      "translation": "planning, plan",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "veröffentlichen",
+      "translation": "to publish, to release",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Auswahl",
+      "translation": "choice, selection",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Verletzung",
+      "translation": "injury, violation, infringement",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Fläche",
+      "translation": "area, surface",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "achten",
+      "translation": "to respect, to pay attention",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Einnahme",
+      "translation": "earnings, income, revenue, taking",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Saison",
+      "translation": "season",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "ordentlich",
+      "translation": "neat, proper, orderly, tidy, decent",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Auftritt",
+      "translation": "appearance, performance, gig",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Fahrzeug",
+      "translation": "vehicle, car",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Alltag",
+      "translation": "everyday life, dayly life, daily routine",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Hersteller",
+      "translation": "manufacturer, producer",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Holz",
+      "translation": "wood",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Liste",
+      "translation": "list",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Abteilung",
+      "translation": "department",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Verlag",
+      "translation": "publisher, publishing company, publishing house",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "perfekt",
+      "translation": "perfect",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Detail",
+      "translation": "detail",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Beweis",
+      "translation": "proof, evidence",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "erledigen",
+      "translation": "to handle, to complete, to do, to deal with, to take care of",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "spätestens",
+      "translation": "at the latest",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "maximal",
+      "translation": "maximum, maximal",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Bedarf",
+      "translation": "need, demand, requirement",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Beratung",
+      "translation": "advice, discussion, consultation, counselling",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "erstellen",
+      "translation": "to create, to build, to draw up, to produce",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "klären",
+      "translation": "to clear up, to clarify, to resolve, to sort out",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Spiegel",
+      "translation": "mirror",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "gerecht",
+      "translation": "just, fair",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Vorbereitung",
+      "translation": "preparation",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Anwalt",
+      "translation": "lawyer, attorney, solicitor, advocate",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "digital",
+      "translation": "digital",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Seminar",
+      "translation": "seminar, workshop",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Karriere",
+      "translation": "career",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Grundstück",
+      "translation": "plot of land, property, estate",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "komplett",
+      "translation": "complete, entire",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Rad",
+      "translation": "wheel, bike",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "zukünftig",
+      "translation": "future",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Bewohner",
+      "translation": "inhabitant, occupant, resident",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "finanzieren",
+      "translation": "to finance, to fund",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Herausforderung",
+      "translation": "challenge",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "testen",
+      "translation": "to test",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Reform",
+      "translation": "reform",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Zustimmung",
+      "translation": "approval, consent, agreement, assent",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Angehörige",
+      "translation": "member, relative",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "empfangen",
+      "translation": "to receive, to welcome, to greet",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Händler",
+      "translation": "trader, dealer, retailer, merchant, distributor",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "musikalisch",
+      "translation": "musical",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Station",
+      "translation": "station, stop",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Personal",
+      "translation": "staff, personnel",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "unglaublich",
+      "translation": "incredible, unbelievable",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Wunder",
+      "translation": "miracle, wonder",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Begründung",
+      "translation": "explanation, justification",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "durchschnittlich",
+      "translation": "average, on average",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sich lohnen",
+      "translation": "to be worth it, to be worthwhile",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Unternehmer",
+      "translation": "employer, entrepreneur",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Video",
+      "translation": "video",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "städtisch",
+      "translation": "municipal, urban, civic",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Stil",
+      "translation": "style",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "ungewöhnlich",
+      "translation": "unusual",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Einwohner",
+      "translation": "inhabitant",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Täter",
+      "translation": "culprit, offender, perpetrator",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "loben",
+      "translation": "to praise",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "hinterlassen",
+      "translation": "to leave",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "senden",
+      "translation": "to send, to transmit, to broadcast, to be on (the) air",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "verurteilen",
+      "translation": "to condemn, to judge, to convict, to sentence",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Aussicht",
+      "translation": "prospect, view",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "fangen",
+      "translation": "to catch",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Kreuz",
+      "translation": "cross",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "kürzlich",
+      "translation": "recently, not long ago",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der Vortrag",
+      "translation": "lecture, talk, speech, presentation",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Gold",
+      "translation": "gold",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Marke",
+      "translation": "brand, stamp",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Klinik",
+      "translation": "clinic, hospital",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Serie",
+      "translation": "series",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "beantragen",
+      "translation": "to apply for, to request",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Umfrage",
+      "translation": "survey, poll",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Protest",
+      "translation": "protest",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "selbe, selber, selbes",
+      "translation": "same",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "der Sieger",
+      "translation": "winner, victor",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "wunderschön",
+      "translation": "beautiful, wonderful, lovely, gorgeous",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Saal",
+      "translation": "hall, saloon",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Überraschung",
+      "translation": "surprise, astonishment",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "wertvoll",
+      "translation": "valuable, precious",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Werbung",
+      "translation": "advertising, advertisement, publicity, commercial",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Meldung",
+      "translation": "report, message, notification, announcement",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Schulden",
+      "translation": "debt, debts, liabilities",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Stadion",
+      "translation": "stadium",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Zeuge",
+      "translation": "witness",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "stoppen",
+      "translation": "to stop",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "kreativ",
+      "translation": "creative",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Lohn",
+      "translation": "wage, pay, reward",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Tanz",
+      "translation": "dance",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Empfehlung",
+      "translation": "recommendation",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Eröffnung",
+      "translation": "opening",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "monatlich",
+      "translation": "monthly",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Teilnahme",
+      "translation": "participation, attendance",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "gemütlich",
+      "translation": "comfortable, cosy, cozy, comfy",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Galerie",
+      "translation": "gallery",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "gespannt",
+      "translation": "eager, curious, tense, excited, streched",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "mobil",
+      "translation": "mobile",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Netzwerk",
+      "translation": "network",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "voraussichtlich",
+      "translation": "expected, estimated",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Feuerwehr",
+      "translation": "fire brigade, fire department",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Kommentar",
+      "translation": "comment, commentary, remark, annotation",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Forum",
+      "translation": "forum, audience, public discussion",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "installieren",
+      "translation": "to install",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "interessiert",
+      "translation": "interested",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Schreiben",
+      "translation": "letter, writing",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "inklusive",
+      "translation": "inclusive of, including",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "ausreichend",
+      "translation": "sufficient, enough, adequate",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Garantie",
+      "translation": "guarantee, warranty",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "selber",
+      "translation": "myself, yourself, himself, oneself",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "raus",
+      "translation": "out",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "folgend",
+      "translation": "following",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Treffpunkt",
+      "translation": "meeting point, meeting place, venue, rendezvous",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Senior",
+      "translation": "senior citizen",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "geeignet",
+      "translation": "suitable, suited, appropriate, convenient",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "begeistert",
+      "translation": "enthusiastic, thrilled, excited",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sogenannt",
+      "translation": "so-called",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Wissen",
+      "translation": "knowledge",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "nämlich",
+      "translation": "namely, because",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der Tote",
+      "translation": "dead person",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "gar",
+      "translation": "cooked, done",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "begeistert",
+      "translation": "enthusiastically",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "wert",
+      "translation": "worth",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "Abbildung, Abb., die",
+      "translation": "illustration, image, picture",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "zunehmen",
+      "translation": "to increase, to grow, to gain weight",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Zuhause",
+      "translation": "home",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "sich verhalten",
+      "translation": "to behave, to react",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "innerer, innere, inneres",
+      "translation": "inner, internal, interior",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vorkommen",
+      "translation": "to happen, to occur, to seem, to appear",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "lächeln",
+      "translation": "to smile",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Augenblick",
+      "translation": "moment, instant",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "ausreichen",
+      "translation": "to be enough, to be sufficient, to suffice",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "schweigen",
+      "translation": "to remain silent, to say nothing, to keep quiet",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Schwierigkeit",
+      "translation": "difficulty",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Kapitel",
+      "translation": "chapter",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Literatur",
+      "translation": "literature",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "irgendein",
+      "translation": "some, any",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "die Wirklichkeit",
+      "translation": "reality",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "angeben",
+      "translation": "to specify, to indicate, to state, to declare, to show off",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "ungefähr",
+      "translation": "approximately",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "festhalten",
+      "translation": "to hold, to hold on to, to retain, to detain, to record",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Finger",
+      "translation": "finger",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Theorie",
+      "translation": "theory",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Schulter",
+      "translation": "shoulder",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "schieben",
+      "translation": "to push",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "beeinflussen",
+      "translation": "to influence, to affect",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "anwenden",
+      "translation": "to apply, to use",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "einfallen",
+      "translation": "to occur, to come to mind, to remember, to collapse, to invade",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Gegend",
+      "translation": "area, region",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Faktor",
+      "translation": "factor",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Typ",
+      "translation": "type, guy, fellow, bloke",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "sowieso",
+      "translation": "anyway, anyhow",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "einerseits",
+      "translation": "on the one hand, for one thing",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "beschränken",
+      "translation": "to restrict, to limit, to confine, to curtail",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "abhängen",
+      "translation": "to depend, to hang out, to take down, to leave behind, to shake off",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "obere, oberer, oberes",
+      "translation": "upper",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schreien",
+      "translation": "to scream, to shout, to yell, to cry, to screech",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "einnehmen",
+      "translation": "to take, to occupy, to earn",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Abschnitt",
+      "translation": "portion, section, paragraph, clause, phase",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "bemerken",
+      "translation": "to notice, to note",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Ehe",
+      "translation": "marriage",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "abnehmen",
+      "translation": "to decrease, to reduce, to remove, to lose weight",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Störung",
+      "translation": "disturbance, disruption, interruption, fault, disorder",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "nachdenken",
+      "translation": "to think, to think about, to reflect, to ponder, to contemplate",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "außen",
+      "translation": "outside",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "nachher",
+      "translation": "after, afterwards, subsequently",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "das Semester",
+      "translation": "semester, term",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "wieso",
+      "translation": "why",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "theoretisch",
+      "translation": "theoretical",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "regeln",
+      "translation": "to control, to regulate, to govern, to settle, to adjust",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "auseinander",
+      "translation": "apart",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Mauer",
+      "translation": "wall",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "fürchten",
+      "translation": "to fear, to be afraid of, to dread",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "mittlerer, mittlere, mittleres",
+      "translation": "middle, average",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "berechnen",
+      "translation": "to calculate, to charge, to compute",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "eintreten",
+      "translation": "to enter, to join, to happen, to occur",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Darstellung",
+      "translation": "presentation, description",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Schatten",
+      "translation": "shadow, shade",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Lehre",
+      "translation": "apprenticeship, lesson, doctrine",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "elektrisch",
+      "translation": "electric",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Blut",
+      "translation": "blood",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "anschließen",
+      "translation": "to connect, to join",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Nase",
+      "translation": "nose",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Geschwindigkeit",
+      "translation": "speed",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Stufe",
+      "translation": "step, level",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Medizin",
+      "translation": "medicine",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "auffallen",
+      "translation": "to stand out, to attract attention",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Vorschrift",
+      "translation": "instruction, regulation",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Mangel",
+      "translation": "lack, shortage, defect, deficiency, absence",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "realisieren",
+      "translation": "to realise, to realize",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "begegnen",
+      "translation": "to meet, to encounter, to face, to come across",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "erfordern",
+      "translation": "to require, to demand",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "brennen",
+      "translation": "to burn",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "biologisch",
+      "translation": "biological",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "abhängig",
+      "translation": "dependent, addicted",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schuld",
+      "translation": "to be to blame",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Decke",
+      "translation": "ceiling, blanket, cover, mantle",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "erschrecken",
+      "translation": "to frighten, to scare, to shock, to startle, to terrify",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "sämtlich",
+      "translation": "all",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "anerkennen",
+      "translation": "to recognize, to recognise, to acknowledge, to accept, to appreciate",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "schütteln",
+      "translation": "to shake",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "umgekehrt",
+      "translation": "reversed, contrary, the other way around",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "erleichtern",
+      "translation": "to relieve, to make easier, to facilitate",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "unterrichten",
+      "translation": "to teach",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Brust",
+      "translation": "breast, chest",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Länge",
+      "translation": "length, longitude",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Loch",
+      "translation": "hole",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "verursachen",
+      "translation": "to cause",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "vertrauen",
+      "translation": "to trust, to rely on",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "unterbrechen",
+      "translation": "to interrupt",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "vorschlagen",
+      "translation": "to suggest, to propose, to recommend",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Landwirtschaft",
+      "translation": "agriculture, farming",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Realität",
+      "translation": "reality",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "zusammenfassen",
+      "translation": "to summarise, to summarize, to combine",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "ausrichten",
+      "translation": "to tell, to align, to line up",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Fortschritt",
+      "translation": "progress, advance, step forward, improvement",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "körperlich",
+      "translation": "physical(ly)",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "integrieren",
+      "translation": "to integrate",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Mühe",
+      "translation": "effort, trouble, difficulty, toil",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Fremdsprache",
+      "translation": "foreign language",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "gucken",
+      "translation": "to look, to watch, to peek, to peep",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "verstecken",
+      "translation": "to hide",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Käufer",
+      "translation": "buyer, purchaser, shopper",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "auflösen",
+      "translation": "to dissolve",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "beruhigen",
+      "translation": "to calm, to calm down, to soothe, to reassure",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "schmal",
+      "translation": "narrow, slender, slim",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ewig",
+      "translation": "eternal",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "höchstens",
+      "translation": "at (the) most, no more than, at best",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der Nachteil",
+      "translation": "disadvantage",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Tabelle",
+      "translation": "table, chart",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "unheimlich",
+      "translation": "eerie, scary, uncanny",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "weshalb",
+      "translation": "why",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der Verdacht",
+      "translation": "suspicion",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Tourismus",
+      "translation": "tourism",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "auswählen",
+      "translation": "to choose, to select",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "normalerweise",
+      "translation": "normally, usually, typically",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "auffordern",
+      "translation": "to ask, to request",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "enttäuschen",
+      "translation": "to disappoint",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Schriftsteller",
+      "translation": "writer, author",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "umdrehen",
+      "translation": "to turn, to turn over, to turn around, to flip",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Therapie",
+      "translation": "therapy",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Beschreibung",
+      "translation": "description",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Boot",
+      "translation": "boat",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "beinahe, beinah",
+      "translation": "almost, nearly",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Fotografie",
+      "translation": "photography",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "künstlich",
+      "translation": "artificial",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Knie",
+      "translation": "knee",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Schrift",
+      "translation": "script, writing, font",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "gewohnt",
+      "translation": "usual, familiar, accustomed to, used to",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "parallel",
+      "translation": "parallel",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Integration",
+      "translation": "integration",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Beschäftigung",
+      "translation": "employment, job, activity, occupation",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "flach",
+      "translation": "flat, low, shallow",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "kompliziert",
+      "translation": "complicated",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "aufheben",
+      "translation": "to cancel, to pick up, to keep, to lift",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "zuordnen",
+      "translation": "to assign, to allocate, to classify",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "sich entschließen",
+      "translation": "to decide",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Arbeitslosigkeit",
+      "translation": "unemployment",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "garantieren",
+      "translation": "to guarantee",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Taste",
+      "translation": "key, button",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Versicherung",
+      "translation": "insurance, assurance",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Lippe",
+      "translation": "lip",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "hierher",
+      "translation": "here",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "mischen",
+      "translation": "to mix, to blend, to mingle",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Technologie",
+      "translation": "technology",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "gewöhnlich",
+      "translation": "usual, common, ordinary, general, normal",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "aufführen",
+      "translation": "to perform, to list, to behave",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "anstellen",
+      "translation": "to turn on, to employ, to hire, to line up, to queue up",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Kanal",
+      "translation": "canal, channel",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Erlebnis",
+      "translation": "experience",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Sender",
+      "translation": "transmitter, sender, station, channel",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Rechner",
+      "translation": "computer, calculator",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Schlaf",
+      "translation": "sleep",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Tal",
+      "translation": "valley",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "besprechen",
+      "translation": "to discuss, to review",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Einkommen",
+      "translation": "income",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Atem",
+      "translation": "breath, breathing",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Geburt",
+      "translation": "birth",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "einheitlich",
+      "translation": "uniform, standardized",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Erziehung",
+      "translation": "upbringing, education",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Sturm",
+      "translation": "storm",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "statistisch",
+      "translation": "statistical",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vorhaben",
+      "translation": "to have in mind, to plan, to intend",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Träne",
+      "translation": "tear",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "aufhalten",
+      "translation": "to stop, to hold up, to delay",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "zufällig",
+      "translation": "accidental, by chance",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adjective"
+    }
+  ],
+  "total_count": 851,
+  "level": "B1"
+}

@@ -1,0 +1,5963 @@
+{
+  "words": [
+    {
+      "word": "der Zufall",
+      "translation": "chance, coincidence",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "innen",
+      "translation": "inside, on the inside",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "entlassen",
+      "translation": "to dismiss, to fire, to lay off, to release",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Katastrophe",
+      "translation": "disaster, catastrophe",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Sand",
+      "translation": "sand",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "seltsam",
+      "translation": "strange, peculiar, odd",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vernünftig",
+      "translation": "reasonable, sensible",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "aussuchen",
+      "translation": "to choose, to pick",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "zugehen",
+      "translation": "to approach, to close, to shut",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "analysieren",
+      "translation": "to analyse, to analyze",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Fleck",
+      "translation": "stain, spot, speckle",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Entfernung",
+      "translation": "distance",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "schalten",
+      "translation": "to switch, to shift, to change gear",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "sich wundern",
+      "translation": "to surprise, to be surprised, to wonder",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "verrückt",
+      "translation": "crazy, insane, mad, nuts",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ausfallen",
+      "translation": "to drop out, to fall out, to be cancelled",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "ernsthaft",
+      "translation": "serious, genuine",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Erzählung",
+      "translation": "narration, story",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "glatt",
+      "translation": "smooth, even, slippery, straight",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Operation",
+      "translation": "operation",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Gedicht",
+      "translation": "poem",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "hübsch",
+      "translation": "pretty",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Qualifikation",
+      "translation": "qualification",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "ordnen",
+      "translation": "to arrange, to order",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Zahlung",
+      "translation": "payment",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "umso",
+      "translation": "the more",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "der Arbeiter",
+      "translation": "worker",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "aufregen",
+      "translation": "to excite, to upset, to annoy",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "abstimmen",
+      "translation": "to vote, to coordinate",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "erfinden",
+      "translation": "to invent",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "gewöhnen",
+      "translation": "to get used to, to become accustomed, to accustom",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "klagen",
+      "translation": "to complain, to moan, to sue",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "klopfen",
+      "translation": "to knock, to tap, to beat",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "rechtzeitig",
+      "translation": "punctual, in time, in good time, on time, timely",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verständlich",
+      "translation": "comprehensible, understandable",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "zustimmen",
+      "translation": "to agree, to approve, to consent",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Vermittlung",
+      "translation": "negotiation, mediation, arranging, agency",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "herausfinden",
+      "translation": "to find out",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Hütte",
+      "translation": "hut, cabin, cottage",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "atmen",
+      "translation": "to breathe",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Trennung",
+      "translation": "separation",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Symbol",
+      "translation": "symbol",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "ökologisch",
+      "translation": "ecological, organic",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Architekt",
+      "translation": "architect",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "voneinander",
+      "translation": "from each other, from one another",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Absicht",
+      "translation": "intention, intent, purpose",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Flucht",
+      "translation": "flight, escape",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "geheim",
+      "translation": "secret",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Gewissen",
+      "translation": "conscience",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Halt",
+      "translation": "stop, halt, support, hold, grip",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Geschlecht",
+      "translation": "sex, gender",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Mut",
+      "translation": "courage",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Oper",
+      "translation": "opera",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Infektion",
+      "translation": "infection",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Orchester",
+      "translation": "orchestra",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Klima",
+      "translation": "climate",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Kündigung",
+      "translation": "termination, notice, dismissal, cancellation, resignation",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "rennen",
+      "translation": "to run, to race, to sprint",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Scheibe",
+      "translation": "disc, slice, pane",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "quer",
+      "translation": "diagonally, sideways, across, crosswise",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Rückkehr",
+      "translation": "return",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Transport",
+      "translation": "transport, transportation",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "verlängern",
+      "translation": "to lengthen, to extend, to prolong",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "vermissen",
+      "translation": "to miss",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Alkohol",
+      "translation": "alcohol",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Aufenthalt",
+      "translation": "stay, residence",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "heimlich",
+      "translation": "secret, clandestine, furtive, stealthy",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Heim",
+      "translation": "home, asylum",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Frist",
+      "translation": "time period, deadline",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Distanz",
+      "translation": "distance",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "einschalten",
+      "translation": "to switch on, to turn on, to power on",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Konferenz",
+      "translation": "conference",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "küssen",
+      "translation": "to kiss",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "klettern",
+      "translation": "to climb, to clamber",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "sich nähern",
+      "translation": "to approach",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Presse",
+      "translation": "press, squeezer, squeezing machine",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "locker",
+      "translation": "loose, relaxed, casual, easy-going, slack",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Regal",
+      "translation": "shelf",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Übung",
+      "translation": "exercise, practice, drill, tutorial, training",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Zeile",
+      "translation": "line, row",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "sich scheiden lassen",
+      "translation": "to divorce, to get divorced, to part, to separate",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "steil",
+      "translation": "steep",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "südlich",
+      "translation": "south, southern",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "winken",
+      "translation": "to wave, to beckon",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Freundschaft",
+      "translation": "friendship",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Hafen",
+      "translation": "harbour, port, haven",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Geheimnis",
+      "translation": "secret, mystery",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Geschmack",
+      "translation": "taste, flavour, flavor",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "korrigieren",
+      "translation": "to correct",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Hut",
+      "translation": "hat, cap",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "transportieren",
+      "translation": "to transport",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Überzeugung",
+      "translation": "conviction, persuasion",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "Fantasie, Phantasie, die",
+      "translation": "imagination, fantasy",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "wahnsinnig",
+      "translation": "insane, crazy, mad, incredible, massive",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "virtuell",
+      "translation": "virtual",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "zugänglich",
+      "translation": "accessible, available, open, approachable",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Turm",
+      "translation": "tower",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "widersprechen",
+      "translation": "to contradict, to disagree with",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "ausgezeichnet",
+      "translation": "excellent, perfect, fine, superb",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Betreuung",
+      "translation": "care, support, mentoring",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Dialog",
+      "translation": "dialog, dialogue",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Ärger",
+      "translation": "annoyance, trouble, anger, hassle, bother",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "blind",
+      "translation": "blind",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "einschließlich",
+      "translation": "including, inclusive of",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "das Gas",
+      "translation": "gas, accelerator",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Erhöhung",
+      "translation": "increase, raise, elevation, increment",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "feucht",
+      "translation": "damp, moist, humid, clammy",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Kindheit",
+      "translation": "childhood, infancy",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Hitze",
+      "translation": "heat",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "hinterher",
+      "translation": "after that, afterwards",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der Maler",
+      "translation": "painter, artist",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "korrekt",
+      "translation": "correct(ly)",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "merkwürdig",
+      "translation": "strange, curious, odd",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "mündlich",
+      "translation": "oral",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Übersetzer",
+      "translation": "translator",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Ufer",
+      "translation": "shore, bank, waterfront, waterside",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Strafe",
+      "translation": "punishment, penalty, fine",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "anfangs",
+      "translation": "initially, at first, in the beginning",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der Empfang",
+      "translation": "reception",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "fliehen",
+      "translation": "to flee, to escape",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Ernährung",
+      "translation": "nutrition, food, diet",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Herkunft",
+      "translation": "origin",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "jederzeit",
+      "translation": "anytime, at any time, at all times, always",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "neugierig",
+      "translation": "curious",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "reinigen",
+      "translation": "to clean",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Statistik",
+      "translation": "statistics",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "wiegen",
+      "translation": "to weigh",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Abschied",
+      "translation": "departure, leave, parting, farewell, goodbye",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "verdächtig",
+      "translation": "suspicious",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gründlich",
+      "translation": "thorough(ly)",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Held",
+      "translation": "hero",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Flur",
+      "translation": "hall, hallway, corridor",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "einsam",
+      "translation": "lonely, lone, lonesome, isolated, solitary",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "jemals",
+      "translation": "ever",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Kneipe",
+      "translation": "pub, bar",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "kleben",
+      "translation": "to glue, to stick",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Küste",
+      "translation": "coast, coastline, shore, seaside",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Passagier",
+      "translation": "passenger",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "nebenbei",
+      "translation": "besides, by the way, incidentally, on the side, in addition",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "schief",
+      "translation": "crooked, not straight",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "peinlich",
+      "translation": "embarrassing, awkward",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Tuch",
+      "translation": "cloth, scarf, sheet",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Wärme",
+      "translation": "warmth, heat",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "wütend",
+      "translation": "furious, angry, mad, enraged, irate",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Virus",
+      "translation": "virus",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Wiese",
+      "translation": "meadow, lawn",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "besorgen",
+      "translation": "to get, to buy, to provide, to obtain, to take care",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Burg",
+      "translation": "castle, fortress",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Dialekt",
+      "translation": "dialect",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "flexibel",
+      "translation": "flexible",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "extra",
+      "translation": "separately, extra, specially, on purpose",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "das Gefängnis",
+      "translation": "prison, jail",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Katalog",
+      "translation": "catalog, catalogue",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Philosophie",
+      "translation": "philosophy",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Nebel",
+      "translation": "fog, mist, haze",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Schein",
+      "translation": "light, appearance, bill, banknote, certificate",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Wunde",
+      "translation": "wound",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "vergrößern",
+      "translation": "to extend, to increase, to enlarge, to magnify, to expand",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "vorläufig",
+      "translation": "temporary, provisional, preliminary",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "anstrengend",
+      "translation": "exhausting, strenuous, tiring, arduous, demanding",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "entgegenkommen",
+      "translation": "to come to meet, to drive towards, to meet, to accommodate",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Droge",
+      "translation": "drug",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "elegant",
+      "translation": "elegant",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Knochen",
+      "translation": "bone",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Kiste",
+      "translation": "box, crate",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "schuldig",
+      "translation": "guilty, culpable",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Rente",
+      "translation": "pension, retirement, annuity",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "tauchen",
+      "translation": "to dive, to dip, to plunge",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "vergeblich",
+      "translation": "futile, vain",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Zone",
+      "translation": "zone",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "verbrennen",
+      "translation": "to burn, to incinerate",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "anwesend",
+      "translation": "present",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Zins",
+      "translation": "interest, rate",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "aufwachen",
+      "translation": "to wake up, to awake",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Bär",
+      "translation": "bear",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Einzelheit",
+      "translation": "detail",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Dokument",
+      "translation": "document",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "beschädigen",
+      "translation": "to damage",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "erziehen",
+      "translation": "to bring up, to educate, to raise, to teach",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "fröhlich",
+      "translation": "cheerful, happy, merry",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Kurve",
+      "translation": "curve, bend, turn, graph",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Märchen",
+      "translation": "fairy story, fairy tale, tale",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Profi",
+      "translation": "pro, professional, expert",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Nerv",
+      "translation": "nerve",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "nördlich",
+      "translation": "north, northern",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Ofen",
+      "translation": "oven, furnace, stove",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Staub",
+      "translation": "dust",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Sekretärin",
+      "translation": "secretary",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "stumm",
+      "translation": "dumb, silent, mute",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Sportler",
+      "translation": "athlete, sportsman",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "alltäglich",
+      "translation": "daily, usual, ordinary",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ausstellen",
+      "translation": "to display, to exhibit, to show, to issue, to make out",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Abenteuer",
+      "translation": "adventure",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "dauernd",
+      "translation": "constant, lasting",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "blühen",
+      "translation": "to bloom, to blossom, to flourish, to thrive",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "dankbar",
+      "translation": "grateful, thankful",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sich erholen",
+      "translation": "to recover, to relax, to rest, to get better",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Flüssigkeit",
+      "translation": "liquid, fluid, liquidity, fluency",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "fließend",
+      "translation": "fluent, flowing, fluid, running",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Gras",
+      "translation": "grass",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "löschen",
+      "translation": "to put out, to delete, to erase, to clear, to extinguish",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Ingenieur",
+      "translation": "engineer",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Hügel",
+      "translation": "hill, mound",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Muskel",
+      "translation": "muscle",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Rücksicht",
+      "translation": "consideration, regard",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Unterhaltung",
+      "translation": "entertainment, conversation, chat",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "verhaften",
+      "translation": "to arrest, to detain",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "treu",
+      "translation": "faithful, loyal, true",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "voraus",
+      "translation": "ahead, forward, in front",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Zeichnung",
+      "translation": "drawing, sketch",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Vertretung",
+      "translation": "replacement, substitute, representation",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Werkzeug",
+      "translation": "tool, instrument",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "abheben",
+      "translation": "to lift off, to take off, to withdraw, to stand out, to pick up (the phone)",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Zwiebel",
+      "translation": "onion, bulb",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "alternativ",
+      "translation": "alternative",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "aufschreiben",
+      "translation": "to write down",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Bildschirm",
+      "translation": "screen, monitor, display",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "durcheinander",
+      "translation": "in confusion, in a mess",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Enttäuschung",
+      "translation": "disappointment",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "fressen",
+      "translation": "to eat",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "gießen",
+      "translation": "to water, to pour",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "grüßen",
+      "translation": "to greet, to say hello, to salute",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "sich irren",
+      "translation": "to be wrong, to wander",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Münze",
+      "translation": "coin",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Lärm",
+      "translation": "noise, racket, din",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "realistisch",
+      "translation": "realistic",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Sack",
+      "translation": "bag, sack",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Sportart",
+      "translation": "type of sport, discipline",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "stehlen",
+      "translation": "to steal",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Teppich",
+      "translation": "carpet, rug",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Verbot",
+      "translation": "ban, prohibition, interdiction",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Versammlung",
+      "translation": "meeting, gathering, assembly",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Zeug",
+      "translation": "stuff, things, nonsense",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "zusagen",
+      "translation": "to promise, to confirm, to accept",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Breite",
+      "translation": "width, breadth, latitude",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "berufstätig",
+      "translation": "employed, working",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "eilen",
+      "translation": "to hurry, to rush, to hasten",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Erfindung",
+      "translation": "invention",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Gebühr",
+      "translation": "fee, charge, commission",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Ersatz",
+      "translation": "replacement, compensation, substitute, substitution, spare",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "festnehmen",
+      "translation": "to arrest, to detain, to apprehend",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "hassen",
+      "translation": "to hate, to detest",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "illegal",
+      "translation": "illegal",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Kompromiss",
+      "translation": "compromise",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Intelligenz",
+      "translation": "intelligence",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "klingeln",
+      "translation": "to ring, to ring the bell",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Kuh",
+      "translation": "cow",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Lieferung",
+      "translation": "delivery, supply",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Nachwuchs",
+      "translation": "offspring, new generation, young talent",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "mild",
+      "translation": "mild, gentle, lenient",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Schwangerschaft",
+      "translation": "pregnancy",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Salon",
+      "translation": "salon, saloon, lounge, parlor, parlour",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "umarmen",
+      "translation": "to embrace, to hug",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Talent",
+      "translation": "talent",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "tödlich",
+      "translation": "fatal, deadly, lethal, mortal, killing",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Steckdose",
+      "translation": "socket, outlet, power socket, power outlet",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Tempo",
+      "translation": "pace, speed, Kleenex, tissue",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "unterstreichen",
+      "translation": "to underline, to emphasize, to highlight, to accentuate",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Vergnügen",
+      "translation": "pleasure",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Durchschnitt",
+      "translation": "average",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Batterie",
+      "translation": "battery",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "blass",
+      "translation": "pale",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Fabrik",
+      "translation": "factory",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Einbruch",
+      "translation": "break in, burglary, intrusion, collapse, slump",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Erholung",
+      "translation": "recreation, recovery, relaxation, rest",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Geduld",
+      "translation": "patience",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Kasten",
+      "translation": "box, crate",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Mieter",
+      "translation": "tenant, lessee, renter",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Magazin",
+      "translation": "magazine, journal, storeroom, stockroom",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "minimal",
+      "translation": "minimal",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Minderheit",
+      "translation": "minority",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Maus",
+      "translation": "mouse",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "schlank",
+      "translation": "slim, lean, slender",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "operieren",
+      "translation": "to operate, to perform surgery",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Scheidung",
+      "translation": "divorce",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Spezialist",
+      "translation": "specialist",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "umsonst",
+      "translation": "for nothing, in vain, for free, free (of charge)",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "übertreiben",
+      "translation": "to exaggerate, to overdo, to overstate",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Uniform",
+      "translation": "uniform",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "vorlesen",
+      "translation": "to read, to read aloud, to read out",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Vitamin",
+      "translation": "vitamin",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Weiterbildung",
+      "translation": "continuing education, further education, further training",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "zuverlässig",
+      "translation": "reliable, dependable",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Bar",
+      "translation": "bar",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "sich erkundigen",
+      "translation": "to inquire, to ask, to make enquiries",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "bremsen",
+      "translation": "to brake, to slow down, to decelerate",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Fachleute",
+      "translation": "experts, professionals, specialists",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "fällig",
+      "translation": "due, payable",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Frucht",
+      "translation": "fruit",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Hörer",
+      "translation": "listener, receiver, handset",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "interkulturell",
+      "translation": "intercultural",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Metall",
+      "translation": "metal",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "optimistisch",
+      "translation": "optimistic",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Ozean",
+      "translation": "ocean",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Ordner",
+      "translation": "file, folder, steward, marshal",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Respekt",
+      "translation": "respect",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "protestieren",
+      "translation": "to protest",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Abfall",
+      "translation": "waste, garbage, trash, drop, dip",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "festsetzen",
+      "translation": "to set, to fix, to determine, to settle, to collect",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Kunststoff",
+      "translation": "plastic, synthetic material",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Kerze",
+      "translation": "candle",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "östlich",
+      "translation": "east, eastern",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Laune",
+      "translation": "mood",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Nahrungsmittel",
+      "translation": "food",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "nirgendwo",
+      "translation": "nowhere, not anywhere",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Schlange",
+      "translation": "snake, serpent, line, queue",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "überholen",
+      "translation": "to pass, to overtake, to overhaul, to outpace, to outstrip",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "trocknen",
+      "translation": "to dry",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "verbrauchen",
+      "translation": "to use up, to consume",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Zuhörer",
+      "translation": "listener, audience (pl)",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Pfanne",
+      "translation": "(frying) pan",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Gratulation",
+      "translation": "congratulation",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Gasthaus",
+      "translation": "guest house, inn, tavern",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "mutig",
+      "translation": "brave, courageous",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Pech",
+      "translation": "bad luck, pitch, misfortune",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "überfahren",
+      "translation": "to run over, to knock down, to overrun, to traverse",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Besserung",
+      "translation": "improvement, betterment, recovery",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Elefant",
+      "translation": "elephant",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "aufladen",
+      "translation": "to charge, to recharge, to top up, to load",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "worüber",
+      "translation": "what...about, about what",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "heim",
+      "translation": "home",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "unterlassen",
+      "translation": "to refrain from doing, to omit, to fail to do, to neglect",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "konsumieren",
+      "translation": "to consume",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Anleitung",
+      "translation": "instruction, directions, guidance, manual, tutorial",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "genehmigen",
+      "translation": "to approve, to authorize, to authorise, to grant permission, to permit",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Spielzeug",
+      "translation": "toy",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "sich ereignen",
+      "translation": "to occur, to happen",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Zuschlag",
+      "translation": "surcharge, supplementary charge, supplement",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "farbig",
+      "translation": "colored, colorful, coloured, colourful",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Flöte",
+      "translation": "flute, pipe",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Löwe",
+      "translation": "lion, Leo",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Import",
+      "translation": "import(ation)",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Unterlagen",
+      "translation": "documents, papers, records, files",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "rauf",
+      "translation": "up",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Zutat",
+      "translation": "ingredient, addition",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Überstunde",
+      "translation": "overtime, hour of overtime, extra hour",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "worum",
+      "translation": "what...about, about what",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der Studierende",
+      "translation": "student",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Vermietung",
+      "translation": "renting, rental",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Wohnsitz",
+      "translation": "residence, domicile, abode",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Dreck",
+      "translation": "dirt, mud, filth, crud",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die U-Bahn",
+      "translation": "underground, tube, subway, metro",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Konsum",
+      "translation": "consumption",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Reportage",
+      "translation": "report",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Neffe",
+      "translation": "nephew",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Schmutz",
+      "translation": "dirt, filth, grime, mud",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Insekt",
+      "translation": "insect",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "soviel",
+      "translation": "as much as, as far as, so far as, however much",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "die Eile",
+      "translation": "haste, hurry, rush",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "tauschen",
+      "translation": "to swap, to exchange, to trade, to switch",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Rückmeldung",
+      "translation": "feedback, response, reply",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "zweifeln",
+      "translation": "to doubt",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "begrenzt",
+      "translation": "limited, finite, confined",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Lehrstelle",
+      "translation": "apprenticeship, traineeship, trainee position",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Stempel",
+      "translation": "stamp",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Misstrauen",
+      "translation": "mistrust, distrust, suspicion",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Tierpark",
+      "translation": "zoo",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Pinguin",
+      "translation": "penguin",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "tanken",
+      "translation": "to refuel, to fuel, to fill up, to gas up, to tank",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Tüte",
+      "translation": "bag",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Dessert",
+      "translation": "dessert",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Fett",
+      "translation": "fat, grease",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Kissen",
+      "translation": "pillow, cushion",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "verzeihen",
+      "translation": "to forgive, to excuse, to pardon",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Alarm",
+      "translation": "alarm, alert",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "(sich) langweilen",
+      "translation": "to be boring, to bore, to be bored",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Betreuer",
+      "translation": "supervisor, caregiver, person in charge",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Sahne",
+      "translation": "cream",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "stechen",
+      "translation": "to sting, to prick, to bite, to stab",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "abschreiben",
+      "translation": "to copy, to plagiarize, to transcribe, to write off, to depreciate",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Benzin",
+      "translation": "petrol, gas(oline)",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "füttern",
+      "translation": "to feed",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Überschrift",
+      "translation": "title, heading, headline, header",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Bargeld",
+      "translation": "cash",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Metropole",
+      "translation": "metropolis",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Pfleger",
+      "translation": "nurse (male)",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "tippen",
+      "translation": "to type, to tap, to tip",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "frech",
+      "translation": "cheeky, fresh, impudent, insolent",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ärgerlich",
+      "translation": "angry, annoying",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "(sich) ernähren",
+      "translation": "to eat, to feed, to nourish, to support",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "strafbar",
+      "translation": "punishable, liable to prosecution, criminal",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vegetarisch",
+      "translation": "vegetarian",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Reporter",
+      "translation": "reporter",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "anschaffen",
+      "translation": "to buy, to purchase, to acquire, to prostitute oneself",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "behindern",
+      "translation": "to obstruct, to impede, to hinder, to hamper",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "frieren",
+      "translation": "to freeze, to be cold",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Einbrecher",
+      "translation": "burglar",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Kranke",
+      "translation": "invalid, sick person, patient",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "fair",
+      "translation": "fair",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "roh",
+      "translation": "raw, rough, crude",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Unglück",
+      "translation": "disaster, bad luck, misfortune, accident, tragedy",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "heizen",
+      "translation": "to heat",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "schick",
+      "translation": "chic, fashionable, stylish",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Mücke",
+      "translation": "mosquito, midge, gnat",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "werktags",
+      "translation": "on weekdays, on working days",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "populär",
+      "translation": "popular",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Lift",
+      "translation": "lift, elevator",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Notfall",
+      "translation": "emergency",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "Altenheim, Altersheim, das",
+      "translation": "retirement home, old people's home",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "hinunter",
+      "translation": "down",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "das Ballett",
+      "translation": "ballet (company)",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Biene",
+      "translation": "bee",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Terminkalender",
+      "translation": "calendar, diary, planner, timetable, datebook",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Kraftfahrzeug",
+      "translation": "motor vehicle",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Knopf",
+      "translation": "button, knob",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "spitz",
+      "translation": "pointed, sharp, acute",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Fasching",
+      "translation": "carnival",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Hauptbahnhof",
+      "translation": "main station, central station",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "gratis",
+      "translation": "free (of charge), gratis",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Fortsetzung",
+      "translation": "continuation, sequel, follow-up",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "reif",
+      "translation": "ripe, mature",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Pilz",
+      "translation": "mushroom, fungus",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Etage",
+      "translation": "floor, level, story, storey",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "spülen",
+      "translation": "to flush, to rinse, to wash (the dishes)",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Einleitung",
+      "translation": "introduction, initiation, intro, preface",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "überreden",
+      "translation": "to persuade, to convince",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "pflanzen",
+      "translation": "to plant",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Streik",
+      "translation": "strike",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Fotograf",
+      "translation": "photographer",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Personalie",
+      "translation": "personal data, personal details",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Wohnort",
+      "translation": "place of residence",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "sich amüsieren",
+      "translation": "to amuse oneself, to have fun, to enjoy oneself",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Lebenslauf",
+      "translation": "curriculum vitae, CV, résumé, resume",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Visitenkarte",
+      "translation": "business card, calling card",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Nagel",
+      "translation": "nail",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Modul",
+      "translation": "module",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "verwandt",
+      "translation": "related to, akin, kin",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Kriminalpolizei",
+      "translation": "Criminal Investigation Department",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Migration",
+      "translation": "migration",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Hilfsmittel",
+      "translation": "aid",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "lecker",
+      "translation": "delicious, tasty",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Folie",
+      "translation": "foil, film, slide",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Wolle",
+      "translation": "wool",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "stinken",
+      "translation": "to stink",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Urkunde",
+      "translation": "certificate, deed, document",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Broschüre",
+      "translation": "brochure",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Einfahrt",
+      "translation": "entry, entrance, driveway",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "mager",
+      "translation": "lean, thin, skinny",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Landung",
+      "translation": "landing",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Kakao",
+      "translation": "cocoa, chocolate milk, hot chocolate",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "rückwärts",
+      "translation": "backward(s)",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der Pfeffer",
+      "translation": "pepper",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Couch",
+      "translation": "couch, sofa",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "nähen",
+      "translation": "to sew, to stitch",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "schlucken",
+      "translation": "to swallow",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Mond",
+      "translation": "moon",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Betriebsrat",
+      "translation": "works council",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Ausfahrt",
+      "translation": "exit",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Neuigkeit",
+      "translation": "news",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Recherche",
+      "translation": "research, investigation, enquiry",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "pauschal",
+      "translation": "flat-rate, all-inclusive, sweeping, general",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Referat",
+      "translation": "(seminar) paper, presentation, department",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Schaufenster",
+      "translation": "shop window, display window",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Golf",
+      "translation": "golf",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Raucher",
+      "translation": "smoker",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "absagen",
+      "translation": "to cancel, to call off",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Bauernhof",
+      "translation": "farm",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "siegen",
+      "translation": "to win, to be victorious, to prevail, to conquer, to triumph",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "feststehen",
+      "translation": "to be certain, to be fixed, to be clear, to be determined, to be established",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Reihenfolge",
+      "translation": "order, sequence",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Grill",
+      "translation": "grill, barbecue",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "blitzen",
+      "translation": "to flash, to sparkle",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "zuschauen",
+      "translation": "to watch, to look on",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Garderobe",
+      "translation": "wardrobe, cloakroom, checkroom, dressing-room",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "entsorgen",
+      "translation": "to dispose of",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "haltbar",
+      "translation": "durable, non-perishable, tenable, preserved",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Verlierer",
+      "translation": "loser",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Tropfen",
+      "translation": "drop",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Festplatte",
+      "translation": "hard disk, hard drive",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Jahrtausend",
+      "translation": "millennium",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Migrant",
+      "translation": "migrant",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "schaden",
+      "translation": "to harm, to damage",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Notruf",
+      "translation": "emergency call",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "klasse",
+      "translation": "great, neat, brilliant, awesome",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "zweifach",
+      "translation": "double, twofold, dual",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "einfügen",
+      "translation": "to fit in, to insert, to paste",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Grafik",
+      "translation": "graphic, diagram, chart",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Imbiss",
+      "translation": "snack",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Affe",
+      "translation": "monkey, ape",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Klimaanlage",
+      "translation": "air-conditioning",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "hungrig",
+      "translation": "hungry",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "erwachsen",
+      "translation": "adult, grown-up, mature",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Kälte",
+      "translation": "cold, coldness, cold weather",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Menü",
+      "translation": "menu, set menu, set meal",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Pflaster",
+      "translation": "plaster, Band-Aid ®, pavement",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Kuss",
+      "translation": "kiss",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Verbrecher",
+      "translation": "criminal",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "entschlossen",
+      "translation": "determined, resolute",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "satt",
+      "translation": "full, rich, lush, replete, saturated",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "beleidigen",
+      "translation": "to insult, to offend",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Fußgänger",
+      "translation": "pedestrian",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Radfahrer",
+      "translation": "cyclist, biker",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "gleichberechtigt",
+      "translation": "equal, with equal rights",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Fernbedienung",
+      "translation": "remote control",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Wanderung",
+      "translation": "hike, migration",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Pille",
+      "translation": "pill",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Ratschlag",
+      "translation": "advice",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Moderator",
+      "translation": "moderator, presenter, host",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "betrügen",
+      "translation": "to cheat, to defraud, to betray, to trick, to deceive",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Visum",
+      "translation": "visa",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Rufnummer",
+      "translation": "(tele)phone number",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Puppe",
+      "translation": "doll, puppet",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Kennzeichen",
+      "translation": "registration number, license plate, indicator, characteristic",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Fahrbahn",
+      "translation": "road(way)",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Fußgängerzone",
+      "translation": "pedestrian zone, pedestrian precinct",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Arbeitsstelle",
+      "translation": "job, workplace",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Ostsee",
+      "translation": "the Baltic (Sea)",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Dieb",
+      "translation": "thief, burglar",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Schüssel",
+      "translation": "bowl, dish",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Export",
+      "translation": "export(ation)",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Fortbildung",
+      "translation": "further education, training",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "Soße, Sauce, die",
+      "translation": "sauce, gravy, dressing, dip",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Umleitung",
+      "translation": "detour, diversion, redirection",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Fähre",
+      "translation": "ferry",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "einzahlen",
+      "translation": "to deposit, to pay sth in",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Umweltschutz",
+      "translation": "environmental protection",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "schminken",
+      "translation": "to put on make-up",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Misserfolg",
+      "translation": "failure, flop",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "befriedigend",
+      "translation": "satisfying, satisfactory",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sinnlos",
+      "translation": "senseless, pointless, meaningless",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "aufwärts",
+      "translation": "up, upward(s)",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Gaststätte",
+      "translation": "restaurant",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "versäumen",
+      "translation": "to miss, to neglect, to fail",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Laster",
+      "translation": "truck, lorry",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "bestrafen",
+      "translation": "to punish",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Zertifikat",
+      "translation": "certificate",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Nordsee",
+      "translation": "the North Sea",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Ernte",
+      "translation": "harvest, crop",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Spritze",
+      "translation": "syringe, injection, shot",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Eisenbahn",
+      "translation": "train, rail, railway, railroad",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "prima",
+      "translation": "great, neat, super, fantastic, awesome",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Aussprache",
+      "translation": "pronunciation, discussion",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Mahlzeit",
+      "translation": "meal",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Schweigen",
+      "translation": "silence, hush",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "abonnieren",
+      "translation": "to subscribe to",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "zweifach",
+      "translation": "twice, twofold",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der Lehrling",
+      "translation": "apprentice, trainee",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "streiken",
+      "translation": "to strike",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Asyl",
+      "translation": "asylum",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Golf",
+      "translation": "gulf",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "verpacken",
+      "translation": "to pack, to package, to wrap",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Mehl",
+      "translation": "flour, meal, powder",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "untersagt",
+      "translation": "prohibited, forbidden, not allowed",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Rundfahrt",
+      "translation": "(sightseeing) tour, round trip",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Frisur",
+      "translation": "hairstyle, hairdo",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Rasen",
+      "translation": "lawn, grass",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Beleg",
+      "translation": "receipt, voucher, proof, evidence",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Sozialarbeiter",
+      "translation": "social worker",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Kreditkarte",
+      "translation": "credit card",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Studio",
+      "translation": "studio",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "passiv",
+      "translation": "passive",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "zubereiten",
+      "translation": "to prepare, to cook",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Klick",
+      "translation": "click",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Dose",
+      "translation": "can, tin, box",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "überqueren",
+      "translation": "to cross, to traverse",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Buchhandlung",
+      "translation": "bookshop",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Überweisung",
+      "translation": "transfer, remittance, referral",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Bremse",
+      "translation": "brake",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Sessel",
+      "translation": "chair, armchair",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Plastik",
+      "translation": "plastic",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Reservierung",
+      "translation": "reservation",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Denkmal",
+      "translation": "monument, memorial, statue",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Bart",
+      "translation": "beard",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "gebrauchen",
+      "translation": "to use",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Marmelade",
+      "translation": "jam, jelly, marmalade",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "neulich",
+      "translation": "recently, the other day",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "dekorieren",
+      "translation": "to decorate sth [with sth]",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Haustier",
+      "translation": "pet, domestic animal",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Hase",
+      "translation": "rabbit, hare",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Leder",
+      "translation": "leather",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Teilzeit",
+      "translation": "part-time",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "bloggen",
+      "translation": "to blog",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Fachmann",
+      "translation": "expert, specialist, professional",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Wiederholung",
+      "translation": "repetition, repeat, revision, retake, rerun",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "abbiegen",
+      "translation": "to turn (left/right)",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Pension",
+      "translation": "guest house, pension",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Mensa",
+      "translation": "student canteen, refectory",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Motorrad",
+      "translation": "motorcycle, motorbike",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Schmuck",
+      "translation": "jewellery, jewelry",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Haupt-",
+      "translation": "main",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "vordere, vorderer, vorderes",
+      "translation": "front, forward",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Blitz",
+      "translation": "flash, lightning",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Kraftwerk",
+      "translation": "power station, power plant",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Rabatt",
+      "translation": "discount",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Kostüm",
+      "translation": "costume",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Rückfahrt",
+      "translation": "return journey, return trip, way back",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Treppenhaus",
+      "translation": "stairwell, staircase",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Honig",
+      "translation": "honey",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Buffet",
+      "translation": "buffet",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "betrunken",
+      "translation": "drunk, drunken",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "bekanntgeben",
+      "translation": "to announce, to declare",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "sich weigern",
+      "translation": "to refuse",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "sparsam",
+      "translation": "economical, thrifty, spare, sparing",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Mahnung",
+      "translation": "reminder, warning, admonition",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Nadel",
+      "translation": "needle",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "kopieren",
+      "translation": "to photocopy, to copy",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Bestätigung",
+      "translation": "confirmation",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "äußerlich",
+      "translation": "external, outward",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Kabel",
+      "translation": "wire, cable, cord",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Rekord",
+      "translation": "record",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Gewohnheit",
+      "translation": "habit",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Wirt",
+      "translation": "host, landlord, restaurant owner, bar owner",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "höflich",
+      "translation": "polite, courteous",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Standpunkt",
+      "translation": "standpoint, point of view, viewpoint, position",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Präsentation",
+      "translation": "presentation",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Abonnement",
+      "translation": "subscription",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Mehrwertsteuer",
+      "translation": "VAT, value added tax",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "schwitzen",
+      "translation": "to sweat, to perspire, to transpire",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Entlassung",
+      "translation": "dismissal, discharge, release",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Portemonnaie",
+      "translation": "wallet, purse",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "ausgebildet",
+      "translation": "trained, educated",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Badewanne",
+      "translation": "bathtub, bath, tub",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "verwechseln",
+      "translation": "to mix up, to mistake, to confuse",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Kopie",
+      "translation": "photocopy, copy, replica, duplicate",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Tastatur",
+      "translation": "keyboard",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "einbrechen",
+      "translation": "to break in, to cave in, to collapse",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Übernachtung",
+      "translation": "overnight stay",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "verabreden",
+      "translation": "to arrange, to agree on, to appoint",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Hallenbad",
+      "translation": "indoor swimming pool",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Schaf",
+      "translation": "sheep",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Original",
+      "translation": "original, character",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "wetten",
+      "translation": "to bet, to wager, to gamble",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "beißen",
+      "translation": "to bite, to sting, to clash",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Gymnastik",
+      "translation": "gymnastics",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Hausmeister",
+      "translation": "caretaker, janitor",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Langeweile",
+      "translation": "boredom, ennui, tedium",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Spielplatz",
+      "translation": "playground",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Vorort",
+      "translation": "suburb",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Lautsprecher",
+      "translation": "speaker, loudspeaker",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Terrasse",
+      "translation": "terrace, patio",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "ausdrucken",
+      "translation": "to print (out)",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Monitor",
+      "translation": "monitor",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Sonderpreis",
+      "translation": "special [reduced] price",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "original",
+      "translation": "original",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sich anstrengen",
+      "translation": "to try (hard), to make an effort, to strain sth, to exert oneself",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Kabine",
+      "translation": "cabin, booth, changing room",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Humor",
+      "translation": "humour, humor",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Mobilität",
+      "translation": "mobility",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Ente",
+      "translation": "duck, canard",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Lexikon",
+      "translation": "encyclopedia, lexicon",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Pfingsten",
+      "translation": "Whitsun, Pentecost",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Diät",
+      "translation": "diet",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Speise",
+      "translation": "meal, food, dish",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Aufforderung",
+      "translation": "demand, order, request, invitation",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "stilistisch",
+      "translation": "stylistic",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gleichfalls",
+      "translation": "likewise, also",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "das Gift",
+      "translation": "poison, toxin, venom",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Panne",
+      "translation": "breakdown, mishap, glitch, malfunction",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "runter",
+      "translation": "down",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der Metzger",
+      "translation": "butcher",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Tankstelle",
+      "translation": "gas station, petrol station, filling station, gas station",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Stau",
+      "translation": "traffic jam, congestion",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Briefkasten",
+      "translation": "letter box, mailbox, postbox, pillar box",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Besprechung",
+      "translation": "meeting, talk, conference, discussion, review",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Erkältung",
+      "translation": "cold, chill",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Gewürz",
+      "translation": "spice, herb",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Vorfahrt",
+      "translation": "right of way, priority",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Wecker",
+      "translation": "alarm (clock)",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "ängstlich",
+      "translation": "anxious, scared, fearful, afraid, frightened",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Hammer",
+      "translation": "hammer",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Einkauf",
+      "translation": "shopping, purchase, purchasing/buying department",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Noun"
+    },
+    {
+      "word": "wöchentlich",
+      "translation": "weekly, once a week, on a weekly basis",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "vorhin",
+      "translation": "a short while ago, a moment ago, earlier",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der Schreck",
+      "translation": "fright, scare, shock, fear",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Heldin",
+      "translation": "heroine",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "meinetwegen",
+      "translation": "because of me, as for me, on my account, for my sake, as far as I’m concerned",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "das Gebirge",
+      "translation": "mountains, mountain range",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Kassette",
+      "translation": "cassette, tape",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Diplom",
+      "translation": "degree, certificate, diploma",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "halbtags",
+      "translation": "half-day, part-time",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Klassenarbeit",
+      "translation": "class test",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Zahnbürste",
+      "translation": "toothbrush",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Sonder-",
+      "translation": "special",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Braten",
+      "translation": "roast, joint",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "duzen",
+      "translation": "to address informally, to be on first-name terms",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Schnupfen",
+      "translation": "(head) cold, common cold, runny nose, sniffles",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Zange",
+      "translation": "pliers, pincer, forceps",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Wetterbericht",
+      "translation": "weather report",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Knödel",
+      "translation": "dumpling",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "vergnügt",
+      "translation": "cheerful, happy, jolly",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die EC-Karte",
+      "translation": "cash card, debit card",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Einzelkind",
+      "translation": "only child",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Zahncreme",
+      "translation": "toothpaste",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Heimweh",
+      "translation": "homesickness",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "tolerant",
+      "translation": "tolerant",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Fundbüro",
+      "translation": "lost property office, lost-and-found office",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "sich rasieren",
+      "translation": "to shave",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Verb"
+    },
+    {
+      "word": "befreit",
+      "translation": "exempt, free, liberated",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "süchtig",
+      "translation": "addicted",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Lerner",
+      "translation": "learner",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "faulenzen",
+      "translation": "to laze about, to loaf around, to lounge",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Verb"
+    },
+    {
+      "word": "kaputtgehen",
+      "translation": "to break (down), to go to pieces",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Notaufnahme",
+      "translation": "emergency department, emergency room",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Spezial-",
+      "translation": "special",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Ober",
+      "translation": "waiter",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Brieftasche",
+      "translation": "wallet",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "bluten",
+      "translation": "to bleed",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Briefumschlag",
+      "translation": "envelope",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Vorstellungsgespräch",
+      "translation": "(job) interview",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "wochentags",
+      "translation": "on weekdays",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Tram",
+      "translation": "tram(way)",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Gebrauchsanweisung",
+      "translation": "instructions for use, directions for use, operating instructions, user manual",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "unentschieden",
+      "translation": "undecided, tied, drawn",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verpflegen",
+      "translation": "to look after, to cater, to feed",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Müsli",
+      "translation": "muesli, cereals",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Karotte",
+      "translation": "carrot",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Sucht",
+      "translation": "addiction, obsession, craving",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Kopierer",
+      "translation": "(photo)copier",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Gesamt-",
+      "translation": "total",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "zurechtkommen",
+      "translation": "to get on, to get along, to cope, to manage",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Speisewagen",
+      "translation": "dining car, diner, buffet car, restaurant car",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Schmerzmittel",
+      "translation": "painkiller, pain-reliever, analgesic",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Krokodil",
+      "translation": "crocodile",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "(he)runterfahren",
+      "translation": "to shut down, to reduce, to power down, to go down",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Gebäck",
+      "translation": "pastries, biscuits",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Schnitzel",
+      "translation": "schnitzel, cutlet",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Steward",
+      "translation": "steward",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Salbe",
+      "translation": "ointment, salve",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Bedienungsanleitung",
+      "translation": "operating instructions, instruction manual, user manual",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "zelten",
+      "translation": "to camp",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Müllabfuhr",
+      "translation": "garbage collection, garbage disposal, refuse collection",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Schwiegereltern",
+      "translation": "parents-in-law",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Essig",
+      "translation": "vinegar",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "losfahren",
+      "translation": "to drive off, to set off, to depart, to leave",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Schwiegervater",
+      "translation": "father-in-law",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Gehsteig",
+      "translation": "sidewalk, pavement",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Abfalleimer",
+      "translation": "waste bin, trash can, garbage can",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Öko-",
+      "translation": "eco-, organic",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Verkehrszeichen",
+      "translation": "traffic sign, road sign",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "taub",
+      "translation": "deaf, numb",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Quittung",
+      "translation": "receipt",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Donner",
+      "translation": "thunder",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Geldautomat",
+      "translation": "cash dispenser, cash machine, ATM",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "donnern",
+      "translation": "to thunder",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Verb"
+    },
+    {
+      "word": "kaputtmachen",
+      "translation": "to break, to bust, to destroy",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Korridor",
+      "translation": "corridor",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Nachhilfe",
+      "translation": "private tuition, tutoring, coaching",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Zahnpasta",
+      "translation": "toothpaste",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Krankenwagen",
+      "translation": "ambulance",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Strumpf",
+      "translation": "stocking, sock",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Einbahnstraße",
+      "translation": "one-way street",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Vorspeise",
+      "translation": "starter, appetizer",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Sonderangebot",
+      "translation": "special offer, bargain",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "durstig",
+      "translation": "thirsty",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Nationalfeiertag",
+      "translation": "national holiday",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Muttersprache",
+      "translation": "mother tongue, native language, first language",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Bankleitzahl",
+      "translation": "bank code, sort code",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "hochladen",
+      "translation": "to upload",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Konfitüre",
+      "translation": "jam, preserve",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Hackfleisch",
+      "translation": "minced meat, ground meat",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Annonce",
+      "translation": "advertisement, ad(vert)",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Praktikant",
+      "translation": "intern, trainee",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Streichholz",
+      "translation": "match",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Giraffe",
+      "translation": "giraffe",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Bikini",
+      "translation": "bikini",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "hageln",
+      "translation": "to hail",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Verb"
+    },
+    {
+      "word": "nachschlagen",
+      "translation": "to look up",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Einfall",
+      "translation": "idea, invasion, incursion",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Verabredung",
+      "translation": "appointment, date, agreement, arrangement",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Kanne",
+      "translation": "pot, can, jug",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "senkrecht",
+      "translation": "vertical, perpendicular, upright",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Umtausch",
+      "translation": "exchange",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Kuvert",
+      "translation": "envelope",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "waagerecht",
+      "translation": "horizontal, level",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Einzahlung",
+      "translation": "deposit, payment",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "eckig",
+      "translation": "angular, rectangular, square, cornered",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Strafzettel",
+      "translation": "(parking) ticket, (speeding) ticket",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "abwärts",
+      "translation": "down, downward(s)",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "das Abgas",
+      "translation": "exhaust gas, waste gas, exhaust fumes",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Drogerie",
+      "translation": "chemist's (shop), drugstore",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Limonade",
+      "translation": "lemonade",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Klingel",
+      "translation": "bell, doorbell",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Laufwerk",
+      "translation": "drive, disk drive",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Girokonto",
+      "translation": "current account, checking account",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "abmachen",
+      "translation": "to take off, to arrange an appointment, to agree",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Schwiegermutter",
+      "translation": "mother-in-law",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Aushilfe",
+      "translation": "temp, temporary help, temporary job",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Intensivkurs",
+      "translation": "intensive course",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Nachspeise",
+      "translation": "dessert",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "anhaben",
+      "translation": "to wear, to be wearing, to have on",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Verb"
+    },
+    {
+      "word": "entspannend",
+      "translation": "relaxing",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Souvenir",
+      "translation": "souvenir",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Profisportler",
+      "translation": "professional sportsman, professional athlete",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Aprikose",
+      "translation": "apricot",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Kloß",
+      "translation": "dumpling, lump",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Traum-",
+      "translation": "dream",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "umtauschen",
+      "translation": "to exchange, to change",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Socke",
+      "translation": "sock",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Reklame",
+      "translation": "advertising, advertisement",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Picknick",
+      "translation": "picnic",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Verzeihung",
+      "translation": "forgiveness, pardon",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Margarine",
+      "translation": "margarine, marge",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Trinkgeld",
+      "translation": "tip",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Schildkröte",
+      "translation": "turtle, tortoise",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "sich vergnügen",
+      "translation": "to amuse oneself, to enjoy oneself, to have a good time, to have fun",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Verb"
+    },
+    {
+      "word": "abwesend",
+      "translation": "absent/ly",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Möhre",
+      "translation": "carrot",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "verpflichtet",
+      "translation": "obliged, committed, bound",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Schwiegersohn",
+      "translation": "son-in-law",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Kantine",
+      "translation": "canteen, cafeteria",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "abwaschen",
+      "translation": "to wash up, to do the dishes, to wash off sth",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Feuerzeug",
+      "translation": "(cigarette) lighter",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Tagesablauf",
+      "translation": "daily routine",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Pflaume",
+      "translation": "plum",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Schwiegertochter",
+      "translation": "daughter-in-law",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Waschmittel",
+      "translation": "washing powder, (laundry) detergent",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Stecker",
+      "translation": "plug, connector, jack",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Wettervorhersage",
+      "translation": "weather forecast",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Vollzeit",
+      "translation": "full-time",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Arbeitserlaubnis",
+      "translation": "work permit",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Mülltonne",
+      "translation": "dustbin, garbage can",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Einschreiben",
+      "translation": "registered letter, registered mail, certified mail",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Inserat",
+      "translation": "ad(vert), advertisement",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Briefträger",
+      "translation": "postman, postwoman, mail carrier",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "hupen",
+      "translation": "to sound the horn, to honk, to hoot",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Verb"
+    },
+    {
+      "word": "wertlos",
+      "translation": "worthless",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "missverstehen",
+      "translation": "to misunderstand",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Suchtmittel",
+      "translation": "object of addiction, addictive substance, addictive drug",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Mappe",
+      "translation": "folder, portfolio, briefcase, file",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Prost",
+      "translation": "cheers",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Nichtraucher",
+      "translation": "non-smoker",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Geschwindigkeitsbeschränkung",
+      "translation": "speed limit",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Nichte",
+      "translation": "niece",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Schachtel",
+      "translation": "box, pack, packet",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Semmel",
+      "translation": "roll, bun",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Konsulat",
+      "translation": "consulate",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Husten",
+      "translation": "cough",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "verschmutzen",
+      "translation": "to make sth dirty, to dirty, to pollute, to soil, to contaminate",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Vase",
+      "translation": "vase",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Doppelbett",
+      "translation": "double bed",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Alphabet",
+      "translation": "alphabet",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Notausgang",
+      "translation": "emergency exit",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "erschöpft",
+      "translation": "exhausted, tired, depleted, worn out",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verliebt",
+      "translation": "in love, amorous, enamoured, enamored",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Taschentuch",
+      "translation": "tissue, handkerchief, kleenex®",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "anschnallen",
+      "translation": "to put on, to fasten (seat belt), to buckle up",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Verb"
+    },
+    {
+      "word": "salzig",
+      "translation": "salty, salted, savoury, savory",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sich erkälten",
+      "translation": "to catch a cold, to catch a chill",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Umweltverschmutzung",
+      "translation": "pollution",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Kursleiter",
+      "translation": "course instructor, course leader, course director",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Bürste",
+      "translation": "brush",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Praktikantin",
+      "translation": "intern (female), trainee (female)",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Stewardess",
+      "translation": "stewardess",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Wirtin",
+      "translation": "landlady, hostess",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Pflegerin",
+      "translation": "nurse",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Noun"
+    },
+    {
+      "word": "leidtun",
+      "translation": "to feel sorry for, to feel sorry about",
+      "level": "B2",
+      "frequency": 1,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Schularbeit",
+      "translation": "(class) test, homework",
+      "level": "B2",
+      "frequency": 1,
+      "word_type": "Noun"
+    },
+    {
+      "word": "siezen",
+      "translation": "to address formally, to address in the polite form",
+      "level": "B2",
+      "frequency": 1,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Zweitsprache",
+      "translation": "second language",
+      "level": "B2",
+      "frequency": 1,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Textaufbau",
+      "translation": "text structure",
+      "level": "B2",
+      "frequency": 1,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Versichertenkarte",
+      "translation": "health insurance card",
+      "level": "B2",
+      "frequency": 1,
+      "word_type": "Noun"
+    }
+  ],
+  "total_count": 851,
+  "level": "B2"
+}

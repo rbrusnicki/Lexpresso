@@ -1,0 +1,5375 @@
+{
+  "words": [
+    {
+      "word": "der, die, das",
+      "translation": "the",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Unknown"
+    },
+    {
+      "word": "der, die, das",
+      "translation": "who, which, this, that",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "und",
+      "translation": "and",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "ein, eine",
+      "translation": "a, an",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Unknown"
+    },
+    {
+      "word": "sein",
+      "translation": "his, its, their, one's, his or her",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "sein",
+      "translation": "to be",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "in",
+      "translation": "in, at, on, to",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "werden",
+      "translation": "to become, to get, will",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "haben",
+      "translation": "to have",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "mit",
+      "translation": "with, by",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "im",
+      "translation": "in (the), at (the), on (the)",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "ihr",
+      "translation": "you (pl./informal), her, their, hers, theirs",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "Ihr",
+      "translation": "your (formal)",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "von",
+      "translation": "from, of, out of, by",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "zu",
+      "translation": "too, closed",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zu",
+      "translation": "to",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "zu",
+      "translation": "to, at, towards, for",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "für",
+      "translation": "for",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "es",
+      "translation": "it",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "auf",
+      "translation": "on, at, in, for, to",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "auf",
+      "translation": "open, up",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "sich",
+      "translation": "herself, himself, itself, yourself, themselves, oneself",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "auch",
+      "translation": "also, too, as well",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "nicht",
+      "translation": "not, no",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "Sie",
+      "translation": "you (formal)",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "sie",
+      "translation": "she, her, they, them, it",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "ihnen",
+      "translation": "them",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "Ihnen",
+      "translation": "you (formal)",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "er",
+      "translation": "he, it",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "ihn",
+      "translation": "him, it",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "an",
+      "translation": "at, on, by, to",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "am",
+      "translation": "at the, on the, in the",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "unser",
+      "translation": "our",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "können",
+      "translation": "to be able to, to can",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "bei",
+      "translation": "by, with, at",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "dies, dieser, diese, dieses",
+      "translation": "this, that, these",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "aus",
+      "translation": "out, out of, from",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "die Uhr",
+      "translation": "clock, watch, o'clock",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "nach",
+      "translation": "after, towards, to, past, according to",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "uns",
+      "translation": "us, ourselves, each other",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "wir",
+      "translation": "we",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "um... zu",
+      "translation": "in order to",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "um",
+      "translation": "around, about, at",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "wie",
+      "translation": "how, like, as, such as, what",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "das Jahr",
+      "translation": "year",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "bis",
+      "translation": "to, up to, until, till, by",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "ich",
+      "translation": "I",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "so",
+      "translation": "so, (like) that, this way, as, such",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "mir",
+      "translation": "me",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "mich",
+      "translation": "me, myself",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "zum",
+      "translation": "to the, for, for the",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "aber",
+      "translation": "but",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "noch",
+      "translation": "still, even, even more, yet",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "vor",
+      "translation": "in front of, before, ago, from",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "vor",
+      "translation": "forward(s)",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "all, alle, alles",
+      "translation": "all, every, everyone, everybody, everything",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "sagen",
+      "translation": "to say, to tell",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "geben",
+      "translation": "to give, to provide",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "über",
+      "translation": "above, over, about, across, via",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "oder",
+      "translation": "or",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "was",
+      "translation": "what",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "müssen",
+      "translation": "to have to, to need to, to must",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "nur",
+      "translation": "only, just, simply",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "man",
+      "translation": "one, you, they",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "sollen",
+      "translation": "should, shall, to ought to, to be supposed to",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "viel",
+      "translation": "a lot, much, way",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "viel",
+      "translation": "much, a lot of, lots of, many",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "mehr",
+      "translation": "more, further",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "gut",
+      "translation": "good, fine",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gut",
+      "translation": "well",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "neu",
+      "translation": "new",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "besser",
+      "translation": "better",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "erste-1.",
+      "translation": "first",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Number"
+    },
+    {
+      "word": "unter",
+      "translation": "under, among, below, beneath",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "gehen",
+      "translation": "to go, to walk, to leave",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "kommen",
+      "translation": "to come, to arrive",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "kein",
+      "translation": "no, not a",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "wollen",
+      "translation": "to want",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "machen",
+      "translation": "to do, to make",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "gegen",
+      "translation": "against, towards, to",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "dann",
+      "translation": "then, afterwards",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "ab",
+      "translation": "from",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "groß",
+      "translation": "big, large, great, tall",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "durch",
+      "translation": "by, through, due to, across",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "stehen",
+      "translation": "to stand, to be",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "schon",
+      "translation": "already, yet, even",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zwei-2",
+      "translation": "two",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Number"
+    },
+    {
+      "word": "der Euro",
+      "translation": "euro",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "vom",
+      "translation": "from the",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "ihm",
+      "translation": "him",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "anderer, andere, anderes",
+      "translation": "other, another",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "bester, beste, bestes",
+      "translation": "best",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "immer",
+      "translation": "always, constantly, all the time",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der Mensch",
+      "translation": "human, human being, person, man",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "sehr",
+      "translation": "very (much), really, a lot, highly, greatly, extremely",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "weit",
+      "translation": "wide, far, broad",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "seit",
+      "translation": "since, for",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "da",
+      "translation": "there, here",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "da",
+      "translation": "because, as, since",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "finden",
+      "translation": "to find, to think, to locate, to discover",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Kind",
+      "translation": "child, kid",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "jeder, jede, jedes",
+      "translation": "every, each, any, everyone, everybody",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "sehen",
+      "translation": "to see, to view, to watch",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "drei-3",
+      "translation": "three",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Number"
+    },
+    {
+      "word": "der Tag",
+      "translation": "day",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "jetzt",
+      "translation": "now, currently",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Stadt",
+      "translation": "city, town",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Zeit",
+      "translation": "time",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "bleiben",
+      "translation": "to stay, to remain",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Prozent",
+      "translation": "per cent, percent, percentage",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "beide",
+      "translation": "both, two",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "das Foto",
+      "translation": "photograph, photo, picture, shot",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "deutsch",
+      "translation": "German",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "denn",
+      "translation": "because, since",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "alt",
+      "translation": "old",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "hier",
+      "translation": "here",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "liegen",
+      "translation": "to lie, to be located, to be situated",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "ohne",
+      "translation": "without",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "die Frau",
+      "translation": "woman, wife, Mrs.",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Woche",
+      "translation": "week",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "klein",
+      "translation": "small, little, short, tiny, minor",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "heute",
+      "translation": "today, nowadays",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "dürfen",
+      "translation": "to be allowed, may, can",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "zwischen",
+      "translation": "between, among",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "stellen",
+      "translation": "to put (vertically), to place, to position, to set, to provide",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "hoch",
+      "translation": "high, tall",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "hoch",
+      "translation": "high, up",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "dort",
+      "translation": "there, over there",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "das Ende",
+      "translation": "end",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Mann",
+      "translation": "man, husband",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Sonntag",
+      "translation": "Sunday",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "nehmen",
+      "translation": "to take, to have, to use",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Land",
+      "translation": "land, country, state, countryside, nation",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Deutschland",
+      "translation": "Germany",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "du",
+      "translation": "you (informal)",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "bringen",
+      "translation": "to bring, to take",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "jung",
+      "translation": "young",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "erklären",
+      "translation": "to explain, to declare",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "weiter",
+      "translation": "forward, onwards, further",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "wo",
+      "translation": "where",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "lang",
+      "translation": "long",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "wer",
+      "translation": "who",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "wichtig",
+      "translation": "important",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "nächste",
+      "translation": "next",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Haus",
+      "translation": "house, home, building",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "zweite-2.",
+      "translation": "second, 2nd",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Number"
+    },
+    {
+      "word": "vier-4",
+      "translation": "four",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Number"
+    },
+    {
+      "word": "spielen",
+      "translation": "to play, to gamble, to act, to perform",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "halten",
+      "translation": "to stop, to hold, to keep, to last",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "möglich",
+      "translation": "possible",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Platz",
+      "translation": "place, space, room, square, seat",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "Million, Mio., die",
+      "translation": "million",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "einmal",
+      "translation": "once, one day",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "wissen",
+      "translation": "to know",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "kurz",
+      "translation": "briefly, shortly",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "kurz",
+      "translation": "short, brief, quick",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Leben",
+      "translation": "life",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Bild",
+      "translation": "picture, image, painting",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Thema",
+      "translation": "subject, topic, theme, issue",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "spät",
+      "translation": "late",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "also",
+      "translation": "so, therefore",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "einfach",
+      "translation": "simple, easy",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "einfach",
+      "translation": "simply, easily, just",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "ja",
+      "translation": "yes",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "bekommen",
+      "translation": "to get, to receive",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "heißen",
+      "translation": "to be called, to mean",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "tun",
+      "translation": "to do",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "schnell",
+      "translation": "fast, quick",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schnell",
+      "translation": "quickly, swiftly, rapidly, fast",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "gehören",
+      "translation": "to belong to, to be part of",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Monat",
+      "translation": "month",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "beginnen",
+      "translation": "to begin, to start, to commence",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "mögen",
+      "translation": "to like, to want",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Frage",
+      "translation": "question",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Arbeit",
+      "translation": "work, job, labour, labor, paper",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "gerade",
+      "translation": "straight, even",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gerade",
+      "translation": "just, now, just now, right now",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "sprechen",
+      "translation": "to speak, to talk",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "nichts, nix",
+      "translation": "nothing, not anything",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "die Minute",
+      "translation": "minute",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "mein",
+      "translation": "my, mine",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "die Schule",
+      "translation": "school",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Teil",
+      "translation": "part, piece, section, share",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "gleich",
+      "translation": "same, equal, identical",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "gleich",
+      "translation": "immediately, straight away, equally, just, right",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "arbeiten",
+      "translation": "to work",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "welcher, welche, welches",
+      "translation": "which, what",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "brauchen",
+      "translation": "to need, to require",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Welt",
+      "translation": "world",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Problem",
+      "translation": "problem",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "fahren",
+      "translation": "to drive, to ride, to go",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Beispiel",
+      "translation": "example",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "schreiben",
+      "translation": "to write",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "richtig",
+      "translation": "correct, right",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "oft",
+      "translation": "often, frequently",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "schön",
+      "translation": "beautiful, nice",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "dir",
+      "translation": "you (informal), yourself",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "gern, gerne",
+      "translation": "gladly, with pleasure, enjoy (+verb), like",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "wenig",
+      "translation": "few, little",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "leben",
+      "translation": "to live",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "dich",
+      "translation": "you (informal), yourself",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "nie",
+      "translation": "never",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "später",
+      "translation": "later",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "als",
+      "translation": "as, when, than, as if",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "dass",
+      "translation": "that",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "wenn",
+      "translation": "if, when",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "erst",
+      "translation": "first, only, not until",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "wieder",
+      "translation": "again",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "doch",
+      "translation": "however, still, nevertheless, after all",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "lassen",
+      "translation": "to let, to allow, to leave",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "ganz",
+      "translation": "whole, entire, all the, total",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ganz",
+      "translation": "very, completely, entirely, totally, quite",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "rund",
+      "translation": "round, circular",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "rund",
+      "translation": "around, about, approximately",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zeigen",
+      "translation": "to show, to demonstrate, to point, to indicate",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "weil",
+      "translation": "because, as",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Conjunction"
+    },
+    {
+      "word": "selbst",
+      "translation": "even, by oneself",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "selbst",
+      "translation": "–self",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "etwas",
+      "translation": "something, some, a little, a bit",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "etwas",
+      "translation": "somewhat, slightly, a little bit",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "einiger, einige, einiges",
+      "translation": "a few, some, several, quite a lot",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "wem",
+      "translation": "who ... to, to whom, who",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "wegen",
+      "translation": "because of, due to",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "eigen",
+      "translation": "own",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Spiel",
+      "translation": "game, match, play",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "stark",
+      "translation": "strong, thick, powerful, heavy, severe",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "setzen",
+      "translation": "to set, to place, to put",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "sich setzen",
+      "translation": "to sit down, to take seat, to settle",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Verb"
+    },
+    {
+      "word": "mal",
+      "translation": "times, once, ever, by",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "fast",
+      "translation": "almost, nearly",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Seite",
+      "translation": "side, page",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "neben",
+      "translation": "next to, beside, apart from",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "natürlich",
+      "translation": "natural",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "natürlich",
+      "translation": "naturally, of course, obviously",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "das Mal",
+      "translation": "time",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Noun"
+    },
+    {
+      "word": "darauf, drauf",
+      "translation": "on it, to it, on that",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "besonders",
+      "translation": "especially, particularly",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "genau",
+      "translation": "exact, precise, accurate",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sicher",
+      "translation": "safe, secure, certain, sure",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "eigentlich",
+      "translation": "actual, real",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "eigentlich",
+      "translation": "actually, in fact, technically, really",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "lange",
+      "translation": "(for) a long time",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "nein, nee, nö",
+      "translation": "no",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "das Wort",
+      "translation": "word",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "oben",
+      "translation": "above, up, upstairs, at the top",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "laufen",
+      "translation": "to run, to go, to walk",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "warum",
+      "translation": "why",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "sitzen",
+      "translation": "to sit, to perch",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "schwer",
+      "translation": "difficult, heavy, hard, severe",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "klar",
+      "translation": "clear",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Geld",
+      "translation": "money",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "allein",
+      "translation": "alone, on one's own",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "dein",
+      "translation": "your (informal)",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "glauben",
+      "translation": "to believe, to think",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "fünf-5",
+      "translation": "five",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "die Stunde",
+      "translation": "hour, lesson",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Name",
+      "translation": "name",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "scheinen",
+      "translation": "to shine, to seem, to appear",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "vielleicht",
+      "translation": "perhaps, maybe, possibly",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "treffen",
+      "translation": "to meet, to make, to hit, to strike",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "bekannt",
+      "translation": "known, well-known, familiar, famous",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Kopf",
+      "translation": "head, mind",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "letzter, letzte, letztes",
+      "translation": "last",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "leicht",
+      "translation": "light, easy",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "fragen",
+      "translation": "to ask",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "sich fragen",
+      "translation": "to wonder",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Leute",
+      "translation": "people, folk(s)",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "legen",
+      "translation": "to lay, to put (horizontally), to place, to set",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Stelle",
+      "translation": "place, position, location, job",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "(sich) vorstellen",
+      "translation": "to introduce, to present, to imagine, to picture, to envisage",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "suchen",
+      "translation": "to search, to look for, to seek",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Wasser",
+      "translation": "water",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Buch",
+      "translation": "book",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Abend",
+      "translation": "evening",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "morgen",
+      "translation": "tomorrow",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der Morgen",
+      "translation": "morning",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "frei",
+      "translation": "free, available, vacant, clear",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Hand",
+      "translation": "hand",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "zehn-10",
+      "translation": "ten",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "die Familie",
+      "translation": "family",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "lesen",
+      "translation": "to read",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Aufgabe",
+      "translation": "task, assignment, job",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "schlecht",
+      "translation": "bad, poor",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "kennen",
+      "translation": "to know",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Freund",
+      "translation": "friend, boyfriend",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "bisschen",
+      "translation": "a little, a bit, a bit of",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "der Raum",
+      "translation": "room, space",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Nacht",
+      "translation": "night",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Eltern",
+      "translation": "parents",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Blick",
+      "translation": "look, view, glance, gaze",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Herr",
+      "translation": "man, Mr, gentleman",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Straße",
+      "translation": "road, street",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "aussehen",
+      "translation": "to appear, to look",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Sprache",
+      "translation": "language, speech",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Gruppe",
+      "translation": "group",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "anfangen",
+      "translation": "to begin, to start",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "rot",
+      "translation": "red",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Anfang",
+      "translation": "beginning, start",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "lernen",
+      "translation": "to learn, to study",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Moment",
+      "translation": "moment",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Ort",
+      "translation": "place, town, location, site, spot",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "wohnen",
+      "translation": "to live, to dwell, to reside",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "meist",
+      "translation": "most",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "Milliarde, Mrd., die",
+      "translation": "billion",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "warten",
+      "translation": "to wait, to await, to maintain, to service",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "verstehen",
+      "translation": "to understand, to comprehend, to apprehend",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Text",
+      "translation": "text",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Ergebnis",
+      "translation": "result, outcome",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Schüler",
+      "translation": "pupil, student",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "helfen",
+      "translation": "to help, to aid, to assist",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "sechs-6",
+      "translation": "six",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "gewinnen",
+      "translation": "to win, to gain",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Gespräch",
+      "translation": "conversation, talk, chat",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "europäisch",
+      "translation": "European",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "halb",
+      "translation": "half",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schließen",
+      "translation": "to close, to shut",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Wohnung",
+      "translation": "apartment, flat",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Meter",
+      "translation": "meter, metre",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "anbieten",
+      "translation": "to offer",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Preis",
+      "translation": "price, prize, award",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Lehrer",
+      "translation": "teacher",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "bedeuten",
+      "translation": "to mean, to signify",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "studieren",
+      "translation": "to study",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Sohn",
+      "translation": "son",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "fehlen",
+      "translation": "to lack, to be missing, to be absent",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "schwarz",
+      "translation": "black",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "acht-8",
+      "translation": "eight",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "sofort",
+      "translation": "immediately, right away, right now",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Information",
+      "translation": "information",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "bald",
+      "translation": "soon, almost",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der Beruf",
+      "translation": "occupation, job, profession",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Auto",
+      "translation": "automobile, car",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Mutter",
+      "translation": "mother",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Tisch",
+      "translation": "table",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Bank",
+      "translation": "bank, bench",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Tochter",
+      "translation": "daughter",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Licht",
+      "translation": "light",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Film",
+      "translation": "film, movie",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "gestern",
+      "translation": "yesterday",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "Doktor, Dr., der",
+      "translation": "doctor",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "öffnen",
+      "translation": "to open",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "gefallen",
+      "translation": "to please, to like",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "bitte",
+      "translation": "please",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "das Mädchen",
+      "translation": "girl",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "lachen",
+      "translation": "to laugh",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Firma",
+      "translation": "firm, company, business",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "zusammen",
+      "translation": "together",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der September",
+      "translation": "September",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "grün",
+      "translation": "green",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "weiß",
+      "translation": "white",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "sieben-7",
+      "translation": "seven",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "der Student",
+      "translation": "student",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Zeitung",
+      "translation": "newspaper, paper",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "wann",
+      "translation": "when",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "kaufen",
+      "translation": "to buy, to purchase, to shop",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Internet",
+      "translation": "internet, web",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Satz",
+      "translation": "sentence, clause, phrase, set",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Angebot",
+      "translation": "offer, range, quote, supply",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "unten",
+      "translation": "down, below, at the bottom, downstairs",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "trinken",
+      "translation": "to drink",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "langsam",
+      "translation": "slow",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Arzt",
+      "translation": "doctor, physician, practitioner",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Zimmer",
+      "translation": "room",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Fuß",
+      "translation": "foot",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Zug",
+      "translation": "train",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Chef",
+      "translation": "head, leader, boss, manager, director",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "meist",
+      "translation": "mostly, usually",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Lösung",
+      "translation": "solution",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Klasse",
+      "translation": "class, classroom, grade",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Junge",
+      "translation": "boy",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "falsch",
+      "translation": "false, wrong, incorrect",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "leider",
+      "translation": "unfortunately",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "holen",
+      "translation": "to get, to fetch",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Studium",
+      "translation": "study, studies",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "normal",
+      "translation": "normal",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "fremd",
+      "translation": "foreign, strange, unfamiliar",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Kunde",
+      "translation": "customer, client",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "sterben",
+      "translation": "to die",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Bett",
+      "translation": "bed",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "tot",
+      "translation": "dead",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "essen",
+      "translation": "to eat, to dine",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Geschäft",
+      "translation": "business, deal, store, shop",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Dorf",
+      "translation": "village",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Dank",
+      "translation": "thanks, gratitude",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Gast",
+      "translation": "guest, customer, visitor",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Bruder",
+      "translation": "brother",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Kollege",
+      "translation": "colleague, workmate, associate",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Sommer",
+      "translation": "summer",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "dauern",
+      "translation": "to last, to take",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "sich freuen",
+      "translation": "to be happy, to be pleased, to be glad",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Antwort",
+      "translation": "answer, reply, response",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "bezahlen",
+      "translation": "to pay",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "bitten",
+      "translation": "to request, to ask, to beg",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "besuchen",
+      "translation": "to visit, to attend",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Alter",
+      "translation": "age, old age",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "fertig",
+      "translation": "finished, ready",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "ankommen",
+      "translation": "to arrive, to reach",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "breit",
+      "translation": "wide, broad",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Polizei",
+      "translation": "police",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Hilfe",
+      "translation": "help, aid, assistance, support",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Vater",
+      "translation": "father, dad",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Computer",
+      "translation": "computer",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "Kilometer, km, der",
+      "translation": "kilometer, kilometre",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Ordnung",
+      "translation": "order, tidiness",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Mitte",
+      "translation": "middle, centre",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Wochenende",
+      "translation": "weekend",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "lieber",
+      "translation": "rather",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der Oktober",
+      "translation": "October",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Westen",
+      "translation": "west",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Glück",
+      "translation": "luck, fortune, happiness",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Osten",
+      "translation": "east",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Schwester",
+      "translation": "sister",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "danke",
+      "translation": "thank you, thanks",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "das Haar",
+      "translation": "hair",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Reise",
+      "translation": "journey, trip, voyage",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Montag",
+      "translation": "Monday",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Brief",
+      "translation": "letter",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "lieben",
+      "translation": "to love",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "antworten",
+      "translation": "to answer, to reply, to respond",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "lieb",
+      "translation": "sweet, dear, kind, nice",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Größe",
+      "translation": "size, height",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "erzählen",
+      "translation": "to tell",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "laut",
+      "translation": "according to",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "verkaufen",
+      "translation": "to sell",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "erlauben",
+      "translation": "to allow, to permit",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "drücken",
+      "translation": "to press, to push, to squeeze, to hug",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "geboren",
+      "translation": "born",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Sport",
+      "translation": "sport",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "benutzen",
+      "translation": "to use",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "kulturell",
+      "translation": "cultural",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "zwölf-12",
+      "translation": "twelve",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "verdienen",
+      "translation": "to earn, to deserve, to merit",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "kosten",
+      "translation": "to cost, to taste",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "ruhig",
+      "translation": "quiet(ly), calm(ly)",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Aussage",
+      "translation": "statement, testimony",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Jugendliche",
+      "translation": "adolescent, youngster, young person",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "fliegen",
+      "translation": "to fly",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Farbe",
+      "translation": "colour, color, paint",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "teuer",
+      "translation": "expensive",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "neun-9",
+      "translation": "nine",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "das Bein",
+      "translation": "leg",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Papier",
+      "translation": "paper",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "schicken",
+      "translation": "to send, to mail",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Sonne",
+      "translation": "sun",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Sekunde",
+      "translation": "second",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "(ein)hundert-100",
+      "translation": "hundred",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "die Küche",
+      "translation": "kitchen, cuisine",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Kurs",
+      "translation": "course, class, rate, exchange rate",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "zahlen",
+      "translation": "to pay",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Garten",
+      "translation": "garden",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Essen",
+      "translation": "food, meal, dinner",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "zurzeit",
+      "translation": "currently, at the moment",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der Plan",
+      "translation": "plan, map, schedule",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "reisen",
+      "translation": "to travel",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Meer",
+      "translation": "sea, ocean",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Auge",
+      "translation": "eye",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Baum",
+      "translation": "tree",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der November",
+      "translation": "November",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Schluss",
+      "translation": "end, conclusion, closing, finish",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "blau",
+      "translation": "blue",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Praxis",
+      "translation": "practice, doctor’s office, practical experience",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Dienstag",
+      "translation": "Tuesday",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Freundin",
+      "translation": "friend, girlfriend",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Glas",
+      "translation": "glass, jar",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Maschine",
+      "translation": "machine, machinery",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Nummer",
+      "translation": "number",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Hund",
+      "translation": "dog",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Verein",
+      "translation": "association, club, society",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "feiern",
+      "translation": "to celebrate, to party",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Wind",
+      "translation": "wind",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Job",
+      "translation": "job",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Grad",
+      "translation": "degree, level, extent",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Mittwoch",
+      "translation": "Wednesday",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "zufrieden",
+      "translation": "satisfied",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Ausland",
+      "translation": "foreign countries, foreign country, abroad",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Hotel",
+      "translation": "hotel",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Fehler",
+      "translation": "mistake, error, fault, bug, defect",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Partner",
+      "translation": "partner, associate",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der See",
+      "translation": "lake",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "sich kümmern",
+      "translation": "to take care of, to look after, be concerned",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Arbeitsplatz",
+      "translation": "job, workplace",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "einladen",
+      "translation": "to invite, to load",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Urlaub",
+      "translation": "vacation, holiday",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "glücklich",
+      "translation": "happy, fortunate, lucky",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Karte",
+      "translation": "card, map, ticket, menu",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Norden",
+      "translation": "north",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "empfehlen",
+      "translation": "to recommend",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Prüfung",
+      "translation": "exam(ination), test, inspection, verification",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Bitte",
+      "translation": "request",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Mai",
+      "translation": "May",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "ausländisch",
+      "translation": "foreign",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "laut",
+      "translation": "loud, noisy",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Freitag",
+      "translation": "Friday",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Winter",
+      "translation": "winter",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "abgeben",
+      "translation": "to give away, to hand in, to submit, to deliver, to dispense",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Samstag",
+      "translation": "Saturday",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Januar",
+      "translation": "January",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Dezember",
+      "translation": "December",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "automatisch",
+      "translation": "automatic",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Donnerstag",
+      "translation": "Thursday",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Dame",
+      "translation": "lady, queen, checkers",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Ecke",
+      "translation": "corner",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "eins-1",
+      "translation": "one",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "der Herbst",
+      "translation": "autumn, fall",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "hallo",
+      "translation": "hello",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Interjection"
+    },
+    {
+      "word": "die Bahn",
+      "translation": "train, railway, track, lane",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "hinten",
+      "translation": "at the back, in the back",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "international",
+      "translation": "international(ly)",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "elf-11",
+      "translation": "eleven",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "der Kaffee",
+      "translation": "coffee",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Rechnung",
+      "translation": "invoice, bill, calculation",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Nachmittag",
+      "translation": "afternoon",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Mannschaft",
+      "translation": "crew, team",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "links",
+      "translation": "left, on the left, to the left",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "rechts",
+      "translation": "right, on the right, to the right",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "bestellen",
+      "translation": "to order",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "günstig",
+      "translation": "cheap, reasonable, favourable, favorable, good",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Laden",
+      "translation": "shop, store",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Fußball",
+      "translation": "soccer, football",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Feuer",
+      "translation": "fire",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Juli",
+      "translation": "July",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "hören",
+      "translation": "to hear, to listen to",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Führung",
+      "translation": "management, command, leadership, guided tour, lead",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Telefon",
+      "translation": "telephone, phone",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Bus",
+      "translation": "bus",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Bad",
+      "translation": "bath, bathroom, spa",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "(ein)tausend-1000",
+      "translation": "thousand",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "der Juni",
+      "translation": "June",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Wein",
+      "translation": "wine",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Wetter",
+      "translation": "weather",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Tasche",
+      "translation": "pocket, bag",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "billig",
+      "translation": "cheap",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Test",
+      "translation": "test",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Regen",
+      "translation": "rain",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Termin",
+      "translation": "appointment, date, deadline",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der April",
+      "translation": "April",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "zurück",
+      "translation": "back",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "das Bier",
+      "translation": "beer",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der März",
+      "translation": "March",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Lied",
+      "translation": "song",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Pause",
+      "translation": "pause, break",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der August",
+      "translation": "August",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Geburtstag",
+      "translation": "birthday, date of birth",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Adresse",
+      "translation": "address",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Heimat",
+      "translation": "home, homeland",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Kino",
+      "translation": "cinema, movie theatre",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "gelb",
+      "translation": "yellow",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "enden",
+      "translation": "to end, to terminate, to cease",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Erwachsene",
+      "translation": "adult, grown-up",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Drittel",
+      "translation": "third",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "drittel-1/3",
+      "translation": "third",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "der Fahrer",
+      "translation": "driver",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "wunderbar",
+      "translation": "wonderful",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Beamte(r)",
+      "translation": "official, officer, civil servant",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Anschluss",
+      "translation": "connection, port",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "euer",
+      "translation": "your (pl./informal)",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "die Post",
+      "translation": "mail, post office",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Flughafen",
+      "translation": "airport",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Bahnhof",
+      "translation": "station, train station, railway station",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Kasse",
+      "translation": "cash register, checkout, till",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Februar",
+      "translation": "February",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Gewicht",
+      "translation": "weight",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Schuh",
+      "translation": "shoe",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "plus",
+      "translation": "plus",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Halle",
+      "translation": "hall",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Restaurant",
+      "translation": "restaurant",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "lustig",
+      "translation": "funny, amusing, merry",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Auskunft",
+      "translation": "information",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Café",
+      "translation": "coffee house, café, coffee shop",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "herzlich",
+      "translation": "warm, friendly, cordial, kind",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Handy",
+      "translation": "mobile (phone), cell phone",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "weiblich",
+      "translation": "feminine, female",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Kindergarten",
+      "translation": "kindergarten, nursery school",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Geschenk",
+      "translation": "gift, present",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "danken",
+      "translation": "to thank",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Pass",
+      "translation": "pass, passport",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "anmelden",
+      "translation": "to sign up, to log in, to register, to enrol, to subscribe",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "Quadratmeter, m², der",
+      "translation": "square meter, square metre",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Anzeige",
+      "translation": "display, advertisement",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Liter",
+      "translation": "litre, liter",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Party",
+      "translation": "party",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Eintritt",
+      "translation": "entry, admission, entrance",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "willkommen",
+      "translation": "welcome",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Gruß",
+      "translation": "greeting, salute, saluation",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "E-Mail, Email, die",
+      "translation": "email, e-mail",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "zirka, circa, ca.",
+      "translation": "approximately, about",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "das Fax",
+      "translation": "fax",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Sonnabend",
+      "translation": "Saturday",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Deutsche",
+      "translation": "German",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "vierte-4.",
+      "translation": "fourth, 4th",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "die Anmeldung",
+      "translation": "application, registration, login, enrolment",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "dritte-3.",
+      "translation": "third, 3rd",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Number"
+    },
+    {
+      "word": "das Europa",
+      "translation": "Europe",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "verboten",
+      "translation": "prohibited, forbidden, not allowed",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Aufzug",
+      "translation": "elevator, lift",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "geschlossen",
+      "translation": "closed",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "bestehen",
+      "translation": "to exist, to insist, to pass, to consist, to persist",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "denken",
+      "translation": "to think",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Sache",
+      "translation": "thing, matter, cause",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Weg",
+      "translation": "path, way, route, road, trail",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "einzeln",
+      "translation": "individual, single, separate, lone",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Geschichte",
+      "translation": "history, story",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "nennen",
+      "translation": "to name, to call",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "darüber, drüber",
+      "translation": "above it, about it",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "deshalb",
+      "translation": "for that reason, therefore, because of this, that's why",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "ein paar",
+      "translation": "a few",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "das Paar",
+      "translation": "pair, couple",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "sogar",
+      "translation": "even, actually",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "damals",
+      "translation": "then, at that time, at the time, in those days",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "sonst",
+      "translation": "otherwise",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "fallen",
+      "translation": "to fall, to drop, to decline",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "hinter",
+      "translation": "behind",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "meinen",
+      "translation": "to think, to mean, to say",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "anders",
+      "translation": "different(ly), otherwise",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "erreichen",
+      "translation": "to achieve, to reach, to attain, to accomplish, to gain",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "wirklich",
+      "translation": "real, actual, true",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "wirklich",
+      "translation": "really, truly, actually",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "tragen",
+      "translation": "to carry, to wear, to bear",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "früh",
+      "translation": "early",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "schaffen",
+      "translation": "to make, to create, to manage",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "Universität, Uni, die",
+      "translation": "university",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Person",
+      "translation": "person",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Ziel",
+      "translation": "destination, goal, aim, target",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "gegenüber",
+      "translation": "opposite, towards, over, vis-à-vis",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "deutlich",
+      "translation": "clear(ly), significant(ly)",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verlieren",
+      "translation": "to lose",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Ding",
+      "translation": "thing, item",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "reden",
+      "translation": "to talk, to speak",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Zahl",
+      "translation": "number",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Gesicht",
+      "translation": "face",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "voll",
+      "translation": "full",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "direkt",
+      "translation": "direct, straight",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "versuchen",
+      "translation": "to try, to attempt",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "offen",
+      "translation": "open",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "verschieden",
+      "translation": "different, diverse, various, diverse, several",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Interesse",
+      "translation": "interest",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "manchmal",
+      "translation": "sometimes",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "jemand",
+      "translation": "someone, somebody, anybody, anyone",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "die Tür",
+      "translation": "door",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "niemand",
+      "translation": "no one, nobody, anyone",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "fühlen",
+      "translation": "to feel, to sense",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "interessieren",
+      "translation": "to interest",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "sich interessieren",
+      "translation": "to be interested in",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "erinnern",
+      "translation": "to remind, to commemorate",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "sich erinnern",
+      "translation": "to remember, to recall",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Stück",
+      "translation": "piece, part, bit",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Punkt",
+      "translation": "dot, point, period, spot, item",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "wahrscheinlich",
+      "translation": "probable, likely",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "wahrscheinlich",
+      "translation": "probably",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "her",
+      "translation": "from sth, ago, in terms of",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "ansehen",
+      "translation": "to look at, to see, to view, to watch",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "außerdem",
+      "translation": "besides, also, in addition, furthermore, moreover",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "vergleichen",
+      "translation": "to compare",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "plötzlich",
+      "translation": "sudden(ly)",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Angst",
+      "translation": "fear, anxiety",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "schwierig",
+      "translation": "difficult, hard",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Musik",
+      "translation": "music",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Kunst",
+      "translation": "art",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Programm",
+      "translation": "programme",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "mancher, manche, manches",
+      "translation": "some, many a",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun"
+    },
+    {
+      "word": "ausgehen",
+      "translation": "to go out, to run out, to assume, to expect",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "genug",
+      "translation": "enough",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "praktisch",
+      "translation": "practical",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "beschreiben",
+      "translation": "to describe",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "ändern",
+      "translation": "to change, to modify, to alter, to amend",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "endlich",
+      "translation": "finally, at last, eventually",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Erfahrung",
+      "translation": "experience",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "modern",
+      "translation": "modern, fashionable",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "planen",
+      "translation": "to plan",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Kirche",
+      "translation": "church",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "tief",
+      "translation": "deep, low",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Markt",
+      "translation": "market, marketplace, mart",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "hin",
+      "translation": "there, towards",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "rufen",
+      "translation": "to call",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "passieren",
+      "translation": "to take place, to happen, to pass, to pass through",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "interessant",
+      "translation": "interesting",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "wählen",
+      "translation": "to choose, to select, to elect, to vote, to dial",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "vergessen",
+      "translation": "to forget",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "eng",
+      "translation": "narrow, tight, close",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "stattfinden",
+      "translation": "to take place, to occur, to happen",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "pro",
+      "translation": "per",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "die Kultur",
+      "translation": "culture",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "vorher",
+      "translation": "earlier, beforehand, before, previously",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "notwendig",
+      "translation": "necessary",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Projekt",
+      "translation": "project",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "berichten",
+      "translation": "to report, to tell",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Körper",
+      "translation": "body",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Fenster",
+      "translation": "window",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "die Idee",
+      "translation": "idea",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Produkt",
+      "translation": "product",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "rechnen",
+      "translation": "to calculate, to reckon, to expect",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Meinung",
+      "translation": "opinion, view, mind",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Mittel",
+      "translation": "means, remedy, resource, agent, way",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "mindestens",
+      "translation": "at least",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der Mitarbeiter",
+      "translation": "employee, co-worker, staff member",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "wahr",
+      "translation": "true, real",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Natur",
+      "translation": "nature",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Spaß",
+      "translation": "fun, joke",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Tier",
+      "translation": "animal",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "hoffen",
+      "translation": "to hope",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "bauen",
+      "translation": "to build, to construct",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "wünschen",
+      "translation": "to wish, to want",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "hängen",
+      "translation": "to hang",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Menge",
+      "translation": "quantity, amount",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Kontakt",
+      "translation": "contact",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "außer",
+      "translation": "except for, apart from",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "teilen",
+      "translation": "to divide, to share, to split",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Unterschied",
+      "translation": "difference, distinction",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "zuerst",
+      "translation": "first, at first, initially",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "hart",
+      "translation": "hard",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Ausbildung",
+      "translation": "training, education, apprenticeship, development",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Theater",
+      "translation": "theatre",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "das Gerät",
+      "translation": "device, tool, equipment, appliance",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "unbedingt",
+      "translation": "absolutely, definitely, really",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "hinaus",
+      "translation": "out, beyond",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "der Vertrag",
+      "translation": "contract, agreement, treaty, pact",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "zuletzt",
+      "translation": "last, finally, in the end",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "die Reihe",
+      "translation": "row, line, series",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "aktuell",
+      "translation": "current, topical",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "merken",
+      "translation": "to notice, to note, to remember, to memorise, to realise",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "passen",
+      "translation": "to fit, to match",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Nähe",
+      "translation": "vicinity, proximity, closeness",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Autor",
+      "translation": "author",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "schlimm",
+      "translation": "bad, terrible, serious",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "dunkel",
+      "translation": "dark",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "bestätigen",
+      "translation": "to confirm",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "untersuchen",
+      "translation": "to examine, to investigate, to check",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "überall",
+      "translation": "everywhere, anywhere",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "aktiv",
+      "translation": "active",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Krankheit",
+      "translation": "illness, disease",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "kalt",
+      "translation": "cold",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Künstler",
+      "translation": "artist",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Artikel",
+      "translation": "article, item, product",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Wunsch",
+      "translation": "wish, request, desire",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Rücken",
+      "translation": "back",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "heiß",
+      "translation": "hot",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Himmel",
+      "translation": "sky, heaven",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "echt",
+      "translation": "genuine, real",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "die Kenntnis",
+      "translation": "knowledge, skills",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "wechseln",
+      "translation": "to change, to switch",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "herstellen",
+      "translation": "to produce, to manufacture, to make",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "vorn, vorne",
+      "translation": "in the front, at the front, ahead",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "liefern",
+      "translation": "to deliver, to supply, to provide",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "weg",
+      "translation": "away, off",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "toll",
+      "translation": "great, terrific, awesome, fantastic",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "abschließen",
+      "translation": "to lock, to close, to complete, to conclude, to finish",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "wenigstens",
+      "translation": "at least",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "singen",
+      "translation": "to sing",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "täglich",
+      "translation": "daily",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "leer",
+      "translation": "empty, blank, vacant",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "begründen",
+      "translation": "to justify, to establish, to explain",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Wald",
+      "translation": "forest, wood, woods",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "vorbereiten",
+      "translation": "to prepare",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "das Team",
+      "translation": "team",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Haushalt",
+      "translation": "household, budget",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Titel",
+      "translation": "title, heading",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "stören",
+      "translation": "to disturb, to bother, to disrupt",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "die Ruhe",
+      "translation": "silence, peace, rest, calm(ness), quietness",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "typisch",
+      "translation": "typical, characteristic (of)",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "der Rest",
+      "translation": "rest, remainder, remains, leftover(s)",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "der Wagen",
+      "translation": "car, wagon, carriage, trolley, cart",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "diskutieren",
+      "translation": "to discuss, to debate",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Verb"
+    },
+    {
+      "word": "der Besuch",
+      "translation": "visit",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "warm",
+      "translation": "warm",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "das Zentrum",
+      "translation": "centre, center",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Noun"
+    },
+    {
+      "word": "schwach",
+      "translation": "weak",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adjective"
+    },
+    {
+      "word": "außerhalb",
+      "translation": "outside, out of, beyond",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    }
+  ],
+  "total_count": 767,
+  "level": "A1"
+}

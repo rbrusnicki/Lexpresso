@@ -1,0 +1,1820 @@
+{
+  "word_type": "Pronoun",
+  "words": [
+    {
+      "word": "all",
+      "translation": "all",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "all, alle, alles|all, every, everyone, everybody, everything"
+    },
+    {
+      "word": "all",
+      "translation": "every",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "all, alle, alles|all, every, everyone, everybody, everything"
+    },
+    {
+      "word": "all",
+      "translation": "everybody",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "all, alle, alles|all, every, everyone, everybody, everything"
+    },
+    {
+      "word": "all",
+      "translation": "everyone",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "all, alle, alles|all, every, everyone, everybody, everything"
+    },
+    {
+      "word": "all",
+      "translation": "everything",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "all, alle, alles|all, every, everyone, everybody, everything"
+    },
+    {
+      "word": "alle",
+      "translation": "all",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "all, alle, alles|all, every, everyone, everybody, everything"
+    },
+    {
+      "word": "alle",
+      "translation": "every",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "all, alle, alles|all, every, everyone, everybody, everything"
+    },
+    {
+      "word": "alle",
+      "translation": "everybody",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "all, alle, alles|all, every, everyone, everybody, everything"
+    },
+    {
+      "word": "alle",
+      "translation": "everyone",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "all, alle, alles|all, every, everyone, everybody, everything"
+    },
+    {
+      "word": "alle",
+      "translation": "everything",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "all, alle, alles|all, every, everyone, everybody, everything"
+    },
+    {
+      "word": "alles",
+      "translation": "all",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "all, alle, alles|all, every, everyone, everybody, everything"
+    },
+    {
+      "word": "alles",
+      "translation": "every",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "all, alle, alles|all, every, everyone, everybody, everything"
+    },
+    {
+      "word": "alles",
+      "translation": "everybody",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "all, alle, alles|all, every, everyone, everybody, everything"
+    },
+    {
+      "word": "alles",
+      "translation": "everyone",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "all, alle, alles|all, every, everyone, everybody, everything"
+    },
+    {
+      "word": "alles",
+      "translation": "everything",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "all, alle, alles|all, every, everyone, everybody, everything"
+    },
+    {
+      "word": "andere",
+      "translation": "another",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "anderer, andere, anderes|other, another"
+    },
+    {
+      "word": "andere",
+      "translation": "other",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "anderer, andere, anderes|other, another"
+    },
+    {
+      "word": "anderer",
+      "translation": "another",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "anderer, andere, anderes|other, another"
+    },
+    {
+      "word": "anderer",
+      "translation": "other",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "anderer, andere, anderes|other, another"
+    },
+    {
+      "word": "anderes",
+      "translation": "another",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "anderer, andere, anderes|other, another"
+    },
+    {
+      "word": "anderes",
+      "translation": "other",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "anderer, andere, anderes|other, another"
+    },
+    {
+      "word": "beide",
+      "translation": "both",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "beide|both, two"
+    },
+    {
+      "word": "beide",
+      "translation": "two",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "beide|both, two"
+    },
+    {
+      "word": "das",
+      "translation": "that",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "der, die, das|who, which, this, that"
+    },
+    {
+      "word": "das",
+      "translation": "this",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "der, die, das|who, which, this, that"
+    },
+    {
+      "word": "das",
+      "translation": "which",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "der, die, das|who, which, this, that"
+    },
+    {
+      "word": "das",
+      "translation": "who",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "der, die, das|who, which, this, that"
+    },
+    {
+      "word": "der",
+      "translation": "that",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "der, die, das|who, which, this, that"
+    },
+    {
+      "word": "der",
+      "translation": "this",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "der, die, das|who, which, this, that"
+    },
+    {
+      "word": "der",
+      "translation": "which",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "der, die, das|who, which, this, that"
+    },
+    {
+      "word": "der",
+      "translation": "who",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "der, die, das|who, which, this, that"
+    },
+    {
+      "word": "dich",
+      "translation": "you (informal)",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "dich|you (informal), yourself"
+    },
+    {
+      "word": "dich",
+      "translation": "yourself",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "dich|you (informal), yourself"
+    },
+    {
+      "word": "die",
+      "translation": "that",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "der, die, das|who, which, this, that"
+    },
+    {
+      "word": "die",
+      "translation": "this",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "der, die, das|who, which, this, that"
+    },
+    {
+      "word": "die",
+      "translation": "which",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "der, die, das|who, which, this, that"
+    },
+    {
+      "word": "die",
+      "translation": "who",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "der, die, das|who, which, this, that"
+    },
+    {
+      "word": "dies",
+      "translation": "that",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "dies, dieser, diese, dieses|this, that, these"
+    },
+    {
+      "word": "dies",
+      "translation": "these",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "dies, dieser, diese, dieses|this, that, these"
+    },
+    {
+      "word": "dies",
+      "translation": "this",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "dies, dieser, diese, dieses|this, that, these"
+    },
+    {
+      "word": "diese",
+      "translation": "that",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "dies, dieser, diese, dieses|this, that, these"
+    },
+    {
+      "word": "diese",
+      "translation": "these",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "dies, dieser, diese, dieses|this, that, these"
+    },
+    {
+      "word": "diese",
+      "translation": "this",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "dies, dieser, diese, dieses|this, that, these"
+    },
+    {
+      "word": "dieser",
+      "translation": "that",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "dies, dieser, diese, dieses|this, that, these"
+    },
+    {
+      "word": "dieser",
+      "translation": "these",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "dies, dieser, diese, dieses|this, that, these"
+    },
+    {
+      "word": "dieser",
+      "translation": "this",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "dies, dieser, diese, dieses|this, that, these"
+    },
+    {
+      "word": "dieses",
+      "translation": "that",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "dies, dieser, diese, dieses|this, that, these"
+    },
+    {
+      "word": "dieses",
+      "translation": "these",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "dies, dieser, diese, dieses|this, that, these"
+    },
+    {
+      "word": "dieses",
+      "translation": "this",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "dies, dieser, diese, dieses|this, that, these"
+    },
+    {
+      "word": "dir",
+      "translation": "you (informal)",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "dir|you (informal), yourself"
+    },
+    {
+      "word": "dir",
+      "translation": "yourself",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "dir|you (informal), yourself"
+    },
+    {
+      "word": "du",
+      "translation": "you (informal)",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "du|you (informal)"
+    },
+    {
+      "word": "einige",
+      "translation": "a few",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "einiger, einige, einiges|a few, some, several, quite a lot"
+    },
+    {
+      "word": "einige",
+      "translation": "quite a lot",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "einiger, einige, einiges|a few, some, several, quite a lot"
+    },
+    {
+      "word": "einige",
+      "translation": "several",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "einiger, einige, einiges|a few, some, several, quite a lot"
+    },
+    {
+      "word": "einige",
+      "translation": "some",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "einiger, einige, einiges|a few, some, several, quite a lot"
+    },
+    {
+      "word": "einiger",
+      "translation": "a few",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "einiger, einige, einiges|a few, some, several, quite a lot"
+    },
+    {
+      "word": "einiger",
+      "translation": "quite a lot",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "einiger, einige, einiges|a few, some, several, quite a lot"
+    },
+    {
+      "word": "einiger",
+      "translation": "several",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "einiger, einige, einiges|a few, some, several, quite a lot"
+    },
+    {
+      "word": "einiger",
+      "translation": "some",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "einiger, einige, einiges|a few, some, several, quite a lot"
+    },
+    {
+      "word": "einiges",
+      "translation": "a few",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "einiger, einige, einiges|a few, some, several, quite a lot"
+    },
+    {
+      "word": "einiges",
+      "translation": "quite a lot",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "einiger, einige, einiges|a few, some, several, quite a lot"
+    },
+    {
+      "word": "einiges",
+      "translation": "several",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "einiger, einige, einiges|a few, some, several, quite a lot"
+    },
+    {
+      "word": "einiges",
+      "translation": "some",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "einiger, einige, einiges|a few, some, several, quite a lot"
+    },
+    {
+      "word": "er",
+      "translation": "he",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "er|he, it"
+    },
+    {
+      "word": "er",
+      "translation": "it",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "er|he, it"
+    },
+    {
+      "word": "es",
+      "translation": "it",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "es|it"
+    },
+    {
+      "word": "etwas",
+      "translation": "a bit",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "etwas|something, some, a little, a bit"
+    },
+    {
+      "word": "etwas",
+      "translation": "a little",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "etwas|something, some, a little, a bit"
+    },
+    {
+      "word": "etwas",
+      "translation": "some",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "etwas|something, some, a little, a bit"
+    },
+    {
+      "word": "etwas",
+      "translation": "something",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "etwas|something, some, a little, a bit"
+    },
+    {
+      "word": "ich",
+      "translation": "I",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "ich|I"
+    },
+    {
+      "word": "ihm",
+      "translation": "him",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "ihm|him"
+    },
+    {
+      "word": "ihn",
+      "translation": "him",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "ihn|him, it"
+    },
+    {
+      "word": "ihn",
+      "translation": "it",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "ihn|him, it"
+    },
+    {
+      "word": "ihnen",
+      "translation": "them",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "ihnen|them"
+    },
+    {
+      "word": "Ihnen",
+      "translation": "you (formal)",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "Ihnen|you (formal)"
+    },
+    {
+      "word": "ihr",
+      "translation": "her",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "ihr|you (pl./informal), her, their, hers, theirs"
+    },
+    {
+      "word": "ihr",
+      "translation": "hers",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "ihr|you (pl./informal), her, their, hers, theirs"
+    },
+    {
+      "word": "ihr",
+      "translation": "their",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "ihr|you (pl./informal), her, their, hers, theirs"
+    },
+    {
+      "word": "ihr",
+      "translation": "theirs",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "ihr|you (pl./informal), her, their, hers, theirs"
+    },
+    {
+      "word": "ihr",
+      "translation": "you (pl./informal)",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "ihr|you (pl./informal), her, their, hers, theirs"
+    },
+    {
+      "word": "Ihr",
+      "translation": "your (formal)",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "Ihr|your (formal)"
+    },
+    {
+      "word": "jede",
+      "translation": "any",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "jeder, jede, jedes|every, each, any, everyone, everybody"
+    },
+    {
+      "word": "jede",
+      "translation": "each",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "jeder, jede, jedes|every, each, any, everyone, everybody"
+    },
+    {
+      "word": "jede",
+      "translation": "every",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "jeder, jede, jedes|every, each, any, everyone, everybody"
+    },
+    {
+      "word": "jede",
+      "translation": "everybody",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "jeder, jede, jedes|every, each, any, everyone, everybody"
+    },
+    {
+      "word": "jede",
+      "translation": "everyone",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "jeder, jede, jedes|every, each, any, everyone, everybody"
+    },
+    {
+      "word": "jeder",
+      "translation": "any",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "jeder, jede, jedes|every, each, any, everyone, everybody"
+    },
+    {
+      "word": "jeder",
+      "translation": "each",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "jeder, jede, jedes|every, each, any, everyone, everybody"
+    },
+    {
+      "word": "jeder",
+      "translation": "every",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "jeder, jede, jedes|every, each, any, everyone, everybody"
+    },
+    {
+      "word": "jeder",
+      "translation": "everybody",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "jeder, jede, jedes|every, each, any, everyone, everybody"
+    },
+    {
+      "word": "jeder",
+      "translation": "everyone",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "jeder, jede, jedes|every, each, any, everyone, everybody"
+    },
+    {
+      "word": "jedes",
+      "translation": "any",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "jeder, jede, jedes|every, each, any, everyone, everybody"
+    },
+    {
+      "word": "jedes",
+      "translation": "each",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "jeder, jede, jedes|every, each, any, everyone, everybody"
+    },
+    {
+      "word": "jedes",
+      "translation": "every",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "jeder, jede, jedes|every, each, any, everyone, everybody"
+    },
+    {
+      "word": "jedes",
+      "translation": "everybody",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "jeder, jede, jedes|every, each, any, everyone, everybody"
+    },
+    {
+      "word": "jedes",
+      "translation": "everyone",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "jeder, jede, jedes|every, each, any, everyone, everybody"
+    },
+    {
+      "word": "kein",
+      "translation": "no",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "kein|no, not a"
+    },
+    {
+      "word": "kein",
+      "translation": "not a",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "kein|no, not a"
+    },
+    {
+      "word": "man",
+      "translation": "one",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "man|one, you, they"
+    },
+    {
+      "word": "man",
+      "translation": "they",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "man|one, you, they"
+    },
+    {
+      "word": "man",
+      "translation": "you",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "man|one, you, they"
+    },
+    {
+      "word": "mein",
+      "translation": "mine",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "mein|my, mine"
+    },
+    {
+      "word": "mein",
+      "translation": "my",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "mein|my, mine"
+    },
+    {
+      "word": "mich",
+      "translation": "me",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "mich|me, myself"
+    },
+    {
+      "word": "mich",
+      "translation": "myself",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "mich|me, myself"
+    },
+    {
+      "word": "mir",
+      "translation": "me",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "mir|me"
+    },
+    {
+      "word": "nichts",
+      "translation": "not anything",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "nichts, nix|nothing, not anything"
+    },
+    {
+      "word": "nichts",
+      "translation": "nothing",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "nichts, nix|nothing, not anything"
+    },
+    {
+      "word": "nix",
+      "translation": "not anything",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "nichts, nix|nothing, not anything"
+    },
+    {
+      "word": "nix",
+      "translation": "nothing",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "nichts, nix|nothing, not anything"
+    },
+    {
+      "word": "sein",
+      "translation": "his",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "sein|his, its, their, one's, his or her"
+    },
+    {
+      "word": "sein",
+      "translation": "his or her",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "sein|his, its, their, one's, his or her"
+    },
+    {
+      "word": "sein",
+      "translation": "its",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "sein|his, its, their, one's, his or her"
+    },
+    {
+      "word": "sein",
+      "translation": "one's",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "sein|his, its, their, one's, his or her"
+    },
+    {
+      "word": "sein",
+      "translation": "their",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "sein|his, its, their, one's, his or her"
+    },
+    {
+      "word": "selbst",
+      "translation": "–self",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "selbst|–self"
+    },
+    {
+      "word": "sich",
+      "translation": "herself",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "sich|herself, himself, itself, yourself, themselves, oneself"
+    },
+    {
+      "word": "sich",
+      "translation": "himself",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "sich|herself, himself, itself, yourself, themselves, oneself"
+    },
+    {
+      "word": "sich",
+      "translation": "itself",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "sich|herself, himself, itself, yourself, themselves, oneself"
+    },
+    {
+      "word": "sich",
+      "translation": "oneself",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "sich|herself, himself, itself, yourself, themselves, oneself"
+    },
+    {
+      "word": "sich",
+      "translation": "themselves",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "sich|herself, himself, itself, yourself, themselves, oneself"
+    },
+    {
+      "word": "sich",
+      "translation": "yourself",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "sich|herself, himself, itself, yourself, themselves, oneself"
+    },
+    {
+      "word": "sie",
+      "translation": "her",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "sie|she, her, they, them, it"
+    },
+    {
+      "word": "sie",
+      "translation": "it",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "sie|she, her, they, them, it"
+    },
+    {
+      "word": "sie",
+      "translation": "she",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "sie|she, her, they, them, it"
+    },
+    {
+      "word": "sie",
+      "translation": "them",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "sie|she, her, they, them, it"
+    },
+    {
+      "word": "sie",
+      "translation": "they",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "sie|she, her, they, them, it"
+    },
+    {
+      "word": "Sie",
+      "translation": "you (formal)",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "Sie|you (formal)"
+    },
+    {
+      "word": "uns",
+      "translation": "each other",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "uns|us, ourselves, each other"
+    },
+    {
+      "word": "uns",
+      "translation": "ourselves",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "uns|us, ourselves, each other"
+    },
+    {
+      "word": "uns",
+      "translation": "us",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "uns|us, ourselves, each other"
+    },
+    {
+      "word": "unser",
+      "translation": "our",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "unser|our"
+    },
+    {
+      "word": "viel",
+      "translation": "a lot of",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "viel|much, a lot of, lots of, many"
+    },
+    {
+      "word": "viel",
+      "translation": "lots of",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "viel|much, a lot of, lots of, many"
+    },
+    {
+      "word": "viel",
+      "translation": "many",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "viel|much, a lot of, lots of, many"
+    },
+    {
+      "word": "viel",
+      "translation": "much",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "viel|much, a lot of, lots of, many"
+    },
+    {
+      "word": "was",
+      "translation": "what",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "was|what"
+    },
+    {
+      "word": "welche",
+      "translation": "what",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "welcher, welche, welches|which, what"
+    },
+    {
+      "word": "welche",
+      "translation": "which",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "welcher, welche, welches|which, what"
+    },
+    {
+      "word": "welcher",
+      "translation": "what",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "welcher, welche, welches|which, what"
+    },
+    {
+      "word": "welcher",
+      "translation": "which",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "welcher, welche, welches|which, what"
+    },
+    {
+      "word": "welches",
+      "translation": "what",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "welcher, welche, welches|which, what"
+    },
+    {
+      "word": "welches",
+      "translation": "which",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "welcher, welche, welches|which, what"
+    },
+    {
+      "word": "wem",
+      "translation": "to whom",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "wem|who ... to, to whom, who"
+    },
+    {
+      "word": "wem",
+      "translation": "who",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "wem|who ... to, to whom, who"
+    },
+    {
+      "word": "wem",
+      "translation": "who ... to",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "wem|who ... to, to whom, who"
+    },
+    {
+      "word": "wenig",
+      "translation": "few",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "wenig|few, little"
+    },
+    {
+      "word": "wenig",
+      "translation": "little",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "wenig|few, little"
+    },
+    {
+      "word": "wer",
+      "translation": "who",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "wer|who"
+    },
+    {
+      "word": "wir",
+      "translation": "we",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "wir|we"
+    },
+    {
+      "word": "bisschen",
+      "translation": "a bit",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "bisschen|a little, a bit, a bit of"
+    },
+    {
+      "word": "bisschen",
+      "translation": "a bit of",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "bisschen|a little, a bit, a bit of"
+    },
+    {
+      "word": "bisschen",
+      "translation": "a little",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "bisschen|a little, a bit, a bit of"
+    },
+    {
+      "word": "dein",
+      "translation": "your (informal)",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "dein|your (informal)"
+    },
+    {
+      "word": "ein paar",
+      "translation": "a few",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "ein paar|a few"
+    },
+    {
+      "word": "euer",
+      "translation": "your (pl./informal)",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "euer|your (pl./informal)"
+    },
+    {
+      "word": "jemand",
+      "translation": "anybody",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "jemand|someone, somebody, anybody, anyone"
+    },
+    {
+      "word": "jemand",
+      "translation": "anyone",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "jemand|someone, somebody, anybody, anyone"
+    },
+    {
+      "word": "jemand",
+      "translation": "somebody",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "jemand|someone, somebody, anybody, anyone"
+    },
+    {
+      "word": "jemand",
+      "translation": "someone",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "jemand|someone, somebody, anybody, anyone"
+    },
+    {
+      "word": "manche",
+      "translation": "many a",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "mancher, manche, manches|some, many a"
+    },
+    {
+      "word": "manche",
+      "translation": "some",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "mancher, manche, manches|some, many a"
+    },
+    {
+      "word": "mancher",
+      "translation": "many a",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "mancher, manche, manches|some, many a"
+    },
+    {
+      "word": "mancher",
+      "translation": "some",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "mancher, manche, manches|some, many a"
+    },
+    {
+      "word": "manches",
+      "translation": "many a",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "mancher, manche, manches|some, many a"
+    },
+    {
+      "word": "manches",
+      "translation": "some",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "mancher, manche, manches|some, many a"
+    },
+    {
+      "word": "niemand",
+      "translation": "anyone",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "niemand|no one, nobody, anyone"
+    },
+    {
+      "word": "niemand",
+      "translation": "no one",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "niemand|no one, nobody, anyone"
+    },
+    {
+      "word": "niemand",
+      "translation": "nobody",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "niemand|no one, nobody, anyone"
+    },
+    {
+      "word": "wen",
+      "translation": "who",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Pronoun",
+      "original_id": "wen|who, whom"
+    },
+    {
+      "word": "wen",
+      "translation": "whom",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Pronoun",
+      "original_id": "wen|who, whom"
+    },
+    {
+      "word": "solch",
+      "translation": "such",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "solch|such"
+    },
+    {
+      "word": "dasselbe",
+      "translation": "the same",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "derselbe, dieselbe, dasselbe|the same"
+    },
+    {
+      "word": "derselbe",
+      "translation": "the same",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "derselbe, dieselbe, dasselbe|the same"
+    },
+    {
+      "word": "dieselbe",
+      "translation": "the same",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "derselbe, dieselbe, dasselbe|the same"
+    },
+    {
+      "word": "mehrere",
+      "translation": "several",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "mehrere|several, various"
+    },
+    {
+      "word": "mehrere",
+      "translation": "various",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "mehrere|several, various"
+    },
+    {
+      "word": "selbe",
+      "translation": "same",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "selbe, selber, selbes|same"
+    },
+    {
+      "word": "selber",
+      "translation": "himself",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "selber|myself, yourself, himself, oneself"
+    },
+    {
+      "word": "selber",
+      "translation": "myself",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "selber|myself, yourself, himself, oneself"
+    },
+    {
+      "word": "selber",
+      "translation": "oneself",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "selber|myself, yourself, himself, oneself"
+    },
+    {
+      "word": "selber",
+      "translation": "same",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "selbe, selber, selbes|same"
+    },
+    {
+      "word": "selber",
+      "translation": "yourself",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "selber|myself, yourself, himself, oneself"
+    },
+    {
+      "word": "selbes",
+      "translation": "same",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "selbe, selber, selbes|same"
+    },
+    {
+      "word": "irgendein",
+      "translation": "any",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Pronoun",
+      "original_id": "irgendein|some, any"
+    },
+    {
+      "word": "irgendein",
+      "translation": "some",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Pronoun",
+      "original_id": "irgendein|some, any"
+    },
+    {
+      "word": "sämtlich",
+      "translation": "all",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Pronoun",
+      "original_id": "sämtlich|all"
+    },
+    {
+      "word": "deren",
+      "translation": "their",
+      "level": "C1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "deren|their, whose"
+    },
+    {
+      "word": "deren",
+      "translation": "whose",
+      "level": "C1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "deren|their, whose"
+    },
+    {
+      "word": "dessen",
+      "translation": "his",
+      "level": "C1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "dessen|whose, its, his"
+    },
+    {
+      "word": "dessen",
+      "translation": "its",
+      "level": "C1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "dessen|whose, its, his"
+    },
+    {
+      "word": "dessen",
+      "translation": "whose",
+      "level": "C1",
+      "frequency": 5,
+      "word_type": "Pronoun",
+      "original_id": "dessen|whose, its, his"
+    },
+    {
+      "word": "dasjenige",
+      "translation": "the one that",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "derjenige, diejenige, dasjenige|the one who, the one that"
+    },
+    {
+      "word": "dasjenige",
+      "translation": "the one who",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "derjenige, diejenige, dasjenige|the one who, the one that"
+    },
+    {
+      "word": "denen",
+      "translation": "that",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "denen|whom, those, that"
+    },
+    {
+      "word": "denen",
+      "translation": "those",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "denen|whom, those, that"
+    },
+    {
+      "word": "denen",
+      "translation": "whom",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "denen|whom, those, that"
+    },
+    {
+      "word": "derjenige",
+      "translation": "the one that",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "derjenige, diejenige, dasjenige|the one who, the one that"
+    },
+    {
+      "word": "derjenige",
+      "translation": "the one who",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "derjenige, diejenige, dasjenige|the one who, the one that"
+    },
+    {
+      "word": "diejenige",
+      "translation": "the one that",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "derjenige, diejenige, dasjenige|the one who, the one that"
+    },
+    {
+      "word": "diejenige",
+      "translation": "the one who",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "derjenige, diejenige, dasjenige|the one who, the one that"
+    },
+    {
+      "word": "jegliche",
+      "translation": "any",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "jegliche|any"
+    },
+    {
+      "word": "jene",
+      "translation": "that",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "jener, jene, jenes|that, those"
+    },
+    {
+      "word": "jene",
+      "translation": "those",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "jener, jene, jenes|that, those"
+    },
+    {
+      "word": "jener",
+      "translation": "that",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "jener, jene, jenes|that, those"
+    },
+    {
+      "word": "jener",
+      "translation": "those",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "jener, jene, jenes|that, those"
+    },
+    {
+      "word": "jenes",
+      "translation": "that",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "jener, jene, jenes|that, those"
+    },
+    {
+      "word": "jenes",
+      "translation": "those",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Pronoun",
+      "original_id": "jener, jene, jenes|that, those"
+    },
+    {
+      "word": "etliche",
+      "translation": "quite a few",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Pronoun",
+      "original_id": "etliche|quite a few, quite a lot, several"
+    },
+    {
+      "word": "etliche",
+      "translation": "quite a lot",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Pronoun",
+      "original_id": "etliche|quite a few, quite a lot, several"
+    },
+    {
+      "word": "etliche",
+      "translation": "several",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Pronoun",
+      "original_id": "etliche|quite a few, quite a lot, several"
+    },
+    {
+      "word": "euch",
+      "translation": "you (pl./informal)",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Pronoun",
+      "original_id": "euch|you (pl./informal), yourselves"
+    },
+    {
+      "word": "euch",
+      "translation": "yourselves",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Pronoun",
+      "original_id": "euch|you (pl./informal), yourselves"
+    },
+    {
+      "word": "irgendetwas",
+      "translation": "anything",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Pronoun",
+      "original_id": "irgendetwas, irgendwas|something, anything"
+    },
+    {
+      "word": "irgendetwas",
+      "translation": "something",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Pronoun",
+      "original_id": "irgendetwas, irgendwas|something, anything"
+    },
+    {
+      "word": "irgendwas",
+      "translation": "anything",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Pronoun",
+      "original_id": "irgendetwas, irgendwas|something, anything"
+    },
+    {
+      "word": "irgendwas",
+      "translation": "something",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Pronoun",
+      "original_id": "irgendetwas, irgendwas|something, anything"
+    },
+    {
+      "word": "irgendwelche",
+      "translation": "any",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Pronoun",
+      "original_id": "irgendwelcher, irgendwelche, irgendwelches|some, any"
+    },
+    {
+      "word": "irgendwelche",
+      "translation": "some",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Pronoun",
+      "original_id": "irgendwelcher, irgendwelche, irgendwelches|some, any"
+    },
+    {
+      "word": "irgendwelcher",
+      "translation": "any",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Pronoun",
+      "original_id": "irgendwelcher, irgendwelche, irgendwelches|some, any"
+    },
+    {
+      "word": "irgendwelcher",
+      "translation": "some",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Pronoun",
+      "original_id": "irgendwelcher, irgendwelche, irgendwelches|some, any"
+    },
+    {
+      "word": "irgendwelches",
+      "translation": "any",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Pronoun",
+      "original_id": "irgendwelcher, irgendwelche, irgendwelches|some, any"
+    },
+    {
+      "word": "irgendwelches",
+      "translation": "some",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Pronoun",
+      "original_id": "irgendwelcher, irgendwelche, irgendwelches|some, any"
+    },
+    {
+      "word": "keinerlei",
+      "translation": "no...at all",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Pronoun",
+      "original_id": "keinerlei|no...at all"
+    }
+  ],
+  "total_count": 226,
+  "level_distribution": {
+    "A1": 171,
+    "A2": 2,
+    "B1": 16,
+    "C1": 37
+  }
+}

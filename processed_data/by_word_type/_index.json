@@ -1,0 +1,115 @@
+{
+  "summary": {
+    "total_words": 6107,
+    "total_word_types": 10,
+    "files_created": 10
+  },
+  "word_types": {
+    "Adjective": {
+      "total_count": 968,
+      "filename": "adjectives.json",
+      "level_distribution": {
+        "A1": 107,
+        "A2": 93,
+        "B1": 138,
+        "B2": 117,
+        "C1": 263,
+        "C2": 250
+      }
+    },
+    "Adverb": {
+      "total_count": 378,
+      "filename": "adverbs.json",
+      "level_distribution": {
+        "A1": 93,
+        "A2": 45,
+        "B1": 71,
+        "B2": 30,
+        "C1": 104,
+        "C2": 35
+      }
+    },
+    "Conjunction": {
+      "total_count": 36,
+      "filename": "conjunctions.json",
+      "level_distribution": {
+        "A1": 11,
+        "B1": 17,
+        "B2": 2,
+        "C1": 6
+      }
+    },
+    "Interjection": {
+      "total_count": 26,
+      "filename": "interjections.json",
+      "level_distribution": {
+        "A1": 5,
+        "A2": 2,
+        "C1": 5,
+        "C2": 14
+      }
+    },
+    "Noun": {
+      "total_count": 3081,
+      "filename": "nouns.json",
+      "level_distribution": {
+        "A1": 300,
+        "A2": 453,
+        "B1": 382,
+        "B2": 543,
+        "C1": 601,
+        "C2": 802
+      }
+    },
+    "Number": {
+      "total_count": 62,
+      "filename": "numbers.json",
+      "level_distribution": {
+        "A1": 19,
+        "A2": 25,
+        "C1": 2,
+        "C2": 16
+      }
+    },
+    "Preposition": {
+      "total_count": 60,
+      "filename": "prepositions.json",
+      "level_distribution": {
+        "A1": 33,
+        "B1": 8,
+        "B2": 1,
+        "C1": 16,
+        "C2": 2
+      }
+    },
+    "Pronoun": {
+      "total_count": 66,
+      "filename": "pronouns.json",
+      "level_distribution": {
+        "A1": 47,
+        "A2": 1,
+        "B1": 7,
+        "C1": 11
+      }
+    },
+    "Unknown": {
+      "total_count": 2,
+      "filename": "unknowns.json",
+      "level_distribution": {
+        "A1": 2
+      }
+    },
+    "Verb": {
+      "total_count": 1428,
+      "filename": "verbs.json",
+      "level_distribution": {
+        "A1": 150,
+        "A2": 149,
+        "B1": 228,
+        "B2": 158,
+        "C1": 427,
+        "C2": 316
+      }
+    }
+  }
+}

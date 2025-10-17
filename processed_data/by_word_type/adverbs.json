@@ -1,0 +1,2660 @@
+{
+  "word_type": "Adverb",
+  "words": [
+    {
+      "word": "also",
+      "translation": "so, therefore",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "auch",
+      "translation": "also, too, as well",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "auf",
+      "translation": "open, up",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "besonders",
+      "translation": "especially, particularly",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "da",
+      "translation": "there, here",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "dann",
+      "translation": "then, afterwards",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "darauf, drauf",
+      "translation": "on it, to it, on that",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "doch",
+      "translation": "however, still, nevertheless, after all",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "dort",
+      "translation": "there, over there",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "eigentlich",
+      "translation": "actually, in fact, technically, really",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "einfach",
+      "translation": "simply, easily, just",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "einmal",
+      "translation": "once, one day",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "erst",
+      "translation": "first, only, not until",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "etwas",
+      "translation": "somewhat, slightly, a little bit",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "fast",
+      "translation": "almost, nearly",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "ganz",
+      "translation": "very, completely, entirely, totally, quite",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "gerade",
+      "translation": "just, now, just now, right now",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "gern, gerne",
+      "translation": "gladly, with pleasure, enjoy (+verb), like",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "gleich",
+      "translation": "immediately, straight away, equally, just, right",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "gut",
+      "translation": "well",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "heute",
+      "translation": "today, nowadays",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "hier",
+      "translation": "here",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "hoch",
+      "translation": "high, up",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "immer",
+      "translation": "always, constantly, all the time",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "jetzt",
+      "translation": "now, currently",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "kurz",
+      "translation": "briefly, shortly",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "mal",
+      "translation": "times, once, ever, by",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "mehr",
+      "translation": "more, further",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "natürlich",
+      "translation": "naturally, of course, obviously",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "nicht",
+      "translation": "not, no",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "nie",
+      "translation": "never",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "noch",
+      "translation": "still, even, even more, yet",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "nur",
+      "translation": "only, just, simply",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "oft",
+      "translation": "often, frequently",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "rund",
+      "translation": "around, about, approximately",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "schnell",
+      "translation": "quickly, swiftly, rapidly, fast",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "schon",
+      "translation": "already, yet, even",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "sehr",
+      "translation": "very (much), really, a lot, highly, greatly, extremely",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "selbst",
+      "translation": "even, by oneself",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "so",
+      "translation": "so, (like) that, this way, as, such",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "viel",
+      "translation": "a lot, much, way",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "vor",
+      "translation": "forward(s)",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "weiter",
+      "translation": "forward, onwards, further",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "wie",
+      "translation": "how, like, as, such as, what",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "wieder",
+      "translation": "again",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "wo",
+      "translation": "where",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zu",
+      "translation": "too, closed",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "allein",
+      "translation": "alone, on one's own",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "anders",
+      "translation": "different(ly), otherwise",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "außerdem",
+      "translation": "besides, also, in addition, furthermore, moreover",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "bald",
+      "translation": "soon, almost",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "damals",
+      "translation": "then, at that time, at the time, in those days",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "darüber, drüber",
+      "translation": "above it, about it",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "deshalb",
+      "translation": "for that reason, therefore, because of this, that's why",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "endlich",
+      "translation": "finally, at last, eventually",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "genug",
+      "translation": "enough",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "gestern",
+      "translation": "yesterday",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "her",
+      "translation": "from sth, ago, in terms of",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "hin",
+      "translation": "there, towards",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "hinaus",
+      "translation": "out, beyond",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "hinten",
+      "translation": "at the back, in the back",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "lange",
+      "translation": "(for) a long time",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "leider",
+      "translation": "unfortunately",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "lieber",
+      "translation": "rather",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "links",
+      "translation": "left, on the left, to the left",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "manchmal",
+      "translation": "sometimes",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "meist",
+      "translation": "mostly, usually",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "mindestens",
+      "translation": "at least",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "morgen",
+      "translation": "tomorrow",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "oben",
+      "translation": "above, up, upstairs, at the top",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "plus",
+      "translation": "plus",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "rechts",
+      "translation": "right, on the right, to the right",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "sofort",
+      "translation": "immediately, right away, right now",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "sogar",
+      "translation": "even, actually",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "sonst",
+      "translation": "otherwise",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "unbedingt",
+      "translation": "absolutely, definitely, really",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "unten",
+      "translation": "down, below, at the bottom, downstairs",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "vielleicht",
+      "translation": "perhaps, maybe, possibly",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "vorher",
+      "translation": "earlier, beforehand, before, previously",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "vorn, vorne",
+      "translation": "in the front, at the front, ahead",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "wahrscheinlich",
+      "translation": "probably",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "wann",
+      "translation": "when",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "warum",
+      "translation": "why",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "weg",
+      "translation": "away, off",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "wenigstens",
+      "translation": "at least",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "wirklich",
+      "translation": "really, truly, actually",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zirka, circa, ca.",
+      "translation": "approximately, about",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zuerst",
+      "translation": "first, at first, initially",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zuletzt",
+      "translation": "last, finally, in the end",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zurzeit",
+      "translation": "currently, at the moment",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zurück",
+      "translation": "back",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zusammen",
+      "translation": "together",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "überall",
+      "translation": "everywhere, anywhere",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "egal",
+      "translation": "no matter, irrelevant, identical",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "heraus",
+      "translation": "out",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "online",
+      "translation": "online",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "unterwegs",
+      "translation": "on the way, en route, in transit",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "vorbei",
+      "translation": "past, over",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zweimal",
+      "translation": "twice, two times",
+      "level": "A2",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "abends",
+      "translation": "in the evening",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "daneben",
+      "translation": "beside it, next to it, besides, in addition",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "dienstags",
+      "translation": "(on) Tuesdays",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "donnerstags",
+      "translation": "(on) Thursdays",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "dorthin",
+      "translation": "there",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "draußen",
+      "translation": "outside",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "dreimal",
+      "translation": "three times, triply, thrice",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "drinnen",
+      "translation": "inside, indoors",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "drittens",
+      "translation": "thirdly",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "drüben",
+      "translation": "over there",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "erstens",
+      "translation": "firstly, first of all",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "freitags",
+      "translation": "(on) Fridays",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "früher",
+      "translation": "in former times, in the past, early",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "getrennt",
+      "translation": "separately, apart",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "herein, rein",
+      "translation": "in",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "hinein",
+      "translation": "in, into",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "hoffentlich",
+      "translation": "hopefully",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "meistens",
+      "translation": "mostly, usually, most of the time",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "minus",
+      "translation": "minus",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "mittags",
+      "translation": "at noon, at midday, at lunchtime",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "mittwochs",
+      "translation": "(on) Wednesdays",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "montags",
+      "translation": "(on) Mondays",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "morgens",
+      "translation": "in the morning",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "nachmittags",
+      "translation": "in the afternoon",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "nachts",
+      "translation": "at night",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "nebenan",
+      "translation": "next-door",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "nirgends",
+      "translation": "nowhere, not anywhere",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "samstags",
+      "translation": "(on) Saturdays",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "sonntags",
+      "translation": "on Sundays",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "tagsüber",
+      "translation": "during the day, by day",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "viermal",
+      "translation": "four times",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "vorgestern",
+      "translation": "the day before yesterday",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "vormittags",
+      "translation": "in the morning",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "vorwärts",
+      "translation": "forward(s), onward(s)",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "woher",
+      "translation": "where...from, from...which",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "wohin",
+      "translation": "where, where...to",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zweitens",
+      "translation": "secondly",
+      "level": "A2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "geradeaus",
+      "translation": "straight ahead",
+      "level": "A2",
+      "frequency": 2,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "übermorgen",
+      "translation": "the day after tomorrow",
+      "level": "A2",
+      "frequency": 2,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "allerdings",
+      "translation": "though, however, but, certainly, indeed",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "bereits",
+      "translation": "already",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "dabei",
+      "translation": "thereby, there, with it, in doing so, at the same time, while doing",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "dafür",
+      "translation": "for it, for this, for that",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "damit",
+      "translation": "with it, with that",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "etwa",
+      "translation": "about, approximately, roughly, for instance, for example",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "gar",
+      "translation": "at all, even",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "jedoch",
+      "translation": "however, but, though",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "nun",
+      "translation": "now, then",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "wohl",
+      "translation": "well, probably, arguably",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zwar",
+      "translation": "although, indeed, admittedly, to be precise, certainly",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "andererseits",
+      "translation": "on the other hand",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "angenehm",
+      "translation": "pleasantly",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "begeistert",
+      "translation": "enthusiastically",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "bisher",
+      "translation": "so far, until now, up to now",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "bloß",
+      "translation": "only, simply, just",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "dagegen",
+      "translation": "against it, on the other hand, in contrast",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "daher",
+      "translation": "from there, therefore, thus, as a result, that's why",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "dahin",
+      "translation": "there",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "danach",
+      "translation": "after it, afterwards, then, accordingly",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "darin, drin",
+      "translation": "in it, therein, in there",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "deswegen",
+      "translation": "therefore, that’s why, because of this",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "diesmal",
+      "translation": "this time",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "eben",
+      "translation": "just, just now",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "ebenfalls",
+      "translation": "also, as well, likewise, too",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "ebenso",
+      "translation": "just as, as much as, as well, equally, likewise",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "eher",
+      "translation": "rather, earlier, sooner, more likely",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "gemeinsam",
+      "translation": "together, jointly, in common, hand in hand",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "genauso",
+      "translation": "just as, just the same, equally",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "halt",
+      "translation": "simply, just",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "insgesamt",
+      "translation": "in all, overall, altogether, in total",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "inzwischen",
+      "translation": "in the meantime, meanwhile, since, by now",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "irgendwann",
+      "translation": "sometime, one day, someday, at some time",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "je",
+      "translation": "ever, each",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "jeweils",
+      "translation": "each, each time, at a time, respectively",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "kaum",
+      "translation": "hardly",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "kürzlich",
+      "translation": "recently, not long ago",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "los",
+      "translation": "rid of, off, going on",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "längst",
+      "translation": "long since, a long time ago",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "miteinander",
+      "translation": "together, with each other, to each other",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "mitten",
+      "translation": "in the middle, in the center, amidst, in the midst",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "mittlerweile",
+      "translation": "in the meantime, meanwhile, since then, by now",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "möglicherweise",
+      "translation": "possibly, perhaps",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "möglichst",
+      "translation": "as ... as possible, if possible, preferably, ideally",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "nochmals, nochmal",
+      "translation": "again, once again, once more",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "nämlich",
+      "translation": "namely, because",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "persönlich",
+      "translation": "in person, personally",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "raus",
+      "translation": "out",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "recht",
+      "translation": "quite, rather",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "schließlich",
+      "translation": "in the end, finally, eventually, after all",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "seitdem",
+      "translation": "since then, ever since, since that time",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "spätestens",
+      "translation": "at the latest",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "teilweise",
+      "translation": "partially, partly",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "trotzdem",
+      "translation": "nevertheless, anyway, still",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "ursprünglich",
+      "translation": "originally, initially",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "vermutlich",
+      "translation": "probably, presumably, supposedly",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "ziemlich",
+      "translation": "quite, pretty, rather, fairly",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zumindest",
+      "translation": "at least",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zunächst",
+      "translation": "first, at first, initially, for now",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "überhaupt",
+      "translation": "at all, in general, generally, anyway",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "übrigens",
+      "translation": "by the way, besides, incidentally",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "auseinander",
+      "translation": "apart",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "beinahe, beinah",
+      "translation": "almost, nearly",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "einerseits",
+      "translation": "on the one hand, for one thing",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "hierher",
+      "translation": "here",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "höchstens",
+      "translation": "at (the) most, no more than, at best",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "nachher",
+      "translation": "after, afterwards, subsequently",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "normalerweise",
+      "translation": "normally, usually, typically",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "sowieso",
+      "translation": "anyway, anyhow",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "weshalb",
+      "translation": "why",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "wieso",
+      "translation": "why",
+      "level": "B1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "anfangs",
+      "translation": "initially, at first, in the beginning",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "aufwärts",
+      "translation": "up, upward(s)",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "durcheinander",
+      "translation": "in confusion, in a mess",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "extra",
+      "translation": "separately, extra, specially, on purpose",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "gleichfalls",
+      "translation": "likewise, also",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "heim",
+      "translation": "home",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "hinterher",
+      "translation": "after that, afterwards",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "hinunter",
+      "translation": "down",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "innen",
+      "translation": "inside, on the inside",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "jederzeit",
+      "translation": "anytime, at any time, at all times, always",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "jemals",
+      "translation": "ever",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "nebenbei",
+      "translation": "besides, by the way, incidentally, on the side, in addition",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "neulich",
+      "translation": "recently, the other day",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "nirgendwo",
+      "translation": "nowhere, not anywhere",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "quer",
+      "translation": "diagonally, sideways, across, crosswise",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "rauf",
+      "translation": "up",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "runter",
+      "translation": "down",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "rückwärts",
+      "translation": "backward(s)",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "umsonst",
+      "translation": "for nothing, in vain, for free, free (of charge)",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "voneinander",
+      "translation": "from each other, from one another",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "voraus",
+      "translation": "ahead, forward, in front",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "werktags",
+      "translation": "on weekdays, on working days",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "worum",
+      "translation": "what...about, about what",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "worüber",
+      "translation": "what...about, about what",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zweifach",
+      "translation": "twice, twofold",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "abwärts",
+      "translation": "down, downward(s)",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "halbtags",
+      "translation": "half-day, part-time",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "meinetwegen",
+      "translation": "because of me, as for me, on my account, for my sake, as far as I’m concerned",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "vorhin",
+      "translation": "a short while ago, a moment ago, earlier",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "wochentags",
+      "translation": "on weekdays",
+      "level": "B2",
+      "frequency": 2,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "davon",
+      "translation": "of it, from that, from it, about it, thereof",
+      "level": "C1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "dazu",
+      "translation": "in addition, furthermore, to that, for this",
+      "level": "C1",
+      "frequency": 5,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "absolut",
+      "translation": "absolutely, completely",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "angeblich",
+      "translation": "allegedly, supposedly",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "anschließend",
+      "translation": "then, subsequently, afterwards",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "ansonsten",
+      "translation": "otherwise, other than that, apart from that",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "beispielsweise",
+      "translation": "for example, such as, for instance",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "bislang",
+      "translation": "so far, up to now",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "dadurch",
+      "translation": "through it, thus, as a result, thereby, in this way",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "daran, dran",
+      "translation": "on it, at it, in it",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "daraufhin",
+      "translation": "as a result, thereupon",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "daraus",
+      "translation": "thereof, from it, from that, out of it, hence",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "darum",
+      "translation": "around it, therefore, that's why",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "darunter",
+      "translation": "under it, below it, among them, underneath, beneath",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "davor",
+      "translation": "before it, before that, prior to that, in front of",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "demnach",
+      "translation": "therefore, thus, according to this",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "dennoch",
+      "translation": "nevertheless, nonetheless, however, still, anyway",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "derzeit",
+      "translation": "at the moment, at present, currently",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "durchaus",
+      "translation": "absolutely, definitely, quite",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "einst",
+      "translation": "once, at one time, one day",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "erstmals",
+      "translation": "for the first time",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "herum",
+      "translation": "around",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "hingegen",
+      "translation": "on the other hand, on the contrary, in contrast, whereas",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "immerhin",
+      "translation": "after all, at least, anyhow",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "insbesondere",
+      "translation": "especially, in particular, particularly",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "irgendwie",
+      "translation": "somehow, kind of",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "jedenfalls",
+      "translation": "in any case, anyhow, anyway, at least, certainly",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "lediglich",
+      "translation": "merely, simply, only, just",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "letztlich",
+      "translation": "in the end, ultimately, finally",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "momentan",
+      "translation": "currently, at the moment, momentarily",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "nahezu",
+      "translation": "almost, nearly, virtually",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "ohnehin",
+      "translation": "anyway, anyhow, in any case",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "sicherlich",
+      "translation": "certainly, surely",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "somit",
+      "translation": "thus, therefore, consequently",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "soweit",
+      "translation": "as far as, so far as, insofar as",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "stattdessen",
+      "translation": "instead",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "stets",
+      "translation": "always, constantly",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "vielmehr",
+      "translation": "rather, in fact, on the contrary",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "weiterhin",
+      "translation": "still, furthermore",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "wiederum",
+      "translation": "again, in turn, on the other hand",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "wobei",
+      "translation": "whereby, in doing so, in/at which, how",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zudem",
+      "translation": "furthermore, moreover, besides, in addition",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zugleich",
+      "translation": "both, at the same time",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zuvor",
+      "translation": "before, previously, beforehand",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "äußerst",
+      "translation": "extremely",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "abschließend",
+      "translation": "conclusively, in conclusion, closing, finally",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "allenfalls",
+      "translation": "at best, at most",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "allzu",
+      "translation": "all too, far too",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "anscheinend",
+      "translation": "apparently",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "aufeinander",
+      "translation": "on top of each other, on each other, after each other",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "ausgerechnet",
+      "translation": "of all things, of all times, of all people",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "dahinter",
+      "translation": "behind it, beyond that",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "dazwischen",
+      "translation": "in between, between them, among them",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "dementsprechend",
+      "translation": "accordingly, correspondingly, thus",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "demnächst",
+      "translation": "soon, shortly, in the near future",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "derart",
+      "translation": "in such a way, to such an extent, so much",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "einander",
+      "translation": "each other, one another",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "einigermaßen",
+      "translation": "reasonably, somewhat, to some degree, to some extent",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "fort",
+      "translation": "away, gone",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "freilich",
+      "translation": "of course, in fact",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "gegebenenfalls",
+      "translation": "if necessary, if applicable, where appropriate",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "geradezu",
+      "translation": "downright, virtually, almost, absolutely, really",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "gewissermaßen",
+      "translation": "in a sense, in a way, so to speak, to some extent, as it were",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "gleichwohl",
+      "translation": "nevertheless, nonetheless, anyhow",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "herkömmlich",
+      "translation": "conventional(ly), traditional(ly)",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "heuer",
+      "translation": "this year",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "heutzutage",
+      "translation": "nowadays, these days",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "hierbei",
+      "translation": "while doing this, in doing so, on this occasion",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "hierfür",
+      "translation": "for this",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "hierzu",
+      "translation": "to this, for this purpose, concerning this",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "hinauf",
+      "translation": "up, upwards",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "hinweg",
+      "translation": "over, for",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "indes",
+      "translation": "meanwhile, in the meantime",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "insofern",
+      "translation": "in this respect, as far as that goes",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "irgendwo",
+      "translation": "somewhere, anywhere",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "keineswegs",
+      "translation": "by no means, not at all, in no case, in no way",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "leid",
+      "translation": "tired of, sorry",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "letztendlich",
+      "translation": "finally, ultimately, in the end",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "mehrmals",
+      "translation": "repeatedly, several times, a few times",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "mitunter",
+      "translation": "now and then, from time to time, sometimes, occasionally",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "nebeneinander",
+      "translation": "side by side, next to each other, simultaneously, in parallel",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "niemals",
+      "translation": "never",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "nunmehr",
+      "translation": "now",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "oftmals",
+      "translation": "frequently, often",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "quasi",
+      "translation": "almost, virtually, practically",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "seither",
+      "translation": "since then",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "sogleich",
+      "translation": "immediately, instantly",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "sozusagen",
+      "translation": "so to speak, as it were",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "teils",
+      "translation": "partly, in part",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "unterdessen",
+      "translation": "meanwhile, in the meantime",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "untereinander",
+      "translation": "among each other, among themselves, one below the other, between them",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "vorerst",
+      "translation": "for the time being, for the moment, for the present",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "vorwiegend",
+      "translation": "mainly, predominantly, primarily",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "womit",
+      "translation": "with what, with which",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "womöglich",
+      "translation": "possibly",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "wonach",
+      "translation": "what...for, what...of, according to which",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "worauf",
+      "translation": "on what, on which",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "wovon",
+      "translation": "from what, from which, about what",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "wozu",
+      "translation": "what...for, for what, why",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zueinander",
+      "translation": "to one another, to each other",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zugrunde liegen",
+      "translation": "to form the basis",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zuhause, zu Hause",
+      "translation": "at home, home",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zustande",
+      "translation": "to come about, to bring about",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zwischendurch",
+      "translation": "in between, in the meantime, occasionally",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "aneinander",
+      "translation": "together, each other, to one another, next to each other, against each other",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "beiseite",
+      "translation": "aside",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "daheim",
+      "translation": "at home",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "eh",
+      "translation": "anyway",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "folglich",
+      "translation": "therefore, consequently, hence, thus",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "glücklicherweise",
+      "translation": "luckily, fortunately",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "gänzlich",
+      "translation": "entirely, completely, totally",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "ineinander",
+      "translation": "in(to) each other, in(to) one another",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "inwiefern",
+      "translation": "how, in what way",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "inwieweit",
+      "translation": "to what extent, how far",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "namens",
+      "translation": "by the name of, called, named",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "schnellstmöglich",
+      "translation": "as soon as possible, as quickly as possible",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "schätzungsweise",
+      "translation": "approximately, roughly, about, estimated",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "separat",
+      "translation": "separately",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "vergleichsweise",
+      "translation": "comparatively, in comparison, by way of comparison",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "vorab",
+      "translation": "beforehand, in advance, to begin with",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "wahlweise",
+      "translation": "either, optionally, alternatively, selectively, as desired",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "weitaus",
+      "translation": "far, much",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "woanders",
+      "translation": "somewhere else, elsewhere",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "wodurch",
+      "translation": "how, which, whereby, by what",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "wofür",
+      "translation": "for what, what...for, for which, which...for",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "woran",
+      "translation": "on what, of what, on which, by which",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zumeist",
+      "translation": "mostly, usually, for the most part",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zutiefst",
+      "translation": "deeply, profoundly",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zweifellos",
+      "translation": "without (a) doubt, undoubtedly, definitely",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "üblicherweise",
+      "translation": "usually, normally, generally",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "andersherum",
+      "translation": "the other way around",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "hierhin",
+      "translation": "here",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "hinüber",
+      "translation": "over, across",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "tausendmal",
+      "translation": "a thousand times",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "vorzugsweise",
+      "translation": "preferably",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "widerstandslos",
+      "translation": "without resistance",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "wovor",
+      "translation": "what ... of, in front of what",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "zehnmal",
+      "translation": "ten times",
+      "level": "C2",
+      "frequency": 2,
+      "word_type": "Adverb"
+    },
+    {
+      "word": "huckepack",
+      "translation": "piggyback",
+      "level": "C2",
+      "frequency": 1,
+      "word_type": "Adverb"
+    }
+  ],
+  "total_count": 378,
+  "level_distribution": {
+    "A1": 93,
+    "A2": 45,
+    "B1": 71,
+    "B2": 30,
+    "C1": 104,
+    "C2": 35
+  }
+}

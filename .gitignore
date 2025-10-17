@@ -1,0 +1,45 @@
+# Internal documentation
+BEHAVIOR.md
+RULES.md
+SETUP.md
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Backups
+backups/
+
+# Raw data (source files - processed data is kept)
+raw_data/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS files
+Thumbs.db
+desktop.ini
+*.tmp
+
+# Environment variables
+.env
+.env.local
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv

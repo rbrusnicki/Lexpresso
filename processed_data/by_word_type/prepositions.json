@@ -1,0 +1,433 @@
+{
+  "word_type": "Preposition",
+  "words": [
+    {
+      "word": "ab",
+      "translation": "from",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "am",
+      "translation": "at the, on the, in the",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "an",
+      "translation": "at, on, by, to",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "auf",
+      "translation": "on, at, in, for, to",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "aus",
+      "translation": "out, out of, from",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "bei",
+      "translation": "by, with, at",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "bis",
+      "translation": "to, up to, until, till, by",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "durch",
+      "translation": "by, through, due to, across",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "für",
+      "translation": "for",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "gegen",
+      "translation": "against, towards, to",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "im",
+      "translation": "in (the), at (the), on (the)",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "in",
+      "translation": "in, at, on, to",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "mit",
+      "translation": "with, by",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "nach",
+      "translation": "after, towards, to, past, according to",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "neben",
+      "translation": "next to, beside, apart from",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "ohne",
+      "translation": "without",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "seit",
+      "translation": "since, for",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "um",
+      "translation": "around, about, at",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "unter",
+      "translation": "under, among, below, beneath",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "vom",
+      "translation": "from the",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "von",
+      "translation": "from, of, out of, by",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "vor",
+      "translation": "in front of, before, ago, from",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "wegen",
+      "translation": "because of, due to",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "zu",
+      "translation": "to, at, towards, for",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "zum",
+      "translation": "to the, for, for the",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "zwischen",
+      "translation": "between, among",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "über",
+      "translation": "above, over, about, across, via",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "außer",
+      "translation": "except for, apart from",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "außerhalb",
+      "translation": "outside, out of, beyond",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "gegenüber",
+      "translation": "opposite, towards, over, vis-à-vis",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "hinter",
+      "translation": "behind",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "laut",
+      "translation": "according to",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "pro",
+      "translation": "per",
+      "level": "A1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "während",
+      "translation": "during",
+      "level": "B1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "entlang",
+      "translation": "along",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "inklusive",
+      "translation": "inclusive of, including",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "innerhalb",
+      "translation": "within, inside",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "nahe",
+      "translation": "near, close to",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "per",
+      "translation": "by, per, via",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "statt",
+      "translation": "instead of",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "trotz",
+      "translation": "in spite of, despite",
+      "level": "B1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "einschließlich",
+      "translation": "including, inclusive of",
+      "level": "B2",
+      "frequency": 3,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "ins",
+      "translation": "into, in the, to the",
+      "level": "C1",
+      "frequency": 5,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "angesichts",
+      "translation": "in view of, in light of, considering",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "aufgrund",
+      "translation": "on the basis of, because of, due to",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "dank",
+      "translation": "thanks to, due to",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "entsprechend",
+      "translation": "in accordance with, according to, corresponding to",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "gemäß",
+      "translation": "in accordance with, according to",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "zufolge",
+      "translation": "according to",
+      "level": "C1",
+      "frequency": 4,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "anhand",
+      "translation": "on the basis of, with the aid of",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "bezüglich",
+      "translation": "regarding, concerning, referring to",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "hinsichtlich",
+      "translation": "with regard to, regarding",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "infolge",
+      "translation": "as a result of",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "jenseits",
+      "translation": "beyond, on the other side",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "mithilfe",
+      "translation": "with the help of, by means of",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "mittels",
+      "translation": "by means of",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "samt",
+      "translation": "together with, along with",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "zugunsten",
+      "translation": "in favour of, in favor of",
+      "level": "C1",
+      "frequency": 3,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "anstelle",
+      "translation": "instead of",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Preposition"
+    },
+    {
+      "word": "seitens",
+      "translation": "on the part of",
+      "level": "C2",
+      "frequency": 3,
+      "word_type": "Preposition"
+    }
+  ],
+  "total_count": 60,
+  "level_distribution": {
+    "A1": 33,
+    "B1": 8,
+    "B2": 1,
+    "C1": 16,
+    "C2": 2
+  }
+}

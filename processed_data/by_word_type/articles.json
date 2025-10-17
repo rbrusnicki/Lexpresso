@@ -1,0 +1,23 @@
+{
+  "word_type": "Article",
+  "words": [
+    {
+      "word": "der, die, das",
+      "translation": "the",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Article"
+    },
+    {
+      "word": "ein, eine",
+      "translation": "a, an",
+      "level": "A1",
+      "frequency": 5,
+      "word_type": "Article"
+    }
+  ],
+  "total_count": 2,
+  "level_distribution": {
+    "A1": 2
+  }
+}
