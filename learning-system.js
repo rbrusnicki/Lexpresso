@@ -6,8 +6,8 @@
 class LearningSystem {
     constructor(userManager) {
         this.userManager = userManager;
-        this.LEARNING_POOL_SIZE = 20; // Target size of learning pool
-        this.LEARNED_THRESHOLD = 10; // Consecutive correct answers
+        this.LEARNING_POOL_SIZE = 50; // Target size of learning pool
+        this.LEARNED_THRESHOLD = 3; // Consecutive correct answers
         this.DAILY_GOAL = 50; // Words to learn per day
     }
 
@@ -165,16 +165,20 @@ class LearningSystem {
 
         // Simple rule: pool < cap = pick new, pool = cap = pick learning
         let candidatePool;
+        let isLearningPool = false;
 
         if (pools.learning < this.LEARNING_POOL_SIZE && toLearnWords.length > 0) {
-            // Pool < 10: Always pick from to_learn (100%)
+            // Pool < cap: Pick from to_learn (prioritize by frequency)
             candidatePool = toLearnWords;
+            isLearningPool = false;
         } else if (pools.learning >= this.LEARNING_POOL_SIZE && learningWords.length > 0) {
-            // Pool = 10: Always pick from learning (100%)
+            // Pool = cap: Pick from learning (use weighted random)
             candidatePool = learningWords;
+            isLearningPool = true;
         } else {
             // Fallback
             candidatePool = toLearnWords.length > 0 ? toLearnWords : learningWords;
+            isLearningPool = learningWords.length > 0 && toLearnWords.length === 0;
         }
 
         if (candidatePool.length === 0) {
@@ -182,29 +186,53 @@ class LearningSystem {
             return availableWords[Math.floor(Math.random() * availableWords.length)];
         }
 
-        // Sort candidates by priority:
-        // 1. Never seen before (last_seen is null)
-        // 2. Least recently seen
-        // 3. Lower correct streak (needs more practice)
-        candidatePool.sort((a, b) => {
-            const statsA = user.words[this.getWordId(a)];
-            const statsB = user.words[this.getWordId(b)];
+        if (isLearningPool) {
+            // Weighted random selection for learning pool
+            // Lower streak = higher weight = higher probability
+            // Formula: weight = 1 / (streak + 1)
+            const weights = candidatePool.map(word => {
+                const stats = user.words[this.getWordId(word)];
+                return 1 / (stats.correct_streak + 1);
+            });
 
-            // Prioritize never seen
-            if (!statsA.last_seen && statsB.last_seen) return -1;
-            if (statsA.last_seen && !statsB.last_seen) return 1;
+            // Calculate total weight
+            const totalWeight = weights.reduce((sum, w) => sum + w, 0);
 
-            // Then by last seen (ascending - oldest first)
-            if (statsA.last_seen !== statsB.last_seen) {
-                return (statsA.last_seen || '') < (statsB.last_seen || '') ? -1 : 1;
+            // Generate random number and select word
+            const random = Math.random() * totalWeight;
+            let cumulativeWeight = 0;
+
+            for (let i = 0; i < candidatePool.length; i++) {
+                cumulativeWeight += weights[i];
+                if (random <= cumulativeWeight) {
+                    return candidatePool[i];
+                }
             }
 
-            // Then by correct streak (ascending - lower streak first)
-            return statsA.correct_streak - statsB.correct_streak;
-        });
+            // Fallback
+            return candidatePool[0];
+        } else {
+            // Deterministic selection for to_learn pool
+            // Sort by: 1) Frequency (higher first), 2) Never seen, 3) Least recently seen
+            candidatePool.sort((a, b) => {
+                const statsA = user.words[this.getWordId(a)];
+                const statsB = user.words[this.getWordId(b)];
 
-        // Return the best candidate
-        return candidatePool[0];
+                // Prioritize by frequency (higher frequency = more common = learn first)
+                if (a.frequency !== b.frequency) {
+                    return b.frequency - a.frequency; // Descending
+                }
+
+                // Then prioritize never seen
+                if (!statsA.last_seen && statsB.last_seen) return -1;
+                if (statsA.last_seen && !statsB.last_seen) return 1;
+
+                // Then by last seen (ascending - oldest first)
+                return (statsA.last_seen || '') < (statsB.last_seen || '') ? -1 : 1;
+            });
+
+            return candidatePool[0];
+        }
     }
 
     /**

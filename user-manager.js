@@ -7,9 +7,10 @@ class UserManager {
     constructor() {
         this.currentUser = null;
         this.storagePrefix = 'lexpresso_user_';
-        // Use the same host as the page for API calls (works on phone and computer)
+        // Use the same host and protocol as the page for API calls (works on phone, computer, and ngrok)
+        const protocol = window.location.protocol || 'http:';
         const host = window.location.host || 'localhost:8000';
-        this.apiUrl = `http://${host}/api`;
+        this.apiUrl = `${protocol}//${host}/api`;
     }
 
     /**
