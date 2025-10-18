@@ -12,7 +12,10 @@ let gameState = {
     selectedRight: null,
     wordPool: [], // All available words
     currentWords: [], // Currently displayed 5 words
-    pendingMatches: 0 // Count matches before refreshing with new words
+    pendingMatches: 0, // Count matches before refreshing with new words
+    leftCyclePosition: 0, // Track position in 1-5 cycle (0-4 index)
+    lastAutoSelectedPosition: -1, // Track last auto-selected position
+    autoSelectEnabled: true // Toggle for auto-selection feature
 };
 
 // Initialize on page load
@@ -141,6 +144,24 @@ function setupMenuHandlers() {
     viewStatsBtn.addEventListener('click', () => {
         showDetailedStats();
     });
+
+    // Auto-select toggle
+    const autoSelectToggle = document.getElementById('autoSelectToggle');
+    autoSelectToggle.addEventListener('change', (e) => {
+        gameState.autoSelectEnabled = e.target.checked;
+        console.log(`Auto-select ${gameState.autoSelectEnabled ? 'enabled' : 'disabled'}`);
+
+        // If enabled, auto-select the next card immediately
+        if (gameState.autoSelectEnabled) {
+            autoSelectNextLeftCard();
+        } else {
+            // If disabled, clear any current left selection
+            if (gameState.selectedLeft) {
+                gameState.selectedLeft.classList.remove('selected');
+                gameState.selectedLeft = null;
+            }
+        }
+    });
 }
 
 /**
@@ -196,8 +217,10 @@ function initializeGame() {
         return;
     }
 
-    // Reset pending matches
+    // Reset pending matches and cycle position
     gameState.pendingMatches = 0;
+    gameState.leftCyclePosition = 0;
+    gameState.lastAutoSelectedPosition = -1;
 
     // Select 5 words using smart selection
     gameState.currentWords = selectSmartWords(5);
@@ -205,7 +228,7 @@ function initializeGame() {
     console.log('Words:', gameState.currentWords.map(w => `${w.word} - ${w.translation}`));
     renderWords();
 
-    // Ensure we have exactly 5 pairs
+    // Ensure we have exactly 5 pairs (renderWords already calls autoSelectNextLeftCard)
     setTimeout(() => ensureFivePairs(), 200);
 }
 
@@ -321,6 +344,47 @@ function selectSmartWords(count) {
 }
 
 /**
+ * Auto-select the next left card in cycle (1→2→3→4→5→1→2→3...)
+ * Simplified: Always select by position, no availability checking
+ */
+function autoSelectNextLeftCard() {
+    // Check if auto-select is enabled
+    if (!gameState.autoSelectEnabled) {
+        return;
+    }
+
+    const leftColumn = document.getElementById('leftColumn');
+    if (!leftColumn) return;
+
+    const leftCards = Array.from(leftColumn.children);
+
+    // Since we always maintain 5 pairs, directly select the card at cycle position
+    const card = leftCards[gameState.leftCyclePosition];
+
+    if (card) {
+        // If this card is already selected, don't do anything (prevents double-increment)
+        if (gameState.selectedLeft === card) {
+            return;
+        }
+
+        // Clear any previous left selection
+        if (gameState.selectedLeft) {
+            gameState.selectedLeft.classList.remove('selected');
+        }
+
+        // Select the card at current position
+        gameState.selectedLeft = card;
+        card.classList.add('selected');
+
+        // Store this auto-selected position
+        gameState.lastAutoSelectedPosition = gameState.leftCyclePosition;
+
+        // Advance to next position in cycle (0→1→2→3→4→0)
+        gameState.leftCyclePosition = (gameState.leftCyclePosition + 1) % 5;
+    }
+}
+
+/**
  * Render words in grid
  */
 function renderWords() {
@@ -346,6 +410,9 @@ function renderWords() {
         const card = createWordCard(word.word, 'right', word);
         rightColumn.appendChild(card);
     });
+
+    // Auto-select first left card
+    autoSelectNextLeftCard();
 }
 
 /**
@@ -409,6 +476,31 @@ function handleCardClick(card, side, wordData) {
         }
         gameState.selectedLeft = card;
         card.classList.add('selected');
+
+        // Update cycle position based on user's choice (only if auto-select is enabled)
+        if (gameState.autoSelectEnabled) {
+            const leftColumn = document.getElementById('leftColumn');
+            const leftCards = Array.from(leftColumn.children);
+            const cardPosition = leftCards.indexOf(card);
+
+            if (cardPosition !== -1) {
+                // Rule: if user selects position that is 2 backwards from last auto-selected,
+                // skip over the empty position (set cycle to cardPosition + 2)
+                // Check: cardPosition == (lastAutoSelectedPosition - 2) % 5
+                // Handle negative modulo: ((x - 2) % 5 + 5) % 5
+                const twoBackwards = ((gameState.lastAutoSelectedPosition - 2) % 5 + 5) % 5;
+
+                if (cardPosition === twoBackwards) {
+                    // Skip over the empty position
+                    gameState.leftCyclePosition = (cardPosition + 2) % 5;
+                    console.log(`User selected ${cardPosition} (2 back from ${gameState.lastAutoSelectedPosition}), skipping empty, cycle = ${gameState.leftCyclePosition}`);
+                } else {
+                    // Normal case: update cycle to next position after selected
+                    gameState.leftCyclePosition = (cardPosition + 1) % 5;
+                    console.log(`User selected ${cardPosition}, normal cycle update = ${gameState.leftCyclePosition}`);
+                }
+            }
+        }
     } else {
         // Deselect previous right card if any
         if (gameState.selectedRight) {
@@ -457,6 +549,9 @@ function checkMatch() {
         if (result.statusChange === 'learned') {
             showNotification('🎉 Word learned!');
         }
+
+        // Auto-select next left card immediately for fast clicking
+        setTimeout(() => autoSelectNextLeftCard(), 50);
 
         setTimeout(() => {
             // Remove matched cards
@@ -645,7 +740,7 @@ function handleGraduationFlow(totalEmptySpots) {
 
     console.log('=== Graduation Flow Complete ===');
 
-    // Ensure we always have 5 pairs
+    // Ensure we always have 5 pairs (auto-select already called after match)
     setTimeout(() => ensureFivePairs(), 200);
 }
 
@@ -859,7 +954,7 @@ function addNewWordsAndRefresh() {
         fillEmptySpots(wordsToShow);
     }
 
-    // Ensure we always have 5 pairs
+    // Ensure we always have 5 pairs (auto-select already called after match)
     setTimeout(() => ensureFivePairs(), 200);
 }
 

@@ -441,6 +441,51 @@ main {
     border-color: #667eea;
 }
 
+.toggle-option {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.toggle-option label {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    cursor: pointer;
+}
+
+.toggle-option input[type="checkbox"] {
+    width: 50px;
+    height: 26px;
+    appearance: none;
+    background: #ccc;
+    border-radius: 13px;
+    position: relative;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.toggle-option input[type="checkbox"]:checked {
+    background: #58cc02;
+}
+
+.toggle-option input[type="checkbox"]::before {
+    content: '';
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    background: white;
+    top: 2px;
+    left: 2px;
+    transition: transform 0.3s ease;
+}
+
+.toggle-option input[type="checkbox"]:checked::before {
+    transform: translateX(24px);
+}
+
 .btn-close {
     width: 100%;
     background: #666;

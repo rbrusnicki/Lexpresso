@@ -6,7 +6,7 @@
 class LearningSystem {
     constructor(userManager) {
         this.userManager = userManager;
-        this.LEARNING_POOL_SIZE = 10; // Target size of learning pool
+        this.LEARNING_POOL_SIZE = 15; // Target size of learning pool
         this.LEARNED_THRESHOLD = 10; // Consecutive correct answers
         this.DAILY_GOAL = 50; // Words to learn per day
     }
