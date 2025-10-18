@@ -211,12 +211,6 @@ async function loadWords() {
  * Initialize game with smart word selection
  */
 function initializeGame() {
-    // Check if daily goal is reached
-    if (learningSystem.isDailyGoalReached()) {
-        showDailyGoalComplete();
-        return;
-    }
-
     // Reset pending matches and cycle position
     gameState.pendingMatches = 0;
     gameState.leftCyclePosition = 0;
@@ -573,17 +567,9 @@ function checkMatch() {
                 // Update stats display
                 updateStatsDisplay();
 
-                // Check if daily goal is reached
-                if (learningSystem.isDailyGoalReached()) {
-                    // Show completion after all cards are cleared
-                    if (gameState.currentWords.length === 0) {
-                        setTimeout(() => {
-                            showDailyGoalComplete();
-                        }, 500);
-                    }
-                } else {
-                    // Check if word moved to learned (new flow: review then refill)
-                    if (result.statusChange === 'learned') {
+                // Always continue gameplay, no daily goal limit
+                // Check if word moved to learned (new flow: review then refill)
+                if (result.statusChange === 'learned') {
                         console.log('Word graduated to learned! Checking for learned words to review...');
                         // On graduation, we need to:
                         // 1. Show learned word for review (if any exist)
@@ -602,15 +588,14 @@ function checkMatch() {
                             handleGraduationFlow(2);
                             gameState.pendingMatches = 0;
                         }
-                    } else {
-                        // Normal flow: increment pending matches
-                        gameState.pendingMatches++;
+                } else {
+                    // Normal flow: increment pending matches
+                    gameState.pendingMatches++;
 
-                        // After 2 matches, add new words and refresh display
-                        if (gameState.pendingMatches >= 2) {
-                            gameState.pendingMatches = 0;
-                            addNewWordsAndRefresh();
-                        }
+                    // After 2 matches, add new words and refresh display
+                    if (gameState.pendingMatches >= 2) {
+                        gameState.pendingMatches = 0;
+                        addNewWordsAndRefresh();
                     }
                 }
             }, 300);
