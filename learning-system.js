@@ -6,7 +6,7 @@
 class LearningSystem {
     constructor(userManager) {
         this.userManager = userManager;
-        this.LEARNING_POOL_SIZE = 15; // Target size of learning pool
+        this.LEARNING_POOL_SIZE = 20; // Target size of learning pool
         this.LEARNED_THRESHOLD = 10; // Consecutive correct answers
         this.DAILY_GOAL = 50; // Words to learn per day
     }
@@ -209,36 +209,107 @@ class LearningSystem {
 
     /**
      * Select a learned word for review (called after graduation)
+     * Reviews from ALL learned words in user's history, not just current pool
      * Prioritize: 1) Lower streak, 2) Oldest last_seen
+     * Applies anti-ambiguity checks
      */
-    selectLearnedWordForReview(availableWords) {
+    selectLearnedWordForReview(currentlyDisplayedWordIds, currentDisplayWords, currentUsedOriginalWords) {
         const user = this.userManager.getCurrentUser();
 
-        // Filter to learned words only
-        const learnedWords = availableWords.filter(word => {
-            const stats = user.words[this.getWordId(word)];
-            return stats && stats.status === 'learned';
-        });
+        // Get ALL learned words from user's entire history
+        const allLearnedWords = [];
+        for (const [wordId, stats] of Object.entries(user.words)) {
+            if (stats.status === 'learned') {
+                // Skip if already displayed on screen (exact word ID)
+                if (currentlyDisplayedWordIds.has(wordId)) {
+                    continue;
+                }
 
-        if (learnedWords.length === 0) {
+                // Reconstruct word object from wordId (format: "german|english")
+                const [germanWord, englishWord] = wordId.split('|');
+
+                // Anti-ambiguity check: skip if German or English word would duplicate
+                if (currentDisplayWords.germanWords.has(germanWord.toLowerCase()) ||
+                    currentDisplayWords.englishWords.has(englishWord.toLowerCase())) {
+                    continue;
+                }
+
+                const wordObj = {
+                    word: germanWord,
+                    translation: englishWord,
+                    frequency: stats.frequency || 1,
+                    level: stats.level || 'A1',
+                    word_type: stats.word_type || 'Unknown',
+                    original_id: wordId // Use wordId as original_id for learned words
+                };
+
+                // Check if this word would create ambiguity with original entries
+                // For learned words, we use the wordId as original_id
+                const wouldConflict = this.checkOriginalIdConflict(
+                    wordId,
+                    currentUsedOriginalWords
+                );
+
+                if (!wouldConflict) {
+                    allLearnedWords.push({ word: wordObj, stats: stats });
+                }
+            }
+        }
+
+        if (allLearnedWords.length === 0) {
             return null;
         }
 
-        // Sort by: 1) Lower streak (riskier), 2) Oldest last_seen
-        learnedWords.sort((a, b) => {
-            const statsA = user.words[this.getWordId(a)];
-            const statsB = user.words[this.getWordId(b)];
-
-            // Prioritize lower streak (closer to threshold = more at risk)
-            if (statsA.correct_streak !== statsB.correct_streak) {
-                return statsA.correct_streak - statsB.correct_streak;
-            }
-
-            // Then by last seen (oldest first)
-            return (statsA.last_seen || '') < (statsB.last_seen || '') ? -1 : 1;
+        // Weighted random selection based on streak
+        // Lower streak = higher weight = higher probability
+        // Formula: weight = 1 / (streak - LEARNED_THRESHOLD + 1)
+        // This creates exponential decay favoring lower streaks
+        const weights = allLearnedWords.map(item => {
+            const streakAboveThreshold = item.stats.correct_streak - this.LEARNED_THRESHOLD;
+            return 1 / (streakAboveThreshold + 1);
         });
 
-        return learnedWords[0];
+        // Calculate total weight
+        const totalWeight = weights.reduce((sum, w) => sum + w, 0);
+
+        // Generate random number and select word
+        const random = Math.random() * totalWeight;
+        let cumulativeWeight = 0;
+
+        for (let i = 0; i < allLearnedWords.length; i++) {
+            cumulativeWeight += weights[i];
+            if (random <= cumulativeWeight) {
+                return allLearnedWords[i].word;
+            }
+        }
+
+        // Fallback (should never reach here)
+        return allLearnedWords[0].word;
+    }
+
+    /**
+     * Check if an original_id would create ambiguity with already-selected words
+     */
+    checkOriginalIdConflict(originalId, usedOriginalWords) {
+        const [germanPart, englishPart] = originalId.split('|');
+        const germanWords = germanPart.split(',').map(w => w.trim().toLowerCase());
+        const englishWords = englishPart.split(',').map(w => w.trim().toLowerCase());
+
+        // Check if any German word from this original entry conflicts
+        for (const germanWord of germanWords) {
+            if (usedOriginalWords.germanWords.has(germanWord)) {
+                return true;
+            }
+        }
+
+        // Check if any English word from this original entry conflicts
+        for (const englishWord of englishWords) {
+            if (usedOriginalWords.englishWords.has(englishWord)) {
+                return true;
+            }
+        }
+
+        return false;
     }
 
     /**

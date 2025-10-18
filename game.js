@@ -631,6 +631,9 @@ function checkMatch() {
 
             // Update stats display
             updateStatsDisplay();
+
+            // Re-trigger auto-selection if enabled
+            autoSelectNextLeftCard();
         }, 500);
     }
 }
@@ -665,15 +668,17 @@ function handleGraduationFlow(totalEmptySpots) {
 
     const wordsToShow = [];
 
-    // Step 1: Try to get a learned word for review
-    let availablePool = gameState.wordPool.filter(word => {
-        if (currentUsedOriginalIds.has(word.original_id)) return false;
-        if (currentDisplayWords.germanWords.has(word.word.toLowerCase())) return false;
-        if (currentDisplayWords.englishWords.has(word.translation.toLowerCase())) return false;
-        return !wouldCreateAmbiguity(word, currentUsedOriginalWords);
-    });
+    // Step 1: Try to get a learned word for review from ALL learned words
+    // Pass currently displayed info to apply anti-ambiguity checks
+    const currentlyDisplayedWordIds = new Set(
+        gameState.currentWords.map(w => `${w.word}|${w.translation}`)
+    );
 
-    const learnedWord = learningSystem.selectLearnedWordForReview(availablePool);
+    const learnedWord = learningSystem.selectLearnedWordForReview(
+        currentlyDisplayedWordIds,
+        currentDisplayWords,
+        currentUsedOriginalWords
+    );
 
     if (learnedWord) {
         console.log(`Adding learned word for review: ${learnedWord.word} - ${learnedWord.translation}`);
