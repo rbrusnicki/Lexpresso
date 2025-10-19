@@ -52,7 +52,7 @@ Each user file contains:
 
 - **to_learn**: Words not yet seen
 - **learning**: Words being actively practiced (max 50)
-- **learned**: Words mastered (10+ consecutive correct answers)
+- **learned**: Words mastered (3+ consecutive correct answers)
 
 ## Managing Your Data
 

@@ -193,4 +193,6 @@ To access from your smartphone:
         print("\n\nServer stopped.")
 
 if __name__ == '__main__':
-    run_server()
+    # Use PORT from environment variable (for cloud platforms) or default to 80 for web hosting
+    port = int(os.environ.get('PORT', 80))
+    run_server(port)

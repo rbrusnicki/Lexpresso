@@ -1,0 +1,2 @@
+# Lexpresso has no external dependencies
+# Uses Python 3.6+ standard library only

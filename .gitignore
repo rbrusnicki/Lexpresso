@@ -1,8 +1,3 @@
-# Internal documentation
-BEHAVIOR.md
-RULES.md
-SETUP.md
-
 # Python cache
 __pycache__/
 *.py[cod]
@@ -43,3 +38,13 @@ venv/
 env/
 ENV/
 .venv
+
+# Analysis/test scripts (keep local)
+analyze_progress.py
+test_learned_review.py
+
+# Generated images
+*.png
+
+# Temporary files
+nul

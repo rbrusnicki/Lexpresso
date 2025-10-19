@@ -39,13 +39,13 @@ Match German words with their English translations. The app tracks your progress
 **Three-Pool Algorithm:**
 
 1. **To Learn**: New words not yet practiced
-2. **Learning**: Words being actively practiced (max 10 at a time)
-3. **Learned**: Mastered words (10 consecutive correct answers)
+2. **Learning**: Words being actively practiced (max 50 at a time)
+3. **Learned**: Mastered words (3 consecutive correct answers)
 
 **Word Selection Logic:**
-- Learning pool < 10: System selects new words from "To Learn"
-- Learning pool = 10: System resamples from the "Learning" pool
-- After mastery: System reviews learned words and introduces new ones
+- Learning pool < 50: System selects new words from "To Learn" (frequency-sorted)
+- Learning pool = 50: System resamples from the "Learning" pool (weighted random)
+- After mastery: System reviews learned words (weighted random) and introduces new ones
 
 ### Game Mechanics
 
@@ -101,7 +101,7 @@ User progress is saved to `user_stats/{username}.json` after every answer:
   "words": {
     "haben|to have": {
       "status": "learning",
-      "correct_streak": 5,
+      "correct_streak": 2,
       "total_correct": 8,
       "total_incorrect": 2,
       "last_seen": "2025-10-17T12:34:56Z"

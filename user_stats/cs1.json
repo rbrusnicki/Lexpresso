@@ -1,6 +1,6 @@
 {
   "username": "cs1",
-  "displayName": "cs1",
+  "displayName": "Cs1",
   "created_date": "2025-10-17",
   "current_level": "A1",
   "total_sessions": 0,
@@ -18741,6 +18741,13 @@
       "correct": 435,
       "incorrect": 13,
       "session_start": "2025-10-18T09:37:05.000Z"
+    },
+    "2025-10-19": {
+      "words_learned": 0,
+      "total_attempts": 0,
+      "correct": 0,
+      "incorrect": 0,
+      "session_start": "2025-10-19T14:01:49.900Z"
     }
   },
   "settings": {
