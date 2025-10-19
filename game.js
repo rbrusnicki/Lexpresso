@@ -99,14 +99,50 @@ function setupMenuHandlers() {
     const importFileInput = document.getElementById('importFileInput');
     const logoutBtn = document.getElementById('logoutBtn');
 
+    // Track pending level change
+    let pendingLevelChange = null;
+
     // Open menu
     menuBtn.addEventListener('click', () => {
         menuModal.classList.add('show');
     });
 
-    // Close menu
-    closeMenuBtn.addEventListener('click', () => {
+    // Close menu - apply level change if needed
+    closeMenuBtn.addEventListener('click', async () => {
+        console.log('Close button clicked, pendingLevelChange:', pendingLevelChange);
         menuModal.classList.remove('show');
+
+        // Apply pending level change
+        if (pendingLevelChange) {
+            const newLevel = pendingLevelChange;
+            pendingLevelChange = null;
+
+            const user = userManager.getCurrentUser();
+            console.log('Before change - user.current_level:', user.current_level);
+
+            user.current_level = newLevel;
+            await userManager.saveCurrentUser();
+
+            console.log('After change - user.current_level:', user.current_level);
+            console.log(`Switched to level ${newLevel}`);
+
+            // Reload words from new level
+            console.log('Loading words for level:', newLevel);
+            await loadWords();
+            console.log('Word pool now has', gameState.wordPool.length, 'words');
+
+            // Reinitialize game with new words
+            console.log('Reinitializing game with new word pool');
+            initializeGame();
+
+            // Update stats display
+            updateStatsDisplay();
+            console.log('Stats updated, level badge should show:', newLevel);
+
+            alert(`Level changed to ${newLevel}! New words loaded.`);
+        } else {
+            console.log('No pending level change');
+        }
     });
 
     // Export data
@@ -160,6 +196,32 @@ function setupMenuHandlers() {
                 gameState.selectedLeft.classList.remove('selected');
                 gameState.selectedLeft = null;
             }
+        }
+    });
+
+    // Level selector
+    const levelSelect = document.getElementById('levelSelect');
+    // Set initial value from user data
+    const currentUser = userManager.getCurrentUser();
+    if (currentUser) {
+        levelSelect.value = currentUser.current_level;
+    }
+
+    levelSelect.addEventListener('change', (e) => {
+        const newLevel = e.target.value;
+        const user = userManager.getCurrentUser();
+
+        console.log('Level selector changed to:', newLevel);
+        console.log('Current level:', user.current_level);
+
+        if (user.current_level !== newLevel) {
+            // Store the pending change - will be applied when Close is clicked
+            pendingLevelChange = newLevel;
+            console.log(`✓ Level change pending: ${user.current_level} → ${newLevel}`);
+        } else {
+            // No change needed
+            pendingLevelChange = null;
+            console.log('No change needed, same level selected');
         }
     });
 }
@@ -1014,6 +1076,10 @@ function updateStatsDisplay() {
     const today = stats.today;
 
     // Update stats panel
+    const currentUser = userManager.getCurrentUser();
+    if (currentUser) {
+        document.getElementById('currentLevel').textContent = currentUser.current_level;
+    }
     document.getElementById('todayGoal').textContent =
         `${today.learned} / ${today.goal}`;
     document.getElementById('learningCount').textContent = pools.learning;

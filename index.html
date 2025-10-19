@@ -44,6 +44,10 @@
 
                 <div class="stats-panel">
                     <div class="stat-item">
+                        <span class="stat-label">Level</span>
+                        <span class="stat-value level-badge" id="currentLevel">A1</span>
+                    </div>
+                    <div class="stat-item">
                         <span class="stat-label">Today's Goal</span>
                         <span class="stat-value" id="todayGoal">0 / 50</span>
                     </div>
@@ -95,6 +99,19 @@
                     <label for="autoSelectToggle">
                         <span>🎯 Auto-select left words</span>
                         <input type="checkbox" id="autoSelectToggle" checked>
+                    </label>
+                </div>
+                <div class="menu-option level-selector">
+                    <label for="levelSelect">
+                        <span>📚 Learning Level</span>
+                        <select id="levelSelect" class="level-dropdown">
+                            <option value="A1">A1 - Beginner</option>
+                            <option value="A2">A2 - Elementary</option>
+                            <option value="B1">B1 - Intermediate</option>
+                            <option value="B2">B2 - Upper Intermediate</option>
+                            <option value="C1">C1 - Advanced</option>
+                            <option value="C2">C2 - Proficient</option>
+                        </select>
                     </label>
                 </div>
                 <button class="menu-option" id="exportDataBtn">📥 Export Progress</button>
