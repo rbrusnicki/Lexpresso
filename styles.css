@@ -10,7 +10,7 @@ body {
     min-height: 100vh;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
     padding: 20px;
 }
 
@@ -94,11 +94,12 @@ body {
 /* App Container */
 .app-container {
     width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
 }
 
 .container {
     width: 100%;
-    max-width: 900px;
 }
 
 header {
@@ -361,6 +362,49 @@ main {
     font-size: 1.3em;
     color: #333;
     margin-bottom: 30px;
+}
+
+.completion-buttons {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.btn-continue {
+    background: linear-gradient(135deg, #58cc02 0%, #45a002 100%);
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 25px;
+    font-size: 1.1em;
+    font-weight: 600;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+    flex: 1;
+    max-width: 200px;
+}
+
+.btn-continue:hover {
+    transform: scale(1.05);
+}
+
+.btn-stop {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 25px;
+    font-size: 1.1em;
+    font-weight: 600;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+    flex: 1;
+    max-width: 200px;
+}
+
+.btn-stop:hover {
+    transform: scale(1.05);
 }
 
 .btn-restart {

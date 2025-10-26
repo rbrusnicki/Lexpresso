@@ -32,11 +32,16 @@ You can host Lexpresso on your own computer and point **www.brusnicki.com** dire
    - Visit: lexpresso.brusnicki.com
    - Your app is live!
 
-6. **MyFRITZ! Setup** (3 min - Optional but recommended)
+6. **Auto-Start on Boot** (2 min - Recommended)
+   - Open PowerShell as Administrator
+   - Run: `.\setup_autostart.ps1`
+   - Server now starts automatically when Windows boots!
+
+7. **MyFRITZ! Setup** (3 min - Optional but recommended)
    - Internet → MyFRITZ! Account
    - Handles dynamic IP automatically!
 
-**Total time: ~15 minutes + 15-30 min DNS wait**
+**Total time: ~20 minutes + 15-30 min DNS wait**
 
 Detailed instructions below ⬇️
 
@@ -126,7 +131,7 @@ FRITZ!Box routers have a very user-friendly interface called "FRITZ!Box Fon".
 
 2. Login with your FRITZ!Box password
    - If you never changed it, check the sticker on the bottom of your router
-   - Default username is usually blank or "admin" //kurven9562
+   - Default username is usually blank or "admin"
 
 ### Set Up Port Forwarding (Port Sharing)
 
@@ -521,24 +526,27 @@ Right now you only have HTTP (not secure). For HTTPS, you need an SSL certificat
    - Settings → Windows Update → Advanced options
    - Disable automatic restart
 
-3. **Auto-start server on boot** (optional):
-   - Create a `.bat` file to start the server
-   - Add to Windows startup folder
+3. **Auto-start server on boot:**
+   - Use the automated setup script included with Lexpresso
+   - See AUTOSTART_SETUP.md for complete instructions
 
-### Create Auto-Start Script
+### Automated Auto-Start Setup (Recommended)
 
-Create `start_lexpresso.bat`:
-```batch
-@echo off
-cd C:\Users\Administrator\Documents\Lexpresso
-python server.py
-pause
-```
+Lexpresso includes an automated setup script that configures Windows Task Scheduler:
 
-**Add to startup:**
-1. Press `Win + R`, type `shell:startup`, press Enter
-2. Create shortcut to your `.bat` file
-3. Server will auto-start when Windows boots
+**Quick Setup:**
+1. Open PowerShell as Administrator
+2. Navigate to: `C:\Users\Administrator\Documents\Lexpresso`
+3. Run: `.\setup_autostart.ps1`
+
+This creates a Windows Task Scheduler task that:
+- Starts server automatically on boot
+- Runs as SYSTEM account (works without user login)
+- Auto-restarts if it crashes (up to 3 times)
+- Works even when no user is logged in
+
+**For detailed instructions, troubleshooting, and manual setup options:**
+- See **AUTOSTART_SETUP.md** in the Lexpresso folder
 
 ---
 
@@ -555,7 +563,7 @@ After setup, verify these:
 - [x] You can access site via subdomain from outside your network
 - [x] Existing homepage (www.brusnicki.com) still works
 - [ ] User data saves properly - test by creating account and learning words
-- [ ] Server auto-starts if computer reboots (optional, see Step 8)
+- [x] Server auto-starts if computer reboots (see Step 8 and AUTOSTART_SETUP.md)
 
 ---
 
@@ -657,6 +665,13 @@ python server.py
 
 # 8. Wait 15-30 minutes, then visit lexpresso.brusnicki.com
 # Success! Your app is live on the internet!
+
+# 9. Set up auto-start on Windows boot (recommended)
+# Open PowerShell as Administrator, then:
+cd C:\Users\Administrator\Documents\Lexpresso
+.\setup_autostart.ps1
+# This creates a Task Scheduler task to start the server automatically
+# See AUTOSTART_SETUP.md for details
 ```
 
 ---

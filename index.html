@@ -59,10 +59,6 @@
                         <span class="stat-label">Learned</span>
                         <span class="stat-value" id="learnedCount">0</span>
                     </div>
-                    <div class="stat-item">
-                        <span class="stat-label">Accuracy</span>
-                        <span class="stat-value" id="accuracyPercent">0%</span>
-                    </div>
                 </div>
 
                 <div class="progress-bar">
@@ -82,10 +78,13 @@
 
                 <div class="completion-screen" id="completionScreen">
                     <div class="completion-content">
-                        <h2>Great Session!</h2>
-                        <p id="completionMessage">You've learned 50 words today!</p>
+                        <h2>🎉 Congratulations!</h2>
+                        <p id="completionMessage">You've reached your daily goal!</p>
                         <div class="completion-stats" id="completionStats"></div>
-                        <button class="btn-restart" onclick="location.reload()">Continue Tomorrow</button>
+                        <div class="completion-buttons">
+                            <button class="btn-continue" id="continuePracticingBtn">Keep Practicing</button>
+                            <button class="btn-stop" id="stopForTodayBtn">Stop for Today</button>
+                        </div>
                     </div>
                 </div>
             </main>

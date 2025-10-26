@@ -48,3 +48,6 @@ test_learned_review.py
 
 # Temporary files
 nul
+
+# User data (personal learning stats)
+user_stats/

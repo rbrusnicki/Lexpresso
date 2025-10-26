@@ -15,7 +15,8 @@ let gameState = {
     pendingMatches: 0, // Count matches before refreshing with new words
     leftCyclePosition: 0, // Track position in 1-5 cycle (0-4 index)
     lastAutoSelectedPosition: -1, // Track last auto-selected position
-    autoSelectEnabled: true // Toggle for auto-selection feature
+    autoSelectEnabled: true, // Toggle for auto-selection feature
+    dailyGoalShown: false // Track if daily goal popup has been shown
 };
 
 // Initialize on page load
@@ -235,18 +236,30 @@ function showDetailedStats() {
     const user = userManager.getCurrentUser();
     const displayName = user.displayName || user.username;
 
-    alert(`📊 Your Statistics\n\n` +
-          `User: ${displayName}\n` +
-          `Level: ${stats.level}\n` +
-          `Total Words Tracked: ${stats.totalWords}\n\n` +
-          `📚 Pool Status:\n` +
-          `• To Learn: ${pools.to_learn}\n` +
-          `• Learning: ${pools.learning}\n` +
-          `• Learned: ${pools.learned}\n\n` +
-          `📅 Today:\n` +
+    // Calculate total correct and incorrect across all words
+    let totalCorrect = 0;
+    let totalIncorrect = 0;
+    Object.values(user.words).forEach(wordStats => {
+        totalCorrect += wordStats.total_correct || 0;
+        totalIncorrect += wordStats.total_incorrect || 0;
+    });
+
+    const totalAttempts = totalCorrect + totalIncorrect;
+    const overallAccuracy = totalAttempts > 0
+        ? Math.round((totalCorrect / totalAttempts) * 100)
+        : 0;
+
+    alert(`🎯 Your Progress\n\n` +
+          `👤 ${displayName}\n` +
+          `📚 Level: ${stats.level}\n\n` +
+          `🏆 Total Achievement:\n` +
+          `• Words Mastered: ${pools.learned}\n` +
+          `• Correct Answers: ${totalCorrect}\n` +
+          `• Overall Accuracy: ${overallAccuracy}%\n\n` +
+          `📅 Today's Session:\n` +
           `• Words Learned: ${stats.today.learned} / ${stats.today.goal}\n` +
-          `• Attempts: ${stats.today.attempts}\n` +
-          `• Accuracy: ${stats.accuracy}%`
+          `• Today's Accuracy: ${stats.accuracy}%\n\n` +
+          `💪 Keep going! You're doing great!`
     );
 
     document.getElementById('menuModal').classList.remove('show');
@@ -628,6 +641,9 @@ function checkMatch() {
 
                 // Update stats display
                 updateStatsDisplay();
+
+                // Check if daily goal reached
+                checkDailyGoalCompletion();
 
                 // Always continue gameplay, no daily goal limit
                 // Check if word moved to learned (new flow: review then refill)
@@ -1084,7 +1100,6 @@ function updateStatsDisplay() {
         `${today.learned} / ${today.goal}`;
     document.getElementById('learningCount').textContent = pools.learning;
     document.getElementById('learnedCount').textContent = pools.learned;
-    document.getElementById('accuracyPercent').textContent = `${stats.accuracy}%`;
 
     // Update progress bar
     const progressPercent = (today.learned / today.goal) * 100;
@@ -1100,6 +1115,23 @@ function showNotification(message) {
 }
 
 /**
+ * Check if daily goal is completed and show congratulations (only once per day)
+ */
+function checkDailyGoalCompletion() {
+    const stats = learningSystem.getStatsSummary();
+    const user = userManager.getCurrentUser();
+
+    // Check if goal reached and not already shown today
+    if (stats.today.learned >= stats.today.goal) {
+        // Use a flag to show the popup only once per session
+        if (!gameState.dailyGoalShown) {
+            gameState.dailyGoalShown = true;
+            showDailyGoalComplete();
+        }
+    }
+}
+
+/**
  * Show daily goal completion screen
  */
 function showDailyGoalComplete() {
@@ -1109,18 +1141,32 @@ function showDailyGoalComplete() {
     const completionStats = document.getElementById('completionStats');
 
     completionMessage.textContent =
-        `Congratulations! You've learned ${stats.today.learned} words today!`;
+        `You've learned ${stats.today.learned} words today! Amazing work!`;
 
     completionStats.innerHTML = `
-        <p><strong>Total Attempts:</strong> ${stats.today.attempts}</p>
-        <p><strong>Correct:</strong> ${stats.today.correct}</p>
-        <p><strong>Incorrect:</strong> ${stats.today.incorrect}</p>
-        <p><strong>Accuracy:</strong> ${stats.accuracy}%</p>
-        <p><strong>Words Learning:</strong> ${stats.pools.learning}</p>
-        <p><strong>Words Learned:</strong> ${stats.pools.learned}</p>
+        <p>🎯 <strong>Daily Goal:</strong> ${stats.today.learned} / ${stats.today.goal}</p>
+        <p>🏆 <strong>Words Mastered:</strong> ${stats.pools.learned}</p>
+        <p>✅ <strong>Today's Accuracy:</strong> ${stats.accuracy}%</p>
+        <p>💪 <strong>Keep it up!</strong></p>
     `;
 
     completionScreen.classList.add('show');
+
+    // Set up button handlers
+    const continuePracticingBtn = document.getElementById('continuePracticingBtn');
+    const stopForTodayBtn = document.getElementById('stopForTodayBtn');
+
+    // Continue practicing - just close the modal
+    continuePracticingBtn.onclick = () => {
+        completionScreen.classList.remove('show');
+        console.log('User chose to continue practicing beyond daily goal');
+    };
+
+    // Stop for today - reload the page
+    stopForTodayBtn.onclick = () => {
+        console.log('User chose to stop for today');
+        location.reload();
+    };
 }
 
 /**
