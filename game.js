@@ -683,6 +683,15 @@ function checkMatch() {
         leftCard.classList.add('incorrect');
         rightCard.classList.add('incorrect');
 
+        // Reveal the correct right-side answer in green so the user learns the pairing
+        const rightColumn = document.getElementById('rightColumn');
+        const correctRightCard = rightColumn
+            ? Array.from(rightColumn.children).find(c => c.dataset.wordId === leftId)
+            : null;
+        if (correctRightCard && correctRightCard !== rightCard) {
+            correctRightCard.classList.add('reveal-correct');
+        }
+
         // Show notification if learned word was unlearned
         if (result.statusChange === 'unlearned') {
             showNotification('⚠️ Word moved back to learning');
@@ -691,6 +700,9 @@ function checkMatch() {
         setTimeout(() => {
             leftCard.classList.remove('selected', 'incorrect');
             rightCard.classList.remove('selected', 'incorrect');
+            if (correctRightCard) {
+                correctRightCard.classList.remove('reveal-correct');
+            }
 
             // Update stats display
             updateStatsDisplay();

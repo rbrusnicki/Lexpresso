@@ -281,6 +281,13 @@ main {
     pointer-events: none;
 }
 
+.word-card.reveal-correct {
+    border-color: #58cc02;
+    background: #d7ffb8;
+    animation: correctPulse 0.5s ease;
+    pointer-events: none;
+}
+
 .word-card.correct {
     pointer-events: none;
 }
