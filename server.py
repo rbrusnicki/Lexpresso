@@ -52,7 +52,7 @@ class LexpressoHandler(SimpleHTTPRequestHandler):
                     self.send_header('Content-Type', 'application/json')
                     self.end_headers()
                     self.wfile.write(json.dumps(user_data).encode('utf-8'))
-                    print(f"✓ Loaded user: {username}")
+                    print(f"[OK] Loaded user: {username}")
                 except ConnectionAbortedError:
                     # Client disconnected, ignore
                     pass
@@ -132,7 +132,7 @@ class LexpressoHandler(SimpleHTTPRequestHandler):
                 self.send_header('Content-Type', 'application/json')
                 self.end_headers()
                 self.wfile.write(json.dumps({'success': True}).encode('utf-8'))
-                print(f"✓ Saved user: {username} ({len(user_data.get('words', {}))} words)")
+                print(f"[OK] Saved user: {username} ({len(user_data.get('words', {}))} words)")
 
             except ConnectionAbortedError:
                 # Client disconnected, but file was saved successfully
